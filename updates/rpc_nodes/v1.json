@@ -3,7 +3,7 @@
     {
       "name": "etherscan",
       "endpoint": "",
-      "weight": 0.3,
+      "weight": 0.2,
       "owned": false,
       "active": true,
       "blockchain": "ETH"
@@ -17,9 +17,17 @@
       "blockchain": "ETH"
     },
     {
+      "name": "LlamaNodes",
+      "endpoint": "https://eth.llamarpc.com",
+      "weight": 0.2,
+      "owned": false,
+      "active": true,
+      "blockchain": "ETH"
+    },
+    {
       "name": "flashbots",
       "endpoint": "https://rpc.flashbots.net/",
-      "weight": 0.2,
+      "weight": 0.1,
       "owned": false,
       "active": true,
       "blockchain": "ETH"
