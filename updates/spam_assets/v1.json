@@ -1255,6 +1255,13 @@
       "symbol": "Visit opclaim.com to claim rewards",
       "decimals": 18,
       "chain": "optimism"
+    },
+    {
+      "address": "0x60C81ce152a565B4d45C6E666F254c33b0330CB6",
+      "name": "AbroShib.org",
+      "symbol": "Visit https://abroshib.org in order to Swap to ETH.",
+      "decimals": 0,
+      "chain": "ethereum"
     }
   ]
 }
