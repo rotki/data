@@ -89,7 +89,7 @@
         "blockchain": "OPTIMISM"
       },
       {
-        "name": "polygon etherscan",
+        "name": "polygon pos etherscan",
         "endpoint": "",
         "weight": 0.25,
         "owned": false,
