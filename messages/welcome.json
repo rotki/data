@@ -1,9 +1,9 @@
 {
   "messages": [
     {
-      "header": "Enjoying rotki",
+      "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "Support is in Gitcoin Grants!",
+      "text": "Support us in the Gitcoin Grants 19!",
       "action": {
         "text": "Donate via Gitcoin",
         "url": "https://explorer.gitcoin.co/#/round/137/0xa1d52f9b5339792651861329a046dd912761e9a9/0xa1d52f9b5339792651861329a046dd912761e9a9-4"
