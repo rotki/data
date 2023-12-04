@@ -3,14 +3,14 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "Support us in the 19th round of Gitcoin Grants!",
+      "text": "If you are an ENS vote card holder consider helping us in the ENS Small Grants",
       "action": {
-        "text": "Donate via Gitcoin",
-        "url": "https://explorer.gitcoin.co/#/round/137/0xa1d52f9b5339792651861329a046dd912761e9a9/0xa1d52f9b5339792651861329a046dd912761e9a9-4"
+        "text": "Vote for us here",
+        "url": "https://ensgrants.xyz/rounds/33/proposals/846"
       },
       "period": {
-        "start": 1700049600,
-        "end": 1701302340
+        "start": 1701718055,
+        "end": 1702054800
       }
     }
   ]
