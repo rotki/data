@@ -12,7 +12,8 @@
    }
   },
   {
-    "message": "Support us in",
+    "message": "Enjoying rotki? Consider ",
+    "message_highlight": "supporting us in",
     "action": {
       "text": "Octant Epoch 2",
       "url": "https://octant.app/projects"
