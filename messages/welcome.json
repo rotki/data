@@ -12,6 +12,19 @@
         "start": 1701718055,
         "end": 1702054800
       }
+    },
+    {
+      "header": "Enjoying rotki?",
+      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
+      "text": "Octant Epoch 2 is happening now. rotki is also taking part.",
+      "action": {
+        "text": "Support us here",
+        "url": "https://octant.app/projects"
+      },
+      "period": {
+        "start": 1705507200,
+        "end": 1706716800
+      }
     }
   ]
 }
