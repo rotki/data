@@ -68,7 +68,8 @@
             "asset_identifier": "eip155:1/erc20:0xc770EEfAd204B5180dF6a14Ee197D99d808ee52d",
             "url": "https://shapeshift.com/shapeshift-decentralize-airdrop",
             "name": "ShapeShift",
-            "icon": "shapeshift.svg"
+            "icon": "shapeshift.svg",
+            "cutoff_time": 1634050800
         },
         "ens": {
             "csv_path": "airdrops/ens.csv",
