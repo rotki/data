@@ -11,9 +11,8 @@
                     "type": "object",
                     "additionalProperties": false,
                     "properties": {
-                        "csv_url": {
+                        "csv_path": {
                             "type": "string",
-                            "format": "uri",
                             "pattern": ".*.csv$"
                         },
                         "asset_identifier": {
@@ -131,7 +130,7 @@
                     },
                     "required": [
                         "asset_identifier",
-                        "csv_url",
+                        "csv_path",
                         "icon",
                         "name",
                         "url"
@@ -148,7 +147,6 @@
                     "items": [
                         {
                             "type": "string",
-                            "format": "uri",
                             "pattern": ".*.json$"
                         },
                         {
