@@ -40,7 +40,7 @@
             "asset_identifier": "eip155:1/erc20:0xfFffFffF2ba8F66D4e51811C5190992176930278",
             "url": "https://furucombo.app/",
             "name": "Furucombo",
-            "icon": "furucombo.svg"
+            "icon": "furucombo.png"
         },
         "lido": {
             "csv_path": "airdrops/lido_airdrop.csv",
@@ -127,6 +127,24 @@
                 "symbol": "SHU",
                 "chain_id": 1,
                 "decimals": 18
+            }
+        },
+        "starknet": {
+            "csv_path": "airdrops/starknet.csv",
+            "asset_identifier": "eip155:1/erc20:0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+            "url": "https://provisions.starknet.io/",
+            "name": "STRK",
+            "icon": "starknet.svg",
+            "icon_path": "airdrops/icons/starknet.svg",
+            "cutoff_time": 1718841600,
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+                "name": "Starknet",
+                "symbol": "STRK",
+                "chain_id": 1,
+                "decimals": 18,
+                "coingecko": "starknet"
             }
         }
     },
