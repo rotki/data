@@ -1,13 +1,23 @@
 import json
+import os
 from jsonschema import validate
 import pytest
 import requests
 
 
 def test_airdrops_metadata():
-    airdrop_index = json.load(open('airdrops/index_v1.json'))
-    index_schema = json.load(open('tests/airdrop_index_v1_schema.json'))
+    with open('airdrops/index_v1.json', 'r') as f:
+        airdrop_index = json.load(f)
+    with open('tests/airdrop_index_v1_schema.json', 'r') as f:
+        index_schema = json.load(f)
+
     validate(instance=airdrop_index, schema=index_schema)
+    
+    # check that the new files exists on their given path
+    for airdrop in airdrop_index['airdrops'].values():
+        assert os.path.exists(airdrop['csv_path'])
+        if 'icon_path' in airdrop:
+            assert os.path.exists(airdrop['icon_path'])
 
 
 @pytest.mark.skip('It makes too many requests')
