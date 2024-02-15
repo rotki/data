@@ -5,6 +5,9 @@ import pytest
 import requests
 
 
+ROTKI_REPO_BASE = 'https://raw.githubusercontent.com/rotki/rotki/develop'
+
+
 def test_airdrops_metadata():
     with open('airdrops/index_v1.json', 'r') as f:
         airdrop_index = json.load(f)
@@ -16,7 +19,8 @@ def test_airdrops_metadata():
     # check that the new files exists on their given path
     for airdrop in airdrop_index['airdrops'].values():
         assert os.path.exists(airdrop['csv_path'])
-        if 'icon_path' in airdrop:
+        if requests.get(f'{ROTKI_REPO_BASE}/frontend/app/public/assets/images/protocols/{airdrop["icon"]}').status_code != 200:
+            assert 'icon_path' in airdrop, f'{airdrop["name"]} airdrop missing icon in the rotki repository, icon_path should be provided'
             assert os.path.exists(airdrop['icon_path'])
 
 
