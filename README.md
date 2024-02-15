@@ -8,6 +8,8 @@ Repo containing various data that can be pulled by the app
 - It's entry should be added in the `airdrops/index_v1.json` under the `airdrops` field.
 - If the token is new and is not expected to exist in the userDB and globalDB then `new_asset_data` should be added in the index.
 - It's CSV should be added in `airdrops/` directory, with its path provided in its index entry.
+    - The CSV's header should have first column as `address` and second column as `amount`.
+    - The amounts should be normalised according to their decimals.
 - If the asset's icon is not present in `rotki` repo, it should be added in `airdrops/icons` directory, with its path provided in its airdrop's index entry.
 - CSV should have one line header. First column should be `address`, and second column should be the `amount` in the decimal normalised form.
 ### POAP Airdrops

@@ -1,8 +1,10 @@
+import csv
 import json
 import os
-from jsonschema import validate
 import pytest
 import requests
+from eth_utils import is_checksum_address
+from jsonschema import validate
 
 
 ROTKI_REPO_BASE = 'https://raw.githubusercontent.com/rotki/rotki/develop'
@@ -22,6 +24,19 @@ def test_airdrops_metadata():
         if requests.get(f'{ROTKI_REPO_BASE}/frontend/app/public/assets/images/protocols/{airdrop["icon"]}').status_code != 200:
             assert 'icon_path' in airdrop, f'{airdrop["name"]} airdrop missing icon in the rotki repository, icon_path should be provided'
             assert os.path.exists(airdrop['icon_path'])
+
+
+def test_csvs():
+    with open('airdrops/index_v1.json', 'r') as f:
+        airdrop_index = json.load(f)
+
+    for airdrop in airdrop_index['airdrops'].values():
+        with open(airdrop['csv_path']) as f:
+            reader = csv.DictReader(f) # read rows into a dictionary format
+            assert 'address' in reader.fieldnames, f'{airdrop["csv_path"]} airdrop missing `address` header'
+            assert 'amount' in reader.fieldnames, f'{airdrop["csv_path"]} airdrop missing `amount` header'
+            for row in reader:  # test that all addresses are checksummed
+                assert is_checksum_address(row['address']), f'{airdrop["name"]} airdrop address {row["address"]} is not checksummed'
 
 
 @pytest.mark.skip('It makes too many requests')
