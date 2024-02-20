@@ -31,12 +31,16 @@ def test_csvs():
         airdrop_index = json.load(f)
 
     for airdrop in airdrop_index['airdrops'].values():
-        with open(airdrop['csv_path']) as f:
-            reader = csv.DictReader(f) # read rows into a dictionary format
-            assert 'address' in reader.fieldnames, f'{airdrop["csv_path"]} airdrop missing `address` header'
-            assert 'amount' in reader.fieldnames, f'{airdrop["csv_path"]} airdrop missing `amount` header'
-            for row in reader:  # test that all addresses are checksummed
-                assert is_checksum_address(row['address']), f'{airdrop["name"]} airdrop address {row["address"]} is not checksummed'
+        with open(airdrop['csv_path'], 'br') as f:
+            assert f.readline().startswith(b'address,amount'), f'{airdrop["csv_path"]} airdrop missing `address,amount` header'
+            for row_b in f:
+                row = row_b.decode('ascii')
+                # test that all addresses are checksummed
+                address = row.split(',')[0]
+                assert is_checksum_address(address), f'{airdrop["name"]} airdrop address {address} is not checksummed'
+
+                if row.endswith('\n'): # check that the CSV have LF EoL sequence
+                    assert row[-1] == '\n' and row[-2] != '\r', f'{row_b} in {airdrop["csv_path"]} should have LF EoL sequence'
 
 
 @pytest.mark.skip('It makes too many requests')
