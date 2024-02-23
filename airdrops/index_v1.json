@@ -164,6 +164,15 @@
                 "decimals": 18,
                 "coingecko": "starknet"
             }
+        },
+        "optimism_4": {
+            "csv_path": "airdrops/optimism_4.csv",
+            "csv_hash": "01ca439a24973b1cf1c3335b2c4b4db3e9c8a68ad105ee11b9eec2450fdf7499",
+            "asset_identifier": "eip155:10/erc20:0x4200000000000000000000000000000000000042",
+            "url": "https://app.optimism.io/airdrops/4",
+            "name": "OP",
+            "icon": "optimism.svg",
+            "cutoff_time": 1739491200
         }
     },
     "poap_airdrops": {

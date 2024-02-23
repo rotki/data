@@ -13,17 +13,13 @@ import sys
 
 if __name__ == '__main__':
     try:
-        csv_paths = [sys.argv[1]]
+        file_paths = [sys.argv[1]]
     except IndexError as e:
         with open('airdrops/index_v1.json', 'r') as f:
-            csv_paths = [data['csv_path'] for data in json.load(f)['airdrops'].values()]
-            f.seek(0)
-            json_paths = [data[0] for data in json.load(f)['poap_airdrops'].values()]
+            index = json.load(f)
+        file_paths = [data['csv_path'] for data in index['airdrops'].values()]
+        file_paths.extend([data[0] for data in index['poap_airdrops'].values()])
 
-    for csv_path in csv_paths:
-        with open(csv_path, 'br') as f:
-            print(hashlib.sha256(f.read()).hexdigest(), csv_path)
-
-    for json_path in json_paths:
-        with open(json_path, 'br') as f:
-            print(hashlib.sha256(f.read()).hexdigest(), json_path)
+    for file_path in file_paths:
+        with open(file_path, 'br') as f:
+            print(hashlib.sha256(f.read()).hexdigest(), file_path)
