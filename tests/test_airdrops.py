@@ -1,4 +1,4 @@
-import csv
+import hashlib
 import json
 import os
 import pytest
@@ -26,21 +26,33 @@ def test_airdrops_metadata():
             assert os.path.exists(airdrop['icon_path'])
 
 
-def test_csvs():
+def test_csvs_and_jsons():
     with open('airdrops/index_v1.json', 'r') as f:
         airdrop_index = json.load(f)
 
     for airdrop in airdrop_index['airdrops'].values():
         with open(airdrop['csv_path'], 'br') as f:
-            assert f.readline().startswith(b'address,amount'), f'{airdrop["csv_path"]} airdrop missing `address,amount` header'
-            for row_b in f:
-                row = row_b.decode('ascii')
-                # test that all addresses are checksummed
-                address = row.split(',')[0]
-                assert is_checksum_address(address), f'{airdrop["name"]} airdrop address {address} is not checksummed'
+            csv_b = f.read()
 
-                if row.endswith('\n'): # check that the CSV have LF EoL sequence
-                    assert row[-1] == '\n' and row[-2] != '\r', f'{row_b} in {airdrop["csv_path"]} should have LF EoL sequence'
+        # verify the csv_hash is correct
+        assert airdrop['csv_hash'] == hashlib.sha256(csv_b).hexdigest(), f'Invalid hash for {airdrop["csv_path"]}'
+        csv_rows_b = csv_b.split(b'\n')
+        assert len(csv_rows_b) > 0, f'{airdrop["csv_path"]} should have LF EoL sequence with multiple rows'
+        assert csv_rows_b.pop(0).startswith(b'address,amount'), f'{airdrop["csv_path"]} airdrop missing `address,amount` header'
+
+        for i, row_b in enumerate(csv_rows_b):
+            row = row_b.decode('ascii')
+            # test that all addresses are checksummed
+            address = row.split(',')[0]
+            assert is_checksum_address(address), f'{airdrop["csv_path"]} address {address} is not checksummed at row {i+2}'
+
+            # check that the CSV have LF EoL sequence
+            assert not row.endswith('\r'), f'{row_b} in {airdrop["csv_path"]} should have LF EoL sequence at row {i+2}'
+    
+    for poap_airdrop in airdrop_index['poap_airdrops'].values():
+        with open(poap_airdrop[0], 'br') as f:
+            json_b = f.read()
+        assert poap_airdrop[3] == hashlib.sha256(json_b).hexdigest(), f'Invalid hash for {poap_airdrop[0]}'
 
 
 @pytest.mark.skip('It makes too many requests')

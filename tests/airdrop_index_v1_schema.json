@@ -15,6 +15,10 @@
                             "type": "string",
                             "pattern": ".*.csv$"
                         },
+                        "csv_hash": {
+                            "type": "string",
+                            "pattern": "^[a-fA-F0-9]{64}$"
+                        },
                         "asset_identifier": {
                             "type": "string"
                         },
@@ -134,6 +138,7 @@
                     "required": [
                         "asset_identifier",
                         "csv_path",
+                        "csv_hash",
                         "icon",
                         "name",
                         "url"
@@ -158,9 +163,13 @@
                         },
                         {
                             "type": "string"
+                        },
+                        {
+                            "type": "string",
+                            "pattern": "^[a-fA-F0-9]{64}$"
                         }
                     ],
-                    "minItems": 3
+                    "minItems": 4
                 }
             }
         }
