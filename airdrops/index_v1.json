@@ -173,6 +173,24 @@
             "name": "OP",
             "icon": "optimism.svg",
             "cutoff_time": 1739491200
+        },
+        "degen2_season1": {
+            "csv_path": "airdrops/degen2_season1.csv",
+            "csv_hash": "708ae1fcbe33a11a91fd05e1e7c4fa2d514b65cb1f8d3e4ce3556e7bdd8af2f5",
+            "asset_identifier": "eip155:8453/erc20:0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+            "url": "https://www.degen.tips/airdrop2/season1",
+            "name": "DEGEN",
+            "icon": "degen.svg",
+            "icon_path": "airdrops/icons/degen.svg",
+            "cutoff_time": 1711843200,
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+                "name": "Degen",
+                "symbol": "DEGEN",
+                "chain_id": 8453,
+                "decimals": 18
+            }
         }
     },
     "poap_airdrops": {
