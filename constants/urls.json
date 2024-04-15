@@ -1,8 +1,0 @@
-{
-  "logo": {
-    "app": "https://raw.githubusercontent.com/rotki/data/develop/assets/icons/app_logo.png",
-    "website": "https://raw.githubusercontent.com/rotki/data/develop/assets/icons/website_logo.png",
-    "about": "https://raw.githubusercontent.com/rotki/data/develop/assets/icons/about_logo.png",
-    "empty_screen": "https://raw.githubusercontent.com/rotki/data/develop/assets/icons/empty_screen_logo.png"
-  }
-}
