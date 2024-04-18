@@ -191,6 +191,23 @@
                 "chain_id": 8453,
                 "decimals": 18
             }
+        },
+        "omni": {
+            "csv_path": "airdrops/omni.csv",
+            "csv_hash": "0e0d5520e9c18bdc4d688680deb0389e48e9a1cf7af0874696d078f6e608252d",
+            "asset_identifier": "eip155:1/erc20:0x36E66fbBce51e4cD5bd3C62B637Eb411b18949D4",
+            "url": "https://claims.omni.network/",
+            "name": "OMNI",
+            "icon": "omni.svg",
+            "icon_path": "airdrops/icons/omni.svg",
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0x36E66fbBce51e4cD5bd3C62B637Eb411b18949D4",
+                "name": "Omni Network",
+                "symbol": "OMNI",
+                "chain_id": 1,
+                "decimals": 18
+            }
         }
     },
     "poap_airdrops": {
