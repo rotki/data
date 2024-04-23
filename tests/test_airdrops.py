@@ -21,7 +21,7 @@ def test_airdrops_metadata():
     # check that the new files exists on their given path
     for airdrop in airdrop_index['airdrops'].values():
         assert os.path.exists(airdrop['csv_path'])
-        if requests.get(f'{ROTKI_REPO_BASE}/frontend/app/public/assets/images/protocols/{airdrop["icon"]}').status_code != 200:
+        if requests.head(f'{ROTKI_REPO_BASE}/frontend/app/public/assets/images/protocols/{airdrop["icon"]}').status_code != 200:
             assert 'icon_path' in airdrop, f'{airdrop["name"]} airdrop missing icon in the rotki repository, icon_path should be provided'
             assert os.path.exists(airdrop['icon_path'])
 
