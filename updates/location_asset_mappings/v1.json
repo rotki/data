@@ -1,0 +1,45 @@
+{
+    "location_asset_mappings":{
+      "additions":[
+        {
+          "asset":"eip155:1/erc20:0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+          "location":"coinbase",
+          "location_symbol":"RPL"
+        }, {
+          "asset":"RON",
+          "location":"coinbase",
+          "location_symbol":"RONIN"
+        }, {
+          "asset":"eip155:1/erc20:0xAcd2c239012D17BEB128B0944D49015104113650",
+          "location":"coinbase",
+          "location_symbol":"KARRAT"
+        }, {
+          "asset":"eip155:1/erc20:0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
+          "location":"coinbase",
+          "location_symbol":"AERGO"
+        }, {
+          "asset":"eip155:1/erc20:0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
+          "location":"coinbase",
+          "location_symbol":"CRPT"
+        }, {
+          "asset":"eip155:1/erc20:0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+          "location":"kraken",
+          "location_symbol":"BEAM"
+        }, {
+          "asset":"HNT",
+          "location":"kraken",
+          "location_symbol":"HNT"
+        }, {
+          "asset":"eip155:1/erc20:0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+          "location":"kraken",
+          "location_symbol":"W"
+        }, {
+          "asset":"eip155:1/erc20:0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+          "location":"kraken",
+          "location_symbol":"ONDO"
+        }
+      ],
+      "updates":[],
+      "deletions":[]
+    }
+  }
