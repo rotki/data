@@ -450,6 +450,61 @@
         "asset": "eip155:43114/erc20:0x420FcA0121DC28039145009570975747295f2329",
         "location": "kucoin",
         "location_symbol": "COQ"
+      },
+      {
+        "asset": "eip155:1/erc20:0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
+        "location": "poloniex",
+        "location_symbol": "AERGO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x46F84DC6564Cdd93922F7BFb88B03D35308D87C9",
+        "location": "poloniex",
+        "location_symbol": "VENOM"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+        "location": "poloniex",
+        "location_symbol": "RPL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+        "location": "poloniex",
+        "location_symbol": "PEPE"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "location": "poloniex",
+        "location_symbol": "DEGEN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9469D013805bFfB7D3DEBe5E7839237e535ec483",
+        "location": "poloniex",
+        "location_symbol": "RING"
+      },
+      {
+        "asset": "eip155:1/erc20:0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
+        "location": "poloniex",
+        "location_symbol": "XEN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x79F05c263055BA20EE0e814ACD117C20CAA10e0c",
+        "location": "poloniex",
+        "location_symbol": "ICE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xF64265e65c4529879a7ABf467E00D39E39C0B0DA",
+        "location": "poloniex",
+        "location_symbol": "RFKJ"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3419875B4D3Bca7F3FddA2dB7a476A79fD31B4fE",
+        "location": "poloniex",
+        "location_symbol": "DZHV"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD979c468a68062e7bdff4Ba6DF7842DfD3492E0f",
+        "location": "poloniex",
+        "location_symbol": "BEOBLE"
       }
     ]
   }
