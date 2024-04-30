@@ -1,29 +1,5 @@
 [
   {
-    "message": "Enjoying rotki?",
-    "message_highlight": "If you are an ENS vote card holder consider helping us in the",
-    "action": {
-      "text": "ENS Small Grants",
-      "url": "https://ensgrants.xyz/rounds/33/proposals/846"
-    },
-   "period": {
-     "start": 1701718055,
-     "end": 1702054800
-   }
-  },
-  {
-    "message": "Enjoying rotki? Consider ",
-    "message_highlight": "supporting us in",
-    "action": {
-      "text": "Octant Epoch 2",
-      "url": "https://octant.app/project/2/0x9531C059098e3d194fF87FebB587aB07B30B1306"
-    },
-    "period": {
-      "start": 1705507200,
-      "end": 1706716800
-    }
-  },
-  {
     "message": "Enjoying rotki? Consider ",
     "message_highlight": "supporting us in",
     "action": {
@@ -32,6 +8,18 @@
     },
     "period": {
       "start": 1713866400,
+      "end": 1714801572
+    }
+  },
+  {
+    "message": "Enjoying rotki? Consider ",
+    "message_highlight": "supporting us in",
+    "action": {
+      "text": "dApps & Apps Round at Gitcoin",
+      "url": "https://explorer.gitcoin.co/#/round/42161/25/8"
+    },
+    "period": {
+      "start": 1714801573,
       "end": 1715126340
     }
   }
