@@ -22,5 +22,17 @@
       "start": 1705507200,
       "end": 1706716800
     }
+  },
+  {
+    "message": "Enjoying rotki? Consider ",
+    "message_highlight": "supporting us in",
+    "action": {
+      "text": "ENS Identity Round at Gitcoin",
+      "url": "https://explorer.gitcoin.co/utm_content=community-rounds#/round/42161/24/2"
+    },
+    "period": {
+      "start": 1713866400,
+      "end": 1715126340
+    }
   }
 ]
