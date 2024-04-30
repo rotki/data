@@ -3,32 +3,6 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "If you are an ENS vote card holder consider helping us in the ENS Small Grants",
-      "action": {
-        "text": "Vote for us here",
-        "url": "https://ensgrants.xyz/rounds/33/proposals/846"
-      },
-      "period": {
-        "start": 1701718055,
-        "end": 1702054800
-      }
-    },
-    {
-      "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "Octant Epoch 2 is happening now. rotki is also taking part.",
-      "action": {
-        "text": "Support us here",
-        "url": "https://octant.app/project/2/0x9531C059098e3d194fF87FebB587aB07B30B1306"
-      },
-      "period": {
-        "start": 1705507200,
-        "end": 1706716800
-      }
-    },
-    {
-      "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
       "text": "rotki is part of the ENS Identity Round at Gitcoin",
       "action": {
         "text": "Support us here",
@@ -36,6 +10,19 @@
       },
       "period": {
         "start": 1713866400,
+        "end": 1714801572
+      }
+    },
+    {
+      "header": "Enjoying rotki?",
+      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
+      "text": "rotki is part of the dApps & Apps Round at Gitcoin",
+      "action": {
+        "text": "Support us here",
+        "url": "https://explorer.gitcoin.co/#/round/42161/25/8"
+      },
+      "period": {
+        "start": 1714801573,
         "end": 1715126340
       }
     }
