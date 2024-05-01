@@ -3,26 +3,13 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of the ENS Identity Round at Gitcoin",
-      "action": {
-        "text": "Support us here",
-        "url": "https://explorer.gitcoin.co/utm_content=community-rounds#/round/42161/24/2"
-      },
-      "period": {
-        "start": 1713866400,
-        "end": 1714801572
-      }
-    },
-    {
-      "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
       "text": "rotki is part of the dApps & Apps Round at Gitcoin",
       "action": {
         "text": "Support us here",
         "url": "https://explorer.gitcoin.co/#/round/42161/25/8"
       },
       "period": {
-        "start": 1714801573,
+        "start": 1713866400,
         "end": 1715126340
       }
     }
