@@ -19,6 +19,8 @@
                             "type": "string",
                             "pattern": "^[a-fA-F0-9]{64}$"
                         },
+                        "api_url": {"type": "string", "format": "uri"},
+                        "amount_path": {"type": "string"},
                         "asset_identifier": {
                             "type": "string"
                         },
@@ -26,18 +28,10 @@
                             "type": "string",
                             "format": "uri"
                         },
-                        "name": {
-                            "type": "string"
-                        },
-                        "icon": {
-                            "type": "string"
-                        },
-                        "icon_path": {
-                            "type": "string"
-                        },
-                        "cutoff_time": {
-                            "type": "integer"
-                        },
+                        "name": {"type": "string"},
+                        "icon": {"type": "string"},
+                        "icon_path": {"type": "string"},
+                        "cutoff_time": {"type": "integer"},
                         "new_asset_data": {
                             "oneOf": [
                                 {
@@ -137,8 +131,6 @@
                     },
                     "required": [
                         "asset_identifier",
-                        "csv_path",
-                        "csv_hash",
                         "icon",
                         "name",
                         "url"
