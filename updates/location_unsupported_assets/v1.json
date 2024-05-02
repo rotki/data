@@ -1,0 +1,8 @@
+{
+  "location_unsupported_assets": {
+    "insert": {
+      "poloniex": ["ETHOLD", "ELONETH", "JIVA", "MOCKJUP", "TELEPATHY", "X314"],
+      "kucoin": ["ORDIUP","ORDIDOWN","KASUP","KASDOWN","1000BONKUP","BONKUP","BONKDOWN","AGIXUP","AGIXDOWN"]
+    }
+  }
+}
