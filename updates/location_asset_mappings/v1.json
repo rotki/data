@@ -545,6 +545,106 @@
         "asset": "eip155:1/erc20:0xD979c468a68062e7bdff4Ba6DF7842DfD3492E0f",
         "location": "poloniex",
         "location_symbol": "BEOBLE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x102c776DDB30C754dEd4fDcC77A19230A60D4e4f",
+        "location": "woo",
+        "location_symbol": "FLC"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9ff58067Bd8D239000010c154C6983A325Df138E",
+        "location": "woo",
+        "location_symbol": "PROPC"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3acFc40a19520D97648eB7c0891e747b7F2B0283",
+        "location": "woo",
+        "location_symbol": "UAZUKI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1e610De0D7ACfa1d820024948a91D96C5c9CE6B9",
+        "location": "woo",
+        "location_symbol": "UBAYC"
+      },
+      {
+        "asset": "eip155:1/erc20:0xA100EAfDef0099700933538EE795cfaD5505B689",
+        "location": "woo",
+        "location_symbol": "UCAPTAINZ"
+      },
+      {
+        "asset": "eip155:1/erc20:0x83F5B9C25CC8FcE0A7d4A1bDA904BF13CFcDd9DA",
+        "location": "woo",
+        "location_symbol": "UDEGOD"
+      },
+      {
+        "asset": "eip155:1/erc20:0xeDae06a2DBDd21038608ADCE58Fd173AFDBa5ADD",
+        "location": "woo",
+        "location_symbol": "ULP"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6cd7fC3118A8FFa40AF0f99f3cbda54b0c6d4D1d",
+        "location": "woo",
+        "location_symbol": "UMIL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x30F7c830e0C2f4bEC871DF809D73E27eF19EB151",
+        "location": "woo",
+        "location_symbol": "UPPG"
+      },
+      {
+        "asset": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "location": "woo",
+        "location_symbol": "USDCNATIVE"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "location": "woo",
+        "location_symbol": "DEGEN"
+      },
+      {
+        "asset": "eip155:56/erc20:0xc27A719105A987b4c34116223CAE8bd8F4B5def4",
+        "location": "woo",
+        "location_symbol": "ACE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x626E8036dEB333b408Be468F951bdB42433cBF18",
+        "location": "woo",
+        "location_symbol": "AIOZ"
+      },
+      {
+        "asset": "eip155:1/erc20:0x38e382F74dfb84608F3C1F10187f6bEf5951DE93",
+        "location": "woo",
+        "location_symbol": "MUBI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x808507121B80c02388fAd14726482e061B8da827",
+        "location": "woo",
+        "location_symbol": "PENDLE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+        "location": "woo",
+        "location_symbol": "PEPE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3B50805453023a91a8bf641e279401a0b23FA6F9",
+        "location": "woo",
+        "location_symbol": "REZ"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+        "location": "woo",
+        "location_symbol": "RPL"
+      },
+      {
+        "asset": "eip155:10/erc20:0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+        "location": "woo",
+        "location_symbol": "VELODROME"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb2617246d0c6c0087f18703d576831899ca94f01",
+        "location": "woo",
+        "location_symbol": "ZIG"
       }
     ]
   },
