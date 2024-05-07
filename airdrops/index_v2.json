@@ -209,19 +209,37 @@
                 "decimals": 18
             }
         },
-        "eigen":{
-            "asset_identifier":"EIGEN_TOKEN_PRE_RELEASE",
-            "url":"https://eigenfoundation.org",
-            "api_url":"https://claims.eigenfoundation.org/clique-eigenlayer-api/campaign/eigenlayer/credentials?walletAddress={address}",
-            "amount_path":"data/pipelines/tokenQualified",
-            "name":"EIGEN",
+        "eigen": {
+            "asset_identifier": "EIGEN_TOKEN_PRE_RELEASE",
+            "url": "https://eigenfoundation.org",
+            "api_url": "https://claims.eigenfoundation.org/clique-eigenlayer-api/campaign/eigenlayer/credentials?walletAddress={address}",
+            "amount_path": "data/pipelines/tokenQualified",
+            "name": "EIGEN",
             "icon": "eigenlayer.png",
-            "new_asset_data":{
-                "asset_type":"OTHER",
-                "name":"Eigen",
-                "symbol":"EIGEN"
+            "new_asset_data": {
+                "asset_type": "OTHER",
+                "name": "Eigen",
+                "symbol": "EIGEN"
             },
             "cutoff_time": 1725667200
+        },
+        "degen2_season3": {
+            "csv_path": "airdrops/degen2_season3.csv",
+            "csv_hash": "c76e58a0212155ba1b022a351e9b85e63b45794721d930bde91c1e5ed50e82f5",
+            "asset_identifier": "eip155:8453/erc20:0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+            "url": "https://www.degen.tips/airdrop2/season3",
+            "name": "DEGEN",
+            "icon": "degen.svg",
+            "icon_path": "airdrops/icons/degen.svg",
+            "cutoff_time": 1716940800,
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+                "name": "Degen",
+                "symbol": "DEGEN",
+                "chain_id": 8453,
+                "decimals": 18
+            }
         }
     },
     "poap_airdrops": {
