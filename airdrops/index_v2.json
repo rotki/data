@@ -240,6 +240,24 @@
                 "chain_id": 8453,
                 "decimals": 18
             }
+        },
+        "myso": {
+            "csv_path": "airdrops/myso.csv",
+            "csv_hash": "a9bb7bd17a9f9cae15162044852c072821dee921ef6b02f85539a9bf5eee351c",
+            "asset_identifier": "eip155:1/erc20:0x5fDe99e121F3aC02e7d6ACb081dB1f89c1e93C17",
+            "url": "https://app.myso.finance/airdrop",
+            "name": "MYT",
+            "icon": "myso.svg",
+            "icon_path": "airdrops/icons/myso.jpg",
+            "cutoff_time": 1717145230,
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0x5fDe99e121F3aC02e7d6ACb081dB1f89c1e93C17",
+                "name": "MYSO Token",
+                "symbol": "MYT",
+                "chain_id": 1,
+                "decimals": 18
+            }
         }
     },
     "poap_airdrops": {
