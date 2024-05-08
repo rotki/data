@@ -11,44 +11,51 @@ ROTKI_REPO_BASE = 'https://raw.githubusercontent.com/rotki/rotki/develop'
 
 
 def test_airdrops_metadata():
-    with open('airdrops/index_v1.json', 'r') as f:
+    with open('airdrops/index_v2.json', 'r') as f:
         airdrop_index = json.load(f)
-    with open('tests/airdrop_index_v1_schema.json', 'r') as f:
+    with open('tests/airdrop_index_v2_schema.json', 'r') as f:
         index_schema = json.load(f)
 
     validate(instance=airdrop_index, schema=index_schema)
     
     # check that the new files exists on their given path
     for airdrop in airdrop_index['airdrops'].values():
-        assert os.path.exists(airdrop['csv_path'])
-        if requests.get(f'{ROTKI_REPO_BASE}/frontend/app/public/assets/images/protocols/{airdrop["icon"]}').status_code != 200:
+        if 'csv_path' in airdrop:
+            assert os.path.exists(airdrop['csv_path'])
+        else:
+            assert 'api_url' in airdrop
+        if requests.head(f'{ROTKI_REPO_BASE}/frontend/app/public/assets/images/protocols/{airdrop["icon"]}').status_code != 200:
             assert 'icon_path' in airdrop, f'{airdrop["name"]} airdrop missing icon in the rotki repository, icon_path should be provided'
             assert os.path.exists(airdrop['icon_path'])
 
 
 def test_csvs_and_jsons():
-    with open('airdrops/index_v1.json', 'r') as f:
+    with open('airdrops/index_v2.json', 'r') as f:
         airdrop_index = json.load(f)
 
     for airdrop in airdrop_index['airdrops'].values():
-        with open(airdrop['csv_path'], 'br') as f:
-            csv_b = f.read()
-
         # verify the csv_hash is correct
-        assert airdrop['csv_hash'] == hashlib.sha256(csv_b).hexdigest(), f'Invalid hash for {airdrop["csv_path"]}'
-        csv_rows_b = csv_b.split(b'\n')
-        assert len(csv_rows_b) > 0, f'{airdrop["csv_path"]} should have LF EoL sequence with multiple rows'
-        assert csv_rows_b.pop(0).startswith(b'address,amount'), f'{airdrop["csv_path"]} airdrop missing `address,amount` header'
+        if 'csv_hash' in airdrop:
+            with open(airdrop['csv_path'], 'br') as f:
+                csv_b = f.read()
 
-        for i, row_b in enumerate(csv_rows_b):
-            row = row_b.decode('ascii')
-            # test that all addresses are checksummed
-            address = row.split(',')[0]
-            assert is_checksum_address(address), f'{airdrop["csv_path"]} address {address} is not checksummed at row {i+2}'
+            assert airdrop['csv_hash'] == hashlib.sha256(csv_b).hexdigest(), f'Invalid hash for {airdrop["csv_path"]}'
+            csv_rows_b = csv_b.split(b'\n')
+            assert len(csv_rows_b) > 0, f'{airdrop["csv_path"]} should have LF EoL sequence with multiple rows'
+            assert csv_rows_b.pop(0).startswith(b'address,amount'), f'{airdrop["csv_path"]} airdrop missing `address,amount` header'
 
-            # check that the CSV have LF EoL sequence
-            assert not row.endswith('\r'), f'{row_b} in {airdrop["csv_path"]} should have LF EoL sequence at row {i+2}'
-    
+            for i, row_b in enumerate(csv_rows_b):
+                row = row_b.decode('ascii')
+                # test that all addresses are checksummed
+                address = row.split(',')[0]
+                assert is_checksum_address(address), f'{airdrop["csv_path"]} address {address} is not checksummed at row {i+2}'
+
+                # check that the CSV have LF EoL sequence
+                assert not row.endswith('\r'), f'{row_b} in {airdrop["csv_path"]} should have LF EoL sequence at row {i+2}'
+        else:
+            assert address in airdrop['api_url'].format(address=address)  # check that the format variable is in the url
+            assert 'amount_path' in airdrop
+
     for poap_airdrop in airdrop_index['poap_airdrops'].values():
         with open(poap_airdrop[0], 'br') as f:
             json_b = f.read()

@@ -12,6 +12,19 @@
         "start": 1713866400,
         "end": 1715126340
       }
+    },
+    {
+      "header": "Enjoying rotki?",
+      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
+      "text": "rotki is part of the ENS Identity Round at Gitcoin",
+      "action": {
+        "text": "Support us here",
+        "url": "https://explorer.gitcoin.co/utm_content=community-rounds#/round/42161/24/2"
+      },
+      "period": {
+        "start": 1713866400,
+        "end": 1715126340
+      }
     }
   ]
 }
