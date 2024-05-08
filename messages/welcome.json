@@ -3,27 +3,14 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of the dApps & Apps Round at Gitcoin",
+      "text": "rotki is part of the Galactic Giving QF Round at Giveth",
       "action": {
         "text": "Support us here",
-        "url": "https://explorer.gitcoin.co/#/round/42161/25/8"
+        "url": "https://giveth.io/project/rotki"
       },
       "period": {
-        "start": 1713866400,
-        "end": 1715126340
-      }
-    },
-    {
-      "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of the ENS Identity Round at Gitcoin",
-      "action": {
-        "text": "Support us here",
-        "url": "https://explorer.gitcoin.co/utm_content=community-rounds#/round/42161/24/2"
-      },
-      "period": {
-        "start": 1713866400,
-        "end": 1715126340
+        "start": 1714608000,
+        "end": 1715939940
       }
     }
   ]
