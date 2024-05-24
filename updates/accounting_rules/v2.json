@@ -1,0 +1,94 @@
+{
+    "accounting_rules": [
+        {
+            "event_type": "receive",
+            "event_subtype": "receive wrapped",
+            "counterparty": null,
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "spend",
+            "event_subtype": "return wrapped",
+            "counterparty": null,
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "spend",
+            "event_subtype": "return wrapped",
+            "counterparty": "aave-v2",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "spend",
+            "event_subtype": "return wrapped",
+            "counterparty": "aave-v3",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "spend",
+            "event_subtype": "return wrapped",
+            "counterparty": "compound-v3",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "deposit",
+            "event_subtype": "deposit asset",
+            "counterparty": "aave-v2",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "deposit",
+            "event_subtype": "deposit asset",
+            "counterparty": "aave-v3",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "deposit",
+            "event_subtype": "deposit asset",
+            "counterparty": "compound-v3",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "receive",
+            "event_subtype": "generate debt",
+            "counterparty": null,
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "spend",
+            "event_subtype": "payback debt",
+            "counterparty": null,
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": null
+        }
+    ]
+}
