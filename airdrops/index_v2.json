@@ -22,7 +22,8 @@
             "asset_identifier": "eip155:1/erc20:0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
             "url": "https://tornado.cash/",
             "name": "Tornado Cash",
-            "icon": "tornado.svg"
+            "icon": "tornado.svg",
+            "has_decoder": false
         },
         "cornichon": {
             "csv_path": "airdrops/cornichon_airdrop.csv",
@@ -46,7 +47,8 @@
             "asset_identifier": "eip155:1/erc20:0xfFffFffF2ba8F66D4e51811C5190992176930278",
             "url": "https://furucombo.app/",
             "name": "Furucombo",
-            "icon": "furucombo.png"
+            "icon": "furucombo.png",
+            "has_decoder": false
         },
         "lido": {
             "csv_path": "airdrops/lido_airdrop.csv",
@@ -54,7 +56,8 @@
             "asset_identifier": "eip155:1/erc20:0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
             "url": "https://lido.fi/",
             "name": "Lido",
-            "icon": "lido.svg"
+            "icon": "lido.svg",
+            "has_decoder": false
         },
         "curve": {
             "csv_path": "airdrops/curve_airdrop.csv",
@@ -62,7 +65,8 @@
             "asset_identifier": "eip155:1/erc20:0xD533a949740bb3306d119CC777fa900bA034cd52",
             "url": "https://www.curve.fi/",
             "name": "Curve Finance",
-            "icon": "curve.png"
+            "icon": "curve.png",
+            "has_decoder": false
         },
         "convex": {
             "csv_path": "airdrops/convex_airdrop.csv",
@@ -95,7 +99,8 @@
             "asset_identifier": "eip155:1/erc20:0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
             "url": "https://paraswap.io/",
             "name": "ParaSwap",
-            "icon": "paraswap.svg"
+            "icon": "paraswap.svg",
+            "has_decoder": false
         },
         "sdl": {
             "csv_path": "airdrops/saddle_finance.csv",
@@ -103,7 +108,8 @@
             "asset_identifier": "eip155:1/erc20:0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871",
             "url": "https://saddle.exchange/#/",
             "name": "SaddleFinance",
-            "icon": "saddle-finance.svg"
+            "icon": "saddle-finance.svg",
+            "has_decoder": false
         },
         "cow_mainnet": {
             "csv_path": "airdrops/cow_mainnet.csv",
@@ -155,6 +161,7 @@
             "icon": "starknet.svg",
             "icon_path": "airdrops/icons/starknet.svg",
             "cutoff_time": 1718841600,
+            "has_decoder": false,
             "new_asset_data": {
                 "asset_type": "EVM_TOKEN",
                 "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
@@ -209,20 +216,6 @@
                 "decimals": 18
             }
         },
-        "eigen": {
-            "asset_identifier": "EIGEN_TOKEN_PRE_RELEASE",
-            "url": "https://eigenfoundation.org",
-            "api_url": "https://claims.eigenfoundation.org/clique-eigenlayer-api/campaign/eigenlayer/credentials?walletAddress={address}",
-            "amount_path": "data/pipelines/tokenQualified",
-            "name": "EIGEN",
-            "icon": "eigenlayer.png",
-            "new_asset_data": {
-                "asset_type": "OTHER",
-                "name": "Eigen",
-                "symbol": "EIGEN"
-            },
-            "cutoff_time": 1725667200
-        },
         "degen2_season3": {
             "csv_path": "airdrops/degen2_season3.csv",
             "csv_hash": "c76e58a0212155ba1b022a351e9b85e63b45794721d930bde91c1e5ed50e82f5",
@@ -250,6 +243,7 @@
             "icon": "myso.svg",
             "icon_path": "airdrops/icons/myso.jpg",
             "cutoff_time": 1717145230,
+            "has_decoder": false,
             "new_asset_data": {
                 "asset_type": "EVM_TOKEN",
                 "address": "0x5fDe99e121F3aC02e7d6ACb081dB1f89c1e93C17",
