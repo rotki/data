@@ -19,8 +19,13 @@
                             "type": "string",
                             "pattern": "^[a-fA-F0-9]{64}$"
                         },
-                        "api_url": {"type": "string", "format": "uri"},
-                        "amount_path": {"type": "string"},
+                        "api_url": {
+                            "type": "string",
+                            "format": "uri"
+                        },
+                        "amount_path": {
+                            "type": "string"
+                        },
                         "asset_identifier": {
                             "type": "string"
                         },
@@ -28,10 +33,21 @@
                             "type": "string",
                             "format": "uri"
                         },
-                        "name": {"type": "string"},
-                        "icon": {"type": "string"},
-                        "icon_path": {"type": "string"},
-                        "cutoff_time": {"type": "integer"},
+                        "name": {
+                            "type": "string"
+                        },
+                        "icon": {
+                            "type": "string"
+                        },
+                        "icon_path": {
+                            "type": "string"
+                        },
+                        "cutoff_time": {
+                            "type": "integer"
+                        },
+                        "has_decoder": {
+                            "type": "boolean"
+                        },
                         "new_asset_data": {
                             "oneOf": [
                                 {
