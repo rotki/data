@@ -1,0 +1,97 @@
+{
+    "location_asset_mappings": {
+      "additions": [
+        {
+          "asset": "eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+          "location": "coinbase",
+          "location_symbol": "SAFE"
+        },
+        {
+            "asset": "eip155:56/erc20:0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "location": "binance",
+            "location_symbol": "CAKE"
+        },
+        {
+            "asset": "eip155:56/erc20:0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "location": "binanceus",
+            "location_symbol": "CAKE"
+        },
+        {
+            "asset": "eip155:1/erc20:0x576e2BeD8F7b46D34016198911Cdf9886f78bea7",
+            "location": "poloniex",
+            "location_symbol": "TRUMP"
+        },
+        {
+            "asset": "eip155:1/erc20:0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+            "location": "okx",
+            "location_symbol": "RPL"
+        },
+        {
+            "asset": "eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+            "location": "okx",
+            "location_symbol": "SAFE"
+        },
+        {
+            "asset": "eip155:1/erc20:0x46F84DC6564Cdd93922F7BFb88B03D35308D87C9",
+            "location": "okx",
+            "location_symbol": "VENOM"
+        },
+        {
+            "asset": "eip155:1/erc20:0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
+            "location": "okx",
+            "location_symbol": "AERGO"
+        },
+        {
+            "asset": "eip155:1/erc20:0xf091867EC603A6628eD83D274E835539D82e9cc8",
+            "location": "kraken",
+            "location_symbol": "ZETA"
+        },
+        {
+            "asset": "eip155:1/erc20:0x33349B282065b0284d756F0577FB39c158F935e6",
+            "location": "kraken",
+            "location_symbol": "MPL"
+        },
+        {
+            "asset": "eip155:1/erc20:0xB528edBef013aff855ac3c50b381f253aF13b997",
+            "location": "kraken",
+            "location_symbol": "AEVO"
+        },
+        {
+            "asset": "eip155:1/erc20:0x0D3CbED3f69EE050668ADF3D9Ea57241cBa33A2B",
+            "location": "kraken",
+            "location_symbol": "PDA"
+        },
+        {
+            "asset": "eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+            "location": "kraken",
+            "location_symbol": "SAFE"
+        },
+        {
+            "asset": "eip155:1/erc20:0x8457CA5040ad67fdebbCC8EdCE889A335Bc0fbFB",
+            "location": "kraken",
+            "location_symbol": "ALT"
+        },
+        {
+            "asset": "eip155:1/erc20:0x808507121B80c02388fAd14726482e061B8da827",
+            "location": "kraken",
+            "location_symbol": "PENDLE"
+        },
+        {
+            "asset": "eip155:1/erc20:0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
+            "location": "kraken",
+            "location_symbol": "ETHFI"
+        },
+        {
+            "asset": "eip155:1/erc20:0x57e114B691Db790C35207b2e685D4A43181e6061",
+            "location": "kraken",
+            "location_symbol": "ENA"
+        },
+        {
+            "asset": "eip155:1/erc20:0x6E2a43be0B1d33b726f0CA3b8de60b3482b8b050",
+            "location": "kraken",
+            "location_symbol": "ARKM"
+        }
+      ]
+    },
+    "updates": []
+}
