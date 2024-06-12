@@ -252,6 +252,24 @@
                 "chain_id": 1,
                 "decimals": 18
             }
+        },
+        "zk": {
+            "csv_path": "airdrops/zk.csv",
+            "csv_hash": "ee22fada7eef5cfb1e308797e0d0fb5b92deec35a9c5ff992b24958acd9bab62",
+            "asset_identifier": "eip155:324/erc20:0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+            "url": "https://claim.zknation.io/",
+            "name": "ZK",
+            "icon": "zksync.jpg",
+            "cutoff_time": 1735862400,
+            "has_decoder": false,
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+                "name": "ZKsync",
+                "symbol": "ZK",
+                "chain_id": 324,
+                "decimals": 18
+            }
         }
     },
     "poap_airdrops": {
