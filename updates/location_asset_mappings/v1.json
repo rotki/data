@@ -646,13 +646,13 @@
         "location": "woo",
         "location_symbol": "ZIG"
       }
+    ],
+    "updates": [
+      {
+        "asset": "eip155:1/erc20:0x12652C6d93FDB6F4f37d48A8687783C782BB0d10",
+        "location": "kucoin",
+        "location_symbol": "NGL"
+      }
     ]
-  },
-  "updates": [
-    {
-      "asset": "eip155:1/erc20:0x12652C6d93FDB6F4f37d48A8687783C782BB0d10",
-      "location": "kucoin",
-      "location_symbol": "NGL"
-    }
-  ]
+  }
 }

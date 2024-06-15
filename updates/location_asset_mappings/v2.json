@@ -1,97 +1,188 @@
 {
-    "location_asset_mappings": {
-      "additions": [
-        {
+  "location_asset_mappings": {
+    "additions": [
+      {
+        "asset": "eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+        "location": "coinbase",
+        "location_symbol": "SAFE"
+      },
+      {
+          "asset": "eip155:56/erc20:0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+          "location": "binance",
+          "location_symbol": "CAKE"
+      },
+      {
+          "asset": "eip155:56/erc20:0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+          "location": "binanceus",
+          "location_symbol": "CAKE"
+      },
+      {
+          "asset": "eip155:1/erc20:0x576e2BeD8F7b46D34016198911Cdf9886f78bea7",
+          "location": "poloniex",
+          "location_symbol": "TRUMP"
+      },
+      {
+          "asset": "eip155:1/erc20:0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+          "location": "okx",
+          "location_symbol": "RPL"
+      },
+      {
           "asset": "eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
-          "location": "coinbase",
+          "location": "okx",
           "location_symbol": "SAFE"
-        },
-        {
-            "asset": "eip155:56/erc20:0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-            "location": "binance",
-            "location_symbol": "CAKE"
-        },
-        {
-            "asset": "eip155:56/erc20:0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-            "location": "binanceus",
-            "location_symbol": "CAKE"
-        },
-        {
-            "asset": "eip155:1/erc20:0x576e2BeD8F7b46D34016198911Cdf9886f78bea7",
-            "location": "poloniex",
-            "location_symbol": "TRUMP"
-        },
-        {
-            "asset": "eip155:1/erc20:0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
-            "location": "okx",
-            "location_symbol": "RPL"
-        },
-        {
-            "asset": "eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
-            "location": "okx",
-            "location_symbol": "SAFE"
-        },
-        {
-            "asset": "eip155:1/erc20:0x46F84DC6564Cdd93922F7BFb88B03D35308D87C9",
-            "location": "okx",
-            "location_symbol": "VENOM"
-        },
-        {
-            "asset": "eip155:1/erc20:0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
-            "location": "okx",
-            "location_symbol": "AERGO"
-        },
-        {
-            "asset": "eip155:1/erc20:0xf091867EC603A6628eD83D274E835539D82e9cc8",
-            "location": "kraken",
-            "location_symbol": "ZETA"
-        },
-        {
-            "asset": "eip155:1/erc20:0x33349B282065b0284d756F0577FB39c158F935e6",
-            "location": "kraken",
-            "location_symbol": "MPL"
-        },
-        {
-            "asset": "eip155:1/erc20:0xB528edBef013aff855ac3c50b381f253aF13b997",
-            "location": "kraken",
-            "location_symbol": "AEVO"
-        },
-        {
-            "asset": "eip155:1/erc20:0x0D3CbED3f69EE050668ADF3D9Ea57241cBa33A2B",
-            "location": "kraken",
-            "location_symbol": "PDA"
-        },
-        {
-            "asset": "eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
-            "location": "kraken",
-            "location_symbol": "SAFE"
-        },
-        {
-            "asset": "eip155:1/erc20:0x8457CA5040ad67fdebbCC8EdCE889A335Bc0fbFB",
-            "location": "kraken",
-            "location_symbol": "ALT"
-        },
-        {
-            "asset": "eip155:1/erc20:0x808507121B80c02388fAd14726482e061B8da827",
-            "location": "kraken",
-            "location_symbol": "PENDLE"
-        },
-        {
-            "asset": "eip155:1/erc20:0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
-            "location": "kraken",
-            "location_symbol": "ETHFI"
-        },
-        {
-            "asset": "eip155:1/erc20:0x57e114B691Db790C35207b2e685D4A43181e6061",
-            "location": "kraken",
-            "location_symbol": "ENA"
-        },
-        {
-            "asset": "eip155:1/erc20:0x6E2a43be0B1d33b726f0CA3b8de60b3482b8b050",
-            "location": "kraken",
-            "location_symbol": "ARKM"
-        }
-      ]
-    },
-    "updates": []
+      },
+      {
+          "asset": "eip155:1/erc20:0x46F84DC6564Cdd93922F7BFb88B03D35308D87C9",
+          "location": "okx",
+          "location_symbol": "VENOM"
+      },
+      {
+          "asset": "eip155:1/erc20:0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
+          "location": "okx",
+          "location_symbol": "AERGO"
+      },
+      {
+          "asset": "eip155:1/erc20:0xf091867EC603A6628eD83D274E835539D82e9cc8",
+          "location": "kraken",
+          "location_symbol": "ZETA"
+      },
+      {
+          "asset": "eip155:1/erc20:0x33349B282065b0284d756F0577FB39c158F935e6",
+          "location": "kraken",
+          "location_symbol": "MPL"
+      },
+      {
+          "asset": "eip155:1/erc20:0xB528edBef013aff855ac3c50b381f253aF13b997",
+          "location": "kraken",
+          "location_symbol": "AEVO"
+      },
+      {
+          "asset": "eip155:1/erc20:0x0D3CbED3f69EE050668ADF3D9Ea57241cBa33A2B",
+          "location": "kraken",
+          "location_symbol": "PDA"
+      },
+      {
+          "asset": "eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+          "location": "kraken",
+          "location_symbol": "SAFE"
+      },
+      {
+          "asset": "eip155:1/erc20:0x8457CA5040ad67fdebbCC8EdCE889A335Bc0fbFB",
+          "location": "kraken",
+          "location_symbol": "ALT"
+      },
+      {
+          "asset": "eip155:1/erc20:0x808507121B80c02388fAd14726482e061B8da827",
+          "location": "kraken",
+          "location_symbol": "PENDLE"
+      },
+      {
+          "asset": "eip155:1/erc20:0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
+          "location": "kraken",
+          "location_symbol": "ETHFI"
+      },
+      {
+          "asset": "eip155:1/erc20:0x57e114B691Db790C35207b2e685D4A43181e6061",
+          "location": "kraken",
+          "location_symbol": "ENA"
+      },
+      {
+          "asset": "eip155:1/erc20:0x6E2a43be0B1d33b726f0CA3b8de60b3482b8b050",
+          "location": "kraken",
+          "location_symbol": "ARKM"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
+        "location": "kucoin",
+        "location_symbol": "OPEN"
+      },
+      {
+          "asset": "eip155:1/erc20:0xC71B5F631354BE6853eFe9C3Ab6b9590F8302e81",
+          "location": "kucoin",
+          "location_symbol": "ZKJ"
+      },
+      {
+          "asset": "eip155:56/erc20:0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
+          "location": "kucoin",
+          "location_symbol": "COOKIE"
+      },
+      {
+          "asset": "eip155:1/erc20:0xbe0Ed4138121EcFC5c0E56B40517da27E6c5226B",
+          "location": "kucoin",
+          "location_symbol": "ATH"
+      },
+      {
+          "asset": "eip155:8453/erc20:0x24569d33653c404f90aF10A2b98d6E0030D3d267",
+          "location": "kucoin",
+          "location_symbol": "UNA"
+      },
+      {
+          "asset": "eip155:56/erc20:0x0E7779e698052f8fe56C415C3818FCf89de9aC6D",
+          "location": "kucoin",
+          "location_symbol": "ULTI"
+      },
+      {
+          "asset": "eip155:1/erc20:0x10dea67478c5F8C5E2D90e5E9B26dBe60c54d800",
+          "location": "kucoin",
+          "location_symbol": "TAIKO"
+      },
+      {
+          "asset": "eip155:56/erc20:0x1865dc79a9e4B5751531099057D7Ee801033d268",
+          "location": "kucoin",
+          "location_symbol": "LKI"
+      },
+      {
+          "asset": "eip155:137/erc20:0xaF0dC42725db75AE54f5E8945e71017Bc7ACd27d",
+          "location": "kucoin",
+          "location_symbol": "NEXG"
+      },
+      {
+          "asset": "eip155:1/erc20:0x740df024CE73f589ACD5E8756b377ef8C6558BaB",
+          "location": "kucoin",
+          "location_symbol": "HLG"
+      },
+      {
+          "asset": "eip155:8453/erc20:0x99b2B1A2aDB02B38222ADcD057783D7e5D1FCC7D",
+          "location": "kucoin",
+          "location_symbol": "WLTH"
+      },
+      {
+          "asset": "eip155:1/erc20:0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
+          "location": "kucoin",
+          "location_symbol": "SQD"
+      },
+      {
+          "asset": "eip155:56/erc20:0x0203D275D2A65030889aF45ed91D472be3948B92",
+          "location": "kucoin",
+          "location_symbol": "FURY"
+      },
+      {
+          "asset": "eip155:1/erc20:0xf8428A5a99cb452Ea50B6Ea70b052DaA3dF4934F",
+          "location": "kucoin",
+          "location_symbol": "ZERC"
+      },
+      {
+          "asset": "eip155:1/erc20:0x744030Ad4E6c10fAf5483b62473D88a254d62261",
+          "location": "kucoin",
+          "location_symbol": "NLK"
+      },
+      {
+          "asset": "eip155:1/erc20:0x90685e300A4c4532EFCeFE91202DfE1Dfd572F47",
+          "location": "kucoin",
+          "location_symbol": "CTA"
+      },
+      {
+          "asset": "eip155:137/erc20:0x5F2F8818002dc64753daeDF4A6CB2CcB757CD220",
+          "location": "kucoin",
+          "location_symbol": "WSDM"
+      }
+    ],
+    "updates": [
+      {
+        "asset": "eip155:1/erc20:0xeC5483804e637D45cDe22Fa0869656B64b5AB1ab",
+        "location": "kucoin",
+        "location_symbol": "ACE"
+      }
+    ]
+  }
 }
