@@ -175,6 +175,91 @@
           "asset": "eip155:137/erc20:0x5F2F8818002dc64753daeDF4A6CB2CcB757CD220",
           "location": "kucoin",
           "location_symbol": "WSDM"
+      },
+      {
+          "asset": "eip155:1/erc20:0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+          "location": "poloniex",
+          "location_symbol": "OMG"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
+        "location": "poloniex",
+        "location_symbol": "TRU"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+        "location": "poloniex",
+        "location_symbol": "TOSHI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3Ba925fdeAe6B46d0BB4d424D829982Cb2F7309e",
+        "location": "poloniex",
+        "location_symbol": "RBX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3Ba925fdeAe6B46d0BB4d424D829982Cb2F7309e",
+        "location": "poloniex",
+        "location_symbol": "PAAL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xa0Dd6dd7775E93EB842Db0AA142c9c581031Ed3B",
+        "location": "poloniex",
+        "location_symbol": "MND"
+      },
+      {
+          "asset": "eip155:1/erc20:0x90685e300A4c4532EFCeFE91202DfE1Dfd572F47",
+          "location": "poloniex",
+          "location_symbol": "CTA"
+      },
+      {
+          "asset": "eip155:1/erc20:0x423352F2c6E0E72422B69Af03aba259310146d90",
+          "location": "poloniex",
+          "location_symbol": "RMV"
+      },
+      {
+          "asset": "eip155:1/erc20:0xe636f94a71eC52Cc61eF21787aE351AD832347B7",
+          "location": "poloniex",
+          "location_symbol": "CREO"
+      },
+      {
+          "asset": "eip155:56/erc20:0x8263CD1601FE73C066bf49cc09841f35348e3be0",
+          "location": "poloniex",
+          "location_symbol": "ALU"
+      },
+      {
+          "asset": "eip155:56/erc20:0x8e729198d1C59B82bd6bBa579310C40d740A11C2",
+          "location": "poloniex",
+          "location_symbol": "ALVA"
+      },
+      {
+          "asset": "eip155:1/erc20:0x68BbEd6A47194EFf1CF514B50Ea91895597fc91E",
+          "location": "poloniex",
+          "location_symbol": "ANDYETH"
+      },
+      {
+          "asset": "eip155:1/erc20:0x2077D81d0c5258230D5a195233941547cB5f0989",
+          "location": "poloniex",
+          "location_symbol": "TROG"
+      },
+      {
+          "asset": "eip155:1/erc20:0x059956483753947536204e89bfaD909E1a434Cc6",
+          "location": "poloniex",
+          "location_symbol": "ML"
+      },
+      {
+          "asset": "eip155:56/erc20:0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd",
+          "location": "poloniex",
+          "location_symbol": "LIME"
+      },
+      {
+          "asset": "eip155:1/erc20:0x382ea807A61a418479318Efd96F1EFbC5c1F2C21",
+          "location": "poloniex",
+          "location_symbol": "PEW"
+      },
+      {
+          "asset": "eip155:137/erc20:0x311434160D7537be358930def317AfB606C0D737",
+          "location": "poloniex",
+          "location_symbol": "NAKA"
       }
     ],
     "updates": [
