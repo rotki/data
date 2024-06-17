@@ -270,6 +270,24 @@
                 "chain_id": 324,
                 "decimals": 18
             }
+        },
+        "zk-binance": {
+            "csv_path": "airdrops/zk-binance.csv",
+            "csv_hash": "22d89bae5238f876aae66391c18abe963b1978d6ff3a36d4140bf00ef3db5aa9",
+            "asset_identifier": "eip155:324/erc20:0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+            "url": "https://www.binance.com/en/support/announcement/binance-will-list-zksync-zk-with-zk-token-distribution-program-d87a9b01d6634ad1a36d984cc54595ee",
+            "name": "ZK",
+            "icon": "zksync.jpg",
+            "cutoff_time": 1721174340,
+            "has_decoder": false,
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+                "name": "ZKsync",
+                "symbol": "ZK",
+                "chain_id": 324,
+                "decimals": 18
+            }
         }
     },
     "poap_airdrops": {
