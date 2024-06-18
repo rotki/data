@@ -260,6 +260,181 @@
         "asset": "eip155:137/erc20:0x311434160D7537be358930def317AfB606C0D737",
         "location": "poloniex",
         "location_symbol": "NAKA"
+      },
+      {
+        "asset": "eip155:56/erc20:0xc27A719105A987b4c34116223CAE8bd8F4B5def4",
+        "location": "independentreserve",
+        "location_symbol": "ACE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
+        "location": "iconomi",
+        "location_symbol": "AERGO"
+      },
+      {
+        "asset": "eip155:56/erc20:0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "location": "iconomi",
+        "location_symbol": "CAKE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x808507121B80c02388fAd14726482e061B8da827",
+        "location": "iconomi",
+        "location_symbol": "PENDLE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+        "location": "iconomi",
+        "location_symbol": "PEPE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+        "location": "bybit",
+        "location_symbol": "SAFE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xF0187b76be05C1FCAa24f39C0a3aAB4434099c4f",
+        "location": "bybit",
+        "location_symbol": "AEG"
+      },
+      {
+        "asset": "eip155:56/erc20:0x0E7779e698052f8fe56C415C3818FCf89de9aC6D",
+        "location": "bybit",
+        "location_symbol": "ULTI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x22514fFb0d7232a56F0c24090E7B68f179FAA940",
+        "location": "bybit",
+        "location_symbol": "QORPO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x163f8C2467924be0ae7B5347228CABF260318753",
+        "location": "bybit",
+        "location_symbol": "WLD"
+      },
+      {
+        "asset": "eip155:1/erc20:0x12652C6d93FDB6F4f37d48A8687783C782BB0d10",
+        "location": "bybit",
+        "location_symbol": "NGL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xBEF26Bd568e421D6708CCA55Ad6e35f8bfA0C406",
+        "location": "bybit",
+        "location_symbol": "BCUT"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+        "location": "bybit",
+        "location_symbol": "RPL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x740df024CE73f589ACD5E8756b377ef8C6558BaB",
+        "location": "bybit",
+        "location_symbol": "HLG"
+      },
+      {
+        "asset": "eip155:137/erc20:0x311434160D7537be358930def317AfB606C0D737",
+        "location": "bybit",
+        "location_symbol": "NAKA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
+        "location": "bybit",
+        "location_symbol": "SQD"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6B0FaCA7bA905a86F221CEb5CA404f605e5b3131",
+        "location": "bybit",
+        "location_symbol": "DEFI"
+      },
+      {
+        "asset": "eip155:1/erc20:0xC71B5F631354BE6853eFe9C3Ab6b9590F8302e81",
+        "location": "bybit",
+        "location_symbol": "ZKJ"
+      },
+      {
+        "asset": "eip155:1/erc20:0xbe0Ed4138121EcFC5c0E56B40517da27E6c5226B",
+        "location": "bybit",
+        "location_symbol": "ATH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9ad37205d608B8b219e6a2573f922094CEc5c200",
+        "location": "bybit",
+        "location_symbol": "IZI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x744030Ad4E6c10fAf5483b62473D88a254d62261",
+        "location": "bybit",
+        "location_symbol": "NLK"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7D8146cf21e8D7cbe46054e01588207b51198729",
+        "location": "bybit",
+        "location_symbol": "BOB"
+      },
+      {
+        "asset": "eip155:1/erc20:0x10dea67478c5F8C5E2D90e5E9B26dBe60c54d800",
+        "location": "bybit",
+        "location_symbol": "TAIKO"
+      },
+      {
+        "asset": "eip155:56/erc20:0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "location": "bybit",
+        "location_symbol": "CAKE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+        "location": "bybit",
+        "location_symbol": "W"
+      },
+      {
+        "asset": "eip155:1/erc20:0x944824290CC12F31ae18Ef51216A223Ba4063092",
+        "location": "bybit",
+        "location_symbol": "MASA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x90685e300A4c4532EFCeFE91202DfE1Dfd572F47",
+        "location": "bybit",
+        "location_symbol": "CTA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
+        "location": "bybit",
+        "location_symbol": "TOKEN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xCF67815ccE72E682Eb4429eCa46843bed81Ca739",
+        "location": "bybit",
+        "location_symbol": "G3"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+        "location": "bybit",
+        "location_symbol": "OMNI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x38C2a4a7330b22788374B8Ff70BBa513C8D848cA",
+        "location": "bitstamp",
+        "location_symbol": "TRUF"
+      },
+      {
+        "asset": "eip155:1/erc20:0xbe0Ed4138121EcFC5c0E56B40517da27E6c5226B",
+        "location": "bitfinex",
+        "location_symbol": "ATH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
+        "location": "bitfinex",
+        "location_symbol": "TOKEN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x10dea67478c5F8C5E2D90e5E9B26dBe60c54d800",
+        "location": "bitfinex",
+        "location_symbol": "TAIKO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x626E8036dEB333b408Be468F951bdB42433cBF18",
+        "location": "bitfinex",
+        "location_symbol": "AIOZ"
       }
     ],
     "updates": [
