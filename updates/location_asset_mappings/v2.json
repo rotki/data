@@ -435,6 +435,11 @@
         "asset": "eip155:1/erc20:0x626E8036dEB333b408Be468F951bdB42433cBF18",
         "location": "bitfinex",
         "location_symbol": "AIOZ"
+      },
+      {
+        "asset": "eip155:324/erc20:0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+        "location": "binance",
+        "location_symbol": "ZK"
       }
     ],
     "updates": [
