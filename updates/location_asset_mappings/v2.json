@@ -440,6 +440,41 @@
         "asset": "eip155:324/erc20:0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
         "location": "binance",
         "location_symbol": "ZK"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+        "location": null,
+        "location_symbol": "BNB"
+      },
+      {
+        "asset": "eip155:1/erc20:0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+        "location": null,
+        "location_symbol": "OMG"
+      },
+      {
+        "asset": "eip155:1/erc20:0x51DB5Ad35C671a87207d88fC11d593AC0C8415bd",
+        "location": null,
+        "location_symbol": "MDA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
+        "location": null,
+        "location_symbol": "SNT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+        "location": null,
+        "location_symbol": "MKR"
+      },
+      {
+        "asset": "eip155:1/erc20:0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+        "location": null,
+        "location_symbol": "UMA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+        "location": null,
+        "location_symbol": "PAXG"
       }
     ],
     "updates": [
