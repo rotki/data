@@ -270,6 +270,40 @@
                 "chain_id": 324,
                 "decimals": 18
             }
+        },
+        "eigen_phase_1":{
+            "asset_identifier":"eip155:1/erc20:0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+            "url":"https://eigenfoundation.org",
+            "api_url":"https://claims.eigenfoundation.org/clique-eigenlayer-api/campaign/eigenlayer/credentials?walletAddress={address}",
+            "amount_path":"phase1/data/pipelines/tokenQualified",
+            "name":"EIGEN phase 1",
+            "icon": "eigenlayer.png",
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+                "name": "Eigen",
+                "symbol": "EIGEN",
+                "chain_id": 1,
+                "decimals": 18
+            },
+            "cutoff_time": 1725667200
+        },
+        "eigen_phase_2":{
+            "asset_identifier":"eip155:1/erc20:0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+            "url":"https://eigenfoundation.org",
+            "api_url":"https://claims.eigenfoundation.org/clique-eigenlayer-api/campaign/eigenlayer/credentials?walletAddress={address}",
+            "amount_path":"phase2/data/pipelines/tokenQualified",
+            "name":"EIGEN phase 2",
+            "icon": "eigenlayer.png",
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+                "name": "Eigen",
+                "symbol": "EIGEN",
+                "chain_id": 1,
+                "decimals": 18
+            },
+            "cutoff_time": 1725667200
         }
     },
     "poap_airdrops": {
