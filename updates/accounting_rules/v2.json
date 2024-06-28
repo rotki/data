@@ -89,6 +89,24 @@
             "count_entire_amount_spend": false,
             "count_cost_basis_pnl": false,
             "accounting_treatment": null
+        },
+        {
+            "event_type": "transfer",
+            "event_subtype": "none",
+            "counterparty": null,
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "receive",
+            "event_subtype": "donate",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
         }
     ]
 }
