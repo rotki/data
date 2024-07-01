@@ -475,6 +475,1081 @@
         "asset": "eip155:1/erc20:0x45804880De22913dAFE09f4980848ECE6EcbAf78",
         "location": null,
         "location_symbol": "PAXG"
+      },
+      {
+        "asset": "eip155:1/erc20:0x38e382F74dfb84608F3C1F10187f6bEf5951DE93",
+        "location": "htx",
+        "location_symbol": "MUBI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+        "location": "htx",
+        "location_symbol": "FXS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+        "location": "htx",
+        "location_symbol": "PRQ"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2920f7d6134f4669343e70122cA9b8f19Ef8fa5D",
+        "location": "htx",
+        "location_symbol": "MONO"
+      },
+      {
+        "asset": "RON",
+        "location": "htx",
+        "location_symbol": "RONIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x5AFFF9876C1F98b7d2b53bCB69EB57e92408319F",
+        "location": "htx",
+        "location_symbol": "MESA"
+      },
+      {
+        "asset": "eip155:1/erc20:0xbB126042235E6bD38B17744cb31a8bF4A206c045",
+        "location": "htx",
+        "location_symbol": "FANC"
+      },
+      {
+        "asset": "eip155:1/erc20:0x163f8C2467924be0ae7B5347228CABF260318753",
+        "location": "htx",
+        "location_symbol": "WLD"
+      },
+      {
+        "asset": "eip155:1/erc20:0x430EF9263E76DAE63c84292C3409D61c598E9682",
+        "location": "htx",
+        "location_symbol": "PYR"
+      },
+      {
+        "asset": "eip155:1/erc20:0xdBB7a34Bf10169d6d2D0d02A6cbb436cF4381BFa",
+        "location": "htx",
+        "location_symbol": "ZENT"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+        "location": "htx",
+        "location_symbol": "RPL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+        "location": "htx",
+        "location_symbol": "FUSE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+        "location": "htx",
+        "location_symbol": "PEPE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xBa3335588D9403515223F109EdC4eB7269a9Ab5D",
+        "location": "htx",
+        "location_symbol": "GEARBOX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+        "location": "htx",
+        "location_symbol": "SAFE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xdA30f261a962d5AAe94C9ecd170544600d193766",
+        "location": "htx",
+        "location_symbol": "ORBR"
+      },
+      {
+        "asset": "eip155:1/erc20:0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca",
+        "location": "htx",
+        "location_symbol": "NOIA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1A3496C18d558bd9C6C8f609E1B129f67AB08163",
+        "location": "htx",
+        "location_symbol": "DEP"
+      },
+      {
+        "asset": "eip155:1/erc20:0xAE12C5930881c53715B369ceC7606B70d8EB229f",
+        "location": "htx",
+        "location_symbol": "C98"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922",
+        "location": "htx",
+        "location_symbol": "UNB"
+      },
+      {
+        "asset": "eip155:1/erc20:0x808507121B80c02388fAd14726482e061B8da827",
+        "location": "htx",
+        "location_symbol": "PENDLE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x80D55c03180349Fff4a229102F62328220A96444",
+        "location": "htx",
+        "location_symbol": "OPUL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
+        "location": "htx",
+        "location_symbol": "PROM"
+      },
+      {
+        "asset": "eip155:1/erc20:0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
+        "location": "htx",
+        "location_symbol": "ANT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+        "location": "htx",
+        "location_symbol": "CTSI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074",
+        "location": "htx",
+        "location_symbol": "MASK"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
+        "location": "htx",
+        "location_symbol": "IOTX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+        "location": "htx",
+        "location_symbol": "DYP"
+      },
+      {
+        "asset": "eip155:1/erc20:0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+        "location": "htx",
+        "location_symbol": "ROUTE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
+        "location": "htx",
+        "location_symbol": "REVV"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4297394c20800E8a38A619A243E9BbE7681Ff24E",
+        "location": "htx",
+        "location_symbol": "HOTCROSS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
+        "location": "htx",
+        "location_symbol": "SYN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+        "location": "htx",
+        "location_symbol": "WOO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+        "location": "htx",
+        "location_symbol": "GHST"
+      },
+      {
+        "asset": "WIN-3",
+        "location": "htx",
+        "location_symbol": "WIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
+        "location": "htx",
+        "location_symbol": "PBR"
+      },
+      {
+        "asset": "eip155:1/erc20:0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
+        "location": "htx",
+        "location_symbol": "IMX"
+      },
+      {
+        "asset": "eip155:1/erc20:0xE1c7E30C42C24582888C758984f6e382096786bd",
+        "location": "htx",
+        "location_symbol": "XCUR"
+      },
+      {
+        "asset": "eip155:1/erc20:0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
+        "location": "htx",
+        "location_symbol": "DEXE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xa3EE21C306A700E682AbCdfe9BaA6A08F3820419",
+        "location": "htx",
+        "location_symbol": "CTC"
+      },
+      {
+        "asset": "ONE-2",
+        "location": "htx",
+        "location_symbol": "ONE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6810e776880C02933D47DB1b9fc05908e5386b96",
+        "location": "htx",
+        "location_symbol": "GNO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4da0C48376C277cdBd7Fc6FdC6936DEE3e4AdF75",
+        "location": "htx",
+        "location_symbol": "EPIK"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4922a015c4407F87432B179bb209e125432E4a2A",
+        "location": "htx",
+        "location_symbol": "XAUT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x626E8036dEB333b408Be468F951bdB42433cBF18",
+        "location": "htx",
+        "location_symbol": "AIOZ"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+        "location": "htx",
+        "location_symbol": "BADGER"
+      },
+      {
+        "asset": "eip155:1/erc20:0x04abEdA201850aC0124161F037Efd70c74ddC74C",
+        "location": "htx",
+        "location_symbol": "NEST"
+      },
+      {
+        "asset": "eip155:1/erc20:0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
+        "location": "htx",
+        "location_symbol": "REEF"
+      },
+      {
+        "asset": "eip155:1/erc20:0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+        "location": "htx",
+        "location_symbol": "BEAMX"
+      },
+      {
+        "asset": "eip155:1/erc20:0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+        "location": "htx",
+        "location_symbol": "ADX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0996bFb5D057faa237640E2506BE7B4f9C46de0B",
+        "location": "htx",
+        "location_symbol": "RNDR"
+      },
+      {
+        "asset": "eip155:1/erc20:0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
+        "location": "htx",
+        "location_symbol": "FTT"
+      },
+      {
+        "asset": "ETH2",
+        "location": "htx",
+        "location_symbol": "BETH"
+      },
+      {
+        "asset": "eip155:1/erc20:0xfB5c6815cA3AC72Ce9F5006869AE67f18bF77006",
+        "location": "htx",
+        "location_symbol": "PSTAKE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27",
+        "location": "htx",
+        "location_symbol": "ZIL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xBBc2AE13b23d715c30720F079fcd9B4a74093505",
+        "location": "htx",
+        "location_symbol": "ERN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1ce270557C1f68Cfb577b856766310Bf8B47FD9C",
+        "location": "htx",
+        "location_symbol": "MONG"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB9bb08AB7E9Fa0A1356bd4A39eC0ca267E03b0b3",
+        "location": "htx",
+        "location_symbol": "PI"
+      },
+      {
+        "asset": "eip155:1/erc20:0xf091867EC603A6628eD83D274E835539D82e9cc8",
+        "location": "htx",
+        "location_symbol": "ZETA"
+      },
+      {
+        "asset": "eip155:1/erc20:0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+        "location": "htx",
+        "location_symbol": "ALICE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0000000000085d4780B73119b644AE5ecd22b376",
+        "location": "htx",
+        "location_symbol": "TUSD"
+      },
+      {
+        "asset": "eip155:1/erc20:0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
+        "location": "htx",
+        "location_symbol": "RSR"
+      },
+      {
+        "asset": "eip155:1/erc20:0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
+        "location": "htx",
+        "location_symbol": "ARPA"
+      },
+      {
+        "asset": "eip155:1/erc20:0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe",
+        "location": "htx",
+        "location_symbol": "XTM"
+      },
+      {
+        "asset": "eip155:1/erc20:0x29d578CEc46B50Fa5C88a99C6A4B70184C062953",
+        "location": "htx",
+        "location_symbol": "EVER"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+        "location": "htx",
+        "location_symbol": "INJ"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb2617246d0c6c0087f18703d576831899ca94f01",
+        "location": "htx",
+        "location_symbol": "ZIG"
+      },
+      {
+        "asset": "eip155:1/erc20:0xF411903cbC70a74d22900a5DE66A2dda66507255",
+        "location": "htx",
+        "location_symbol": "VRA"
+      },
+      {
+        "asset": "eip155:1/erc20:0xFE67A4450907459c3e1FFf623aA927dD4e28c67a",
+        "location": "htx",
+        "location_symbol": "NEXT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
+        "location": "htx",
+        "location_symbol": "ANKR"
+      },
+      {
+        "asset": "eip155:1/erc20:0x888888848B652B3E3a0f34c96E00EEC0F3a23F72",
+        "location": "htx",
+        "location_symbol": "TLM"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb478c6245e3D85D6EC3486B62ea872128d562541",
+        "location": "htx",
+        "location_symbol": "LOOT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x909E34d3f6124C324ac83DccA84b74398a6fa173",
+        "location": "htx",
+        "location_symbol": "ZKP"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb056c38f6b7Dc4064367403E26424CD2c60655e1",
+        "location": "htx",
+        "location_symbol": "CEEK"
+      },
+      {
+        "asset": "eip155:1/erc20:0x628A3b2E302C7e896AcC432D2d0dD22B6cb9bc88",
+        "location": "htx",
+        "location_symbol": "LMWR"
+      },
+      {
+        "asset": "eip155:56/erc20:0x14778860E937f509e651192a90589dE711Fb88a9",
+        "location": "htx",
+        "location_symbol": "CYBER"
+      },
+      {
+        "asset": "eip155:1/erc20:0x915044526758533dfB918ecEb6e44bc21632060D",
+        "location": "htx",
+        "location_symbol": "CHR"
+      },
+      {
+        "asset": "eip155:1/erc20:0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d",
+        "location": "htx",
+        "location_symbol": "FIS"
+      },
+      {
+        "asset": "eip155:1/erc20:0xC581b735A1688071A1746c968e0798D642EDE491",
+        "location": "htx",
+        "location_symbol": "EURT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x80C62FE4487E1351b47Ba49809EBD60ED085bf52",
+        "location": "htx",
+        "location_symbol": "CLV"
+      },
+      {
+        "asset": "eip155:1/erc20:0xcFEB09C3c5F0f78aD72166D55f9e6E9A60e96eEC",
+        "location": "htx",
+        "location_symbol": "VEMP"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
+        "location": "htx",
+        "location_symbol": "HOT"
+      },
+      {
+        "asset": "eip155:1/erc20:0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
+        "location": "htx",
+        "location_symbol": "SWAP"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb31eF9e52d94D4120eb44Fe1ddfDe5B4654A6515",
+        "location": "htx",
+        "location_symbol": "DOSE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
+        "location": "htx",
+        "location_symbol": "POLS"
+      },
+      {
+        "asset": "eip155:1/erc20:0xf8C3527CC04340b208C854E985240c02F7B7793f",
+        "location": "htx",
+        "location_symbol": "FRONT"
+      },
+      {
+        "asset": "eip155:137/erc20:0xE5417Af564e4bFDA1c483642db72007871397896",
+        "location": "htx",
+        "location_symbol": "GNS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
+        "location": "htx",
+        "location_symbol": "REQ"
+      },
+      {
+        "asset": "eip155:1/erc20:0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+        "location": "htx",
+        "location_symbol": "STG"
+      },
+      {
+        "asset": "eip155:1/erc20:0x12970E6868f88f6557B76120662c1B3E50A646bf",
+        "location": "htx",
+        "location_symbol": "LADYS"
+      },
+      {
+        "asset": "eip155:56/erc20:0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "location": "htx",
+        "location_symbol": "CAKE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x24EC2Ca132abf8F6f8a6E24A1B97943e31f256a7",
+        "location": "htx",
+        "location_symbol": "MOOV"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2162f572B25f7358db9376AB58a947a4e45CeDE1",
+        "location": "htx",
+        "location_symbol": "LBL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+        "location": "htx",
+        "location_symbol": "METIS"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb3999F658C0391d94A37f7FF328F3feC942BcADC",
+        "location": "htx",
+        "location_symbol": "HFT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+        "location": "htx",
+        "location_symbol": "TON"
+      },
+      {
+        "asset": "eip155:1/erc20:0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+        "location": "htx",
+        "location_symbol": "DF"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
+        "location": "htx",
+        "location_symbol": "SUPER"
+      },
+      {
+        "asset": "eip155:1/erc20:0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
+        "location": "htx",
+        "location_symbol": "DODO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
+        "location": "htx",
+        "location_symbol": "QUICK"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6B0b3a982b4634aC68dD83a4DBF02311cE324181",
+        "location": "htx",
+        "location_symbol": "ALI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2653891204F463fb2a2F4f412564b19e955166aE",
+        "location": "htx",
+        "location_symbol": "NGL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+        "location": "htx",
+        "location_symbol": "ORBS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x94a7f270cd12545A277E656266Aef5e27dF3Eb28",
+        "location": "htx",
+        "location_symbol": "STRM"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7659CE147D0e714454073a5dd7003544234b6Aa0",
+        "location": "htx",
+        "location_symbol": "XCAD"
+      },
+      {
+        "asset": "eip155:1/erc20:0x31e4efe290973ebE91b3a875a7994f650942D28F",
+        "location": "htx",
+        "location_symbol": "SHRAP"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1FCdcE58959f536621d76f5b7FfB955baa5A672F",
+        "location": "htx",
+        "location_symbol": "FOR"
+      },
+      {
+        "asset": "eip155:1/erc20:0x993864E43Caa7F7F12953AD6fEb1d1Ca635B875F",
+        "location": "htx",
+        "location_symbol": "SDAO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
+        "location": "htx",
+        "location_symbol": "UFT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3496B523e5C00a4b4150D6721320CdDb234c3079",
+        "location": "htx",
+        "location_symbol": "NUM"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
+        "location": "htx",
+        "location_symbol": "TRU"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373",
+        "location": "htx",
+        "location_symbol": "GMEE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+        "location": "htx",
+        "location_symbol": "PERP"
+      },
+      {
+        "asset": "eip155:1/erc20:0xf8E9F10c22840b613cdA05A0c5Fdb59A4d6cd7eF",
+        "location": "htx",
+        "location_symbol": "ELON"
+      },
+      {
+        "asset": "eip155:1/erc20:0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
+        "location": "htx",
+        "location_symbol": "POLC"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD04E772BC0d591fBD288f2E2a86aFA3D3CB647F8",
+        "location": "htx",
+        "location_symbol": "LAI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
+        "location": "htx",
+        "location_symbol": "LINA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
+        "location": "htx",
+        "location_symbol": "SXP"
+      },
+      {
+        "asset": "eip155:56/erc20:0x0203D275D2A65030889aF45ed91D472be3948B92",
+        "location": "htx",
+        "location_symbol": "FURY"
+      },
+      {
+        "asset": "eip155:137/erc20:0x5F2F8818002dc64753daeDF4A6CB2CcB757CD220",
+        "location": "htx",
+        "location_symbol": "WSDM"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7D8146cf21e8D7cbe46054e01588207b51198729",
+        "location": "htx",
+        "location_symbol": "BOB"
+      },
+      {
+        "asset": "eip155:1/erc20:0x382ea807A61a418479318Efd96F1EFbC5c1F2C21",
+        "location": "htx",
+        "location_symbol": "PEW"
+      },
+      {
+        "asset": "eip155:137/erc20:0x311434160D7537be358930def317AfB606C0D737",
+        "location": "htx",
+        "location_symbol": "NAKA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x90685e300A4c4532EFCeFE91202DfE1Dfd572F47",
+        "location": "htx",
+        "location_symbol": "CTA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x06450dEe7FD2Fb8E39061434BAbCFC05599a6Fb8",
+        "location": "htx",
+        "location_symbol": "XEN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3Ba925fdeAe6B46d0BB4d424D829982Cb2F7309e",
+        "location": "htx",
+        "location_symbol": "PAAL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x08389495D7456E1951ddF7c3a1314A4bfb646d8B",
+        "location": "htx",
+        "location_symbol": "CRPT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
+        "location": "htx",
+        "location_symbol": "OPEN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9E976F211daea0D652912AB99b0Dc21a7fD728e4",
+        "location": "htx",
+        "location_symbol": "MAPO"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+        "location": "htx",
+        "location_symbol": "DEGEN"
+      },
+      {
+        "asset": "eip155:56/erc20:0xc27A719105A987b4c34116223CAE8bd8F4B5def4",
+        "location": "htx",
+        "location_symbol": "ACE"
+      },
+      {
+        "asset": "eip155:137/erc20:0xaF0dC42725db75AE54f5E8945e71017Bc7ACd27d",
+        "location": "htx",
+        "location_symbol": "NEXG"
+      },
+      {
+        "asset": "eip155:56/erc20:0x8263CD1601FE73C066bf49cc09841f35348e3be0",
+        "location": "htx",
+        "location_symbol": "ALU"
+      },
+      {
+        "asset": "eip155:1/erc20:0xbe0Ed4138121EcFC5c0E56B40517da27E6c5226B",
+        "location": "htx",
+        "location_symbol": "ATH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x944824290CC12F31ae18Ef51216A223Ba4063092",
+        "location": "htx",
+        "location_symbol": "MASA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x79F05c263055BA20EE0e814ACD117C20CAA10e0c",
+        "location": "htx",
+        "location_symbol": "ICE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x5732046A883704404F284Ce41FfADd5b007FD668",
+        "location": "htx",
+        "location_symbol": "BLZ"
+      },
+      {
+        "asset": "eip155:1/erc20:0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+        "location": "htx",
+        "location_symbol": "DIA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
+        "location": "htx",
+        "location_symbol": "TRB"
+      },
+      {
+        "asset": "eip155:1/erc20:0xEd04915c23f00A313a544955524EB7DBD823143d",
+        "location": "htx",
+        "location_symbol": "ACH"
+      },
+      {
+        "asset": "eip155:1/erc20:0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+        "location": "htx",
+        "location_symbol": "FET"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB0c7a3Ba49C7a6EaBa6cD4a96C55a1391070Ac9A",
+        "location": "htx",
+        "location_symbol": "MAGIC"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7f792db54B0e580Cdc755178443f0430Cf799aCa",
+        "location": "htx",
+        "location_symbol": "VOLT"
+      },
+      {
+        "asset": "eip155:56/erc20:0xf486ad071f3bEE968384D2E39e2D8aF0fCf6fd46",
+        "location": "htx",
+        "location_symbol": "VELO"
+      },
+      {
+        "asset": "eip155:1/erc20:0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+        "location": "htx",
+        "location_symbol": "FLOKI"
+      },
+      {
+        "asset": "eip155:56/erc20:0x5e7f472B9481C80101b22D0bA4ef4253Aa61daBc",
+        "location": "htx",
+        "location_symbol": "MUDOL2"
+      },
+      {
+        "asset": "eip155:56/erc20:0x22b4fA9a13A0D303Ad258Ee6D62A6ac60364B0C9",
+        "location": "htx",
+        "location_symbol": "PUMP"
+      },
+      {
+        "asset": "eip155:56/erc20:0x837656c3f5858692cCdce13BA66e09d2685073df",
+        "location": "htx",
+        "location_symbol": "TOX"
+      },
+      {
+        "asset": "eip155:1/erc20:0xde16Ce60804a881e9F8c4eBB3824646EDecd478D",
+        "location": "htx",
+        "location_symbol": "MCRT"
+      },
+      {
+        "asset": "eip155:56/erc20:0x3a599e584075065eAAAc768D75EaEf85c2f2fF64",
+        "location": "htx",
+        "location_symbol": "FDT"
+      },
+      {
+        "asset": "eip155:1/erc20:0xbA6B0dbb2bA8dAA8F5D6817946393Aef8D3A4487",
+        "location": "htx",
+        "location_symbol": "HSF"
+      },
+      {
+        "asset": "eip155:1/erc20:0x226bb599a12C826476e3A771454697EA52E9E220",
+        "location": "htx",
+        "location_symbol": "PROPY"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb9f599ce614Feb2e1BBe58F180F370D05b39344E",
+        "location": "htx",
+        "location_symbol": "PORK"
+      },
+      {
+        "asset": "eip155:56/erc20:0xF700D4c708C2be1463E355F337603183D20E0808",
+        "location": "htx",
+        "location_symbol": "GQ"
+      },
+      {
+        "asset": "eip155:56/erc20:0x62891201468A517EeEc00FE72f33595a3F9047eE",
+        "location": "htx",
+        "location_symbol": "HYPE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD29DA236dd4AAc627346e1bBa06A619E8c22d7C5",
+        "location": "htx",
+        "location_symbol": "MAGA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x22987407FD1fC5A971e3FDA3B3e74C88666cDa91",
+        "location": "htx",
+        "location_symbol": "SRT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x823556202e86763853b40e9cDE725f412e294689",
+        "location": "htx",
+        "location_symbol": "ASTO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3E2c956b4Ab4807B2f942235c9074d9BD069e9f0",
+        "location": "htx",
+        "location_symbol": "IPV"
+      },
+      {
+        "asset": "eip155:56/erc20:0x121235cfF4c59EEC80b14c1d38B44e7de3A18287",
+        "location": "htx",
+        "location_symbol": "DKS"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe4815AE53B124e7263F08dcDBBB757d41Ed658c6",
+        "location": "htx",
+        "location_symbol": "ZKB"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3A0b022f32b3191D44E5847da12dc0B63fb07C91",
+        "location": "htx",
+        "location_symbol": "SPELLFIRE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+        "location": "htx",
+        "location_symbol": "INSUR"
+      },
+      {
+        "asset": "eip155:1/erc20:0x69A1e699f562D7Af66Fc6cc473d99f4430C3AcD2",
+        "location": "htx",
+        "location_symbol": "PARAM"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8E964e35A76103Af4C7D7318e1B1a82c682ae296",
+        "location": "htx",
+        "location_symbol": "FLZ"
+      },
+      {
+        "asset": "eip155:1/erc20:0xF5cFBC74057C610c8EF151A439252680AC68c6DC",
+        "location": "htx",
+        "location_symbol": "OCT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1cCF27211e8bf052f6255329ed641B4E94E80603",
+        "location": "htx",
+        "location_symbol": "BABY"
+      },
+      {
+        "asset": "eip155:1/erc20:0x71Fc1F555a39E0B698653AB0b475488EC3c34D57",
+        "location": "htx",
+        "location_symbol": "RAIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb06B8186cc008A79FD6722B1eefad07c14E97dA0",
+        "location": "htx",
+        "location_symbol": "SIGN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x88800092fF476844f74dC2FC427974BBee2794Ae",
+        "location": "htx",
+        "location_symbol": "WALLET"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3EF389f264e07fFF3106A3926F2a166d1393086F",
+        "location": "htx",
+        "location_symbol": "SAO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2a9bDCFF37aB68B95A53435ADFd8892e86084F93",
+        "location": "htx",
+        "location_symbol": "AQT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x968Cbe62c830A0Ccf4381614662398505657A2A9",
+        "location": "htx",
+        "location_symbol": "TPY"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb3Cb8d5AEFF0F4d1f432f353309f47b885E404E3",
+        "location": "htx",
+        "location_symbol": "MEV"
+      },
+      {
+        "asset": "ETHF",
+        "location": "htx",
+        "location_symbol": "DIS"
+      },
+      {
+        "asset": "eip155:1/erc20:0xFf9c1f21c621696C4f91cF781ec31Bd913EE2C26",
+        "location": "htx",
+        "location_symbol": "COM"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD3c51de3E6DD9b53D7f37699AFB3EE3Bf9B9b3F4",
+        "location": "htx",
+        "location_symbol": "MCONTENT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x046BAd07658f3B6cAd9A396CFcbC1243AF452ec1",
+        "location": "htx",
+        "location_symbol": "AL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe75ad3aAB14E4B0dF8c5da4286608DaBb21Bd864",
+        "location": "htx",
+        "location_symbol": "AAC"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8AB2ff0116A279a99950C66A12298962D152B83c",
+        "location": "htx",
+        "location_symbol": "ORDS"
+      },
+      {
+        "asset": "eip155:56/erc20:0xb2ea51BAa12C461327d12A2069d47b30e680b69D",
+        "location": "htx",
+        "location_symbol": "SMCW"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1F4cb968b76931C494Ff92ED80CCB169ad641cb1",
+        "location": "htx",
+        "location_symbol": "STF"
+      },
+      {
+        "asset": "eip155:56/erc20:0x9E24415d1e549EBc626a13a482Bb117a2B43e9CF",
+        "location": "htx",
+        "location_symbol": "LOVELY"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4C6E2c495b974b8d4220E370F23c7e0e1da9b644",
+        "location": "htx",
+        "location_symbol": "SMILEY"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc314b0E758D5FF74f63e307A86EbfE183C95767b",
+        "location": "htx",
+        "location_symbol": "ADP"
+      },
+      {
+        "asset": "eip155:1/erc20:0xF33893DE6eB6aE9A67442E066aE9aBd228f5290c",
+        "location": "htx",
+        "location_symbol": "GRV"
+      },
+      {
+        "asset": "eip155:56/erc20:0xB0461d7E8212D311b842A58e9989edE849ac6816",
+        "location": "htx",
+        "location_symbol": "OLAND"
+      },
+      {
+        "asset": "eip155:56/erc20:0x24Ef78C7092d255Ed14a0281ac1800C359aF3afe",
+        "location": "htx",
+        "location_symbol": "RAB"
+      },
+      {
+        "asset": "eip155:137/erc20:0x5eC03C1f7fA7FF05EC476d19e34A22eDDb48ACdc",
+        "location": "htx",
+        "location_symbol": "ZED"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9F7fC686CfD64aA5Ae15b351d03071e91533094b",
+        "location": "htx",
+        "location_symbol": "TRACE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3C2A309d9005433c1BC2C92EF1bE06489e5bf258",
+        "location": "htx",
+        "location_symbol": "WPCI"
+      },
+      {
+        "asset": "eip155:1/erc20:0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
+        "location": "htx",
+        "location_symbol": "BSSB"
+      },
+      {
+        "asset": "eip155:1/erc20:0xa89e2871A850E0e6fD8F0018eC1fc62FA75440d4",
+        "location": "htx",
+        "location_symbol": "RTF"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3C4008eca800Ec1283E4cf500E68D06BFaBc00a8",
+        "location": "htx",
+        "location_symbol": "HAO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x719e7f0daDFdeA25B78595da944F44d15d7E6795",
+        "location": "htx",
+        "location_symbol": "MUSK"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe9689028eDE16c2FDFE3D11855D28f8E3fC452a3",
+        "location": "htx",
+        "location_symbol": "BUBBLE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+        "location": "htx",
+        "location_symbol": "XPNT"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB49fa25978abf9a248b8212Ab4b87277682301c0",
+        "location": "htx",
+        "location_symbol": "SOFI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x93581991f68DBaE1eA105233b67f7FA0D6BDeE7b",
+        "location": "htx",
+        "location_symbol": "EVMOS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0",
+        "location": "htx",
+        "location_symbol": "DKA"
+      },
+      {
+        "asset": "eip155:1/erc20:0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b",
+        "location": "htx",
+        "location_symbol": "TOP"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4c601dc69AfFb0D4Fc8dE1Ac303705e432A4A27E",
+        "location": "htx",
+        "location_symbol": "KCT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x571d9b73DC04ed88B4e273E048C8d4848F83b779",
+        "location": "htx",
+        "location_symbol": "CLOSEDAI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9Ab70e92319f0b9127df78868Fd3655fB9f1E322",
+        "location": "htx",
+        "location_symbol": "WWY"
+      },
+      {
+        "asset": "eip155:1/erc20:0xfB09122d1e17170C1807BFc1Ef3c614BD85E1B6e",
+        "location": "htx",
+        "location_symbol": "CCROWD"
+      },
+      {
+        "asset": "eip155:137/erc20:0xC1543024DC71247888a7e139c644F44E75E96d38",
+        "location": "htx",
+        "location_symbol": "BWO"
+      },
+      {
+        "asset": "eip155:56/erc20:0x9720CA160Bbd4E7f3dD4bb3f8BD4227ca0342e63",
+        "location": "htx",
+        "location_symbol": "GMPD"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9ee8c380E1926730aD89e91665FF27063b13c90A",
+        "location": "htx",
+        "location_symbol": "CA"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xE3086852A4B125803C815a158249ae468A3254Ca",
+        "location": "htx",
+        "location_symbol": "MFER"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD",
+        "location": "htx",
+        "location_symbol": "CBK"
+      },
+      {
+        "asset": "eip155:56/erc20:0x56156Fb7860d7EB0B4b1a5356C5354b295194A45",
+        "location": "htx",
+        "location_symbol": "SPRT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x32a7C02e79c4ea1008dD6564b35F131428673c41",
+        "location": "htx",
+        "location_symbol": "CRU"
+      },
+      {
+        "asset": "eip155:56/erc20:0x52Da44B5E584F730005daC8D2D2AcbDee44D4ba3",
+        "location": "htx",
+        "location_symbol": "KT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f",
+        "location": "htx",
+        "location_symbol": "BOX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7237C0B30B1355f1B76355582f182F6f04B08740",
+        "location": "htx",
+        "location_symbol": "MGG"
       }
     ],
     "updates": [
