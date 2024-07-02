@@ -15,9 +15,10 @@ if __name__ == '__main__':
     try:
         file_paths = [sys.argv[1]]
     except IndexError as e:
-        with open('airdrops/index_v1.json', 'r') as f:
+        with open('airdrops/index_v3.json', 'r') as f:
             index = json.load(f)
-        file_paths = [data['csv_path'] for data in index['airdrops'].values()]
+
+        file_paths = [data['file_path'] for data in index['airdrops'].values() if 'api_url' not in data]
         file_paths.extend([data[0] for data in index['poap_airdrops'].values()])
 
     for file_path in file_paths:
