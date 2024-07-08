@@ -35,7 +35,7 @@
         },
         "grain": {
             "file_path": "airdrops/grain_iou.parquet",
-            "file_hash": "9ecb23818bf52d8286b1cb887806b952643cd041f2fc876873b5033add0a7c61",
+            "file_hash": "68655b62f8fa68c10e83e5ad567887aee64ad4dc27abf3b64175a78696c1f09b",
             "asset_identifier": "eip155:1/erc20:0x6589fe1271A0F29346796C6bAf0cdF619e25e58e",
             "url": "https://claim.harvest.finance/",
             "name": "Grain",
@@ -61,7 +61,7 @@
         },
         "curve": {
             "file_path": "airdrops/curve_airdrop.parquet",
-            "file_hash": "a681dd8f020f313254f1ef99fc9ff41cdb78cea2e7275cb4b5f5b9faece2250d",
+            "file_hash": "f0d19f0738826ca241c44ccdbbad6e7ae13588283a4b2aecc121b07dbf19329d",
             "asset_identifier": "eip155:1/erc20:0xD533a949740bb3306d119CC777fa900bA034cd52",
             "url": "https://www.curve.fi/",
             "name": "Curve Finance",
@@ -113,7 +113,7 @@
         },
         "cow_mainnet": {
             "file_path": "airdrops/cow_mainnet.parquet",
-            "file_hash": "079f37c11ae65e1dda896e46f46e429403a53922b157122886c62b40c38bb5ed",
+            "file_hash": "fef331d07d98fe94ddbea421188352d3109abf13036a923c7347385175b4d344",
             "asset_identifier": "eip155:1/erc20:0xD057B63f5E69CF1B929b356b579Cba08D7688048",
             "url": "https://cowswap.exchange/#/claim",
             "name": "COW (ethereum)",
@@ -216,6 +216,24 @@
                 "decimals": 18
             }
         },
+        "degen2_season2": {
+            "file_path": "airdrops/degen2_season2.parquet",
+            "file_hash": "4a0fc18d29291fff6d9eaf6f546abde50c74c8c2ded37ccd6c20149e22e0698c",
+            "asset_identifier": "eip155:8453/erc20:0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+            "url": "https://www.degen.tips/airdrop2/season2",
+            "name": "DEGEN",
+            "icon": "degen.svg",
+            "icon_path": "airdrops/icons/degen.svg",
+            "cutoff_time": 1714435200,
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+                "name": "Degen",
+                "symbol": "DEGEN",
+                "chain_id": 8453,
+                "decimals": 18
+            }
+        },
         "degen2_season3": {
             "file_path": "airdrops/degen2_season3.parquet",
             "file_hash": "7b3ee9fd6bebfe5a640c40ba4effe29ce5f0bd1e05c9222fb25f1859f9af0a6f",
@@ -271,12 +289,12 @@
                 "decimals": 18
             }
         },
-        "eigen_phase_1":{
-            "asset_identifier":"eip155:1/erc20:0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
-            "url":"https://eigenfoundation.org",
-            "api_url":"https://claims.eigenfoundation.org/clique-eigenlayer-api/campaign/eigenlayer/credentials?walletAddress={address}",
-            "amount_path":"phase1/data/pipelines/tokenQualified",
-            "name":"EIGEN phase 1",
+        "eigen_s1_phase1": {
+            "asset_identifier": "eip155:1/erc20:0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+            "url": "https://eigenfoundation.org",
+            "api_url": "https://claims.eigenfoundation.org/clique-eigenlayer-api/campaign/eigenlayer/credentials?walletAddress={address}",
+            "amount_path": "phase1/data/pipelines/tokenQualified",
+            "name": "EIGEN phase 1",
             "icon": "eigenlayer.png",
             "new_asset_data": {
                 "asset_type": "EVM_TOKEN",
@@ -288,12 +306,12 @@
             },
             "cutoff_time": 1725667200
         },
-        "eigen_phase_2":{
-            "asset_identifier":"eip155:1/erc20:0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
-            "url":"https://eigenfoundation.org",
-            "api_url":"https://claims.eigenfoundation.org/clique-eigenlayer-api/campaign/eigenlayer/credentials?walletAddress={address}",
-            "amount_path":"phase2/data/pipelines/tokenQualified",
-            "name":"EIGEN phase 2",
+        "eigen_s1_phase2": {
+            "asset_identifier": "eip155:1/erc20:0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+            "url": "https://eigenfoundation.org",
+            "api_url": "https://claims.eigenfoundation.org/clique-eigenlayer-api/campaign/eigenlayer/credentials?walletAddress={address}",
+            "amount_path": "phase2/data/pipelines/tokenQualified",
+            "name": "EIGEN phase 2",
             "icon": "eigenlayer.png",
             "new_asset_data": {
                 "asset_type": "EVM_TOKEN",
@@ -304,6 +322,24 @@
                 "decimals": 18
             },
             "cutoff_time": 1725667200
+        },
+        "degen2_season4": {
+            "file_path": "airdrops/degen2_season4.parquet",
+            "file_hash": "e2e8190a901b937004e67917f7b3d7d5452c97d0e80be4b3b25324f4a2fa4263",
+            "asset_identifier": "eip155:8453/erc20:0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+            "url": "https://www.degen.tips/airdrop2/season4",
+            "name": "DEGEN",
+            "icon": "degen.svg",
+            "icon_path": "airdrops/icons/degen.svg",
+            "cutoff_time": 1719532800,
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+                "name": "Degen",
+                "symbol": "DEGEN",
+                "chain_id": 8453,
+                "decimals": 18
+            }
         }
     },
     "poap_airdrops": {
