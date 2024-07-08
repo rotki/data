@@ -1,12 +1,13 @@
 import hashlib
 import json
 import os
-from typing import Final
 import polars
 import pytest
 import requests
+from decimal import Decimal
 from eth_utils import is_checksum_address
 from jsonschema import validate
+from typing import Final
 
 
 ROTKI_REPO_BASE: Final = 'https://raw.githubusercontent.com/rotki/rotki/develop'
@@ -42,8 +43,11 @@ def test_files_and_jsons():
             with open(airdrop['file_path'], 'br') as f:
                 assert airdrop['file_hash'] == hashlib.sha256(f.read()).hexdigest(), f'Invalid hash for {airdrop["file_path"]}'
             df = polars.read_parquet(airdrop['file_path'])
-            for i, (address,) in enumerate(df.select(polars.selectors.by_index(0)).rows()):
-               assert is_checksum_address(address), f'{airdrop["file_path"]} address {address} is not checksummed at row {i+2}'
+            assert df.columns[:2] == ['address', 'amount'], f'{airdrop["file_path"]} does not have address and amount columns'
+            assert len(df.rows()) > 0, f'{airdrop["file_path"]} is empty'
+            for i, (address, amount) in enumerate(df.select(polars.selectors.by_index(0, 1)).rows()):
+               assert is_checksum_address(address), f'{airdrop["file_path"]} address {address} is not checksummed at row {i+1}'
+               assert Decimal(amount) > 0, f'{airdrop["file_path"]} amount {amount} is negative at row {i+1}'
         else:
             assert TEST_ADDR in airdrop['api_url'].format(address=TEST_ADDR)  # check that the format variable is in the url
             assert 'amount_path' in airdrop
