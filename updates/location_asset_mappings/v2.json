@@ -1550,6 +1550,11 @@
         "asset": "eip155:1/erc20:0x7237C0B30B1355f1B76355582f182F6f04B08740",
         "location": "htx",
         "location_symbol": "MGG"
+      },
+      {
+        "asset": "eip155:1/erc20:0x50327c6c5a14DCaDE707ABad2E27eB517df87AB5",
+        "location": null,
+        "location_symbol": "TRX"
       }
     ],
     "updates": [
@@ -1562,6 +1567,16 @@
         "asset": "eip155:1/erc20:0x12652C6d93FDB6F4f37d48A8687783C782BB0d10",
         "location": "kucoin",
         "location_symbol": "NGL"
+      }
+    ],
+    "deletions": [
+      {
+        "location": "kraken",
+        "location_symbol": "TRX"
+      },
+      {
+        "location": "uphold",
+        "location_symbol": "TRX"
       }
     ]
   }
