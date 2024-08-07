@@ -37,7 +37,7 @@
   },
   {
     "message": "Enjoying rotki? Consider ",
-    "message_highlight": "supporting us in",
+    "message_highlight": "supporting us in the",
     "action": {
       "text": "Celo Real World Builders Round at Gitcoin",
       "url": "https://explorer.gitcoin.co/#/round/42220/11/66"
