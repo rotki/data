@@ -42,7 +42,7 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of the Real World Builders Round at Gitcoin",
+      "text": "rotki is part of the Celo Real World Builders Round at Gitcoin",
       "action": {
         "text": "Support us here",
         "url": "https://explorer.gitcoin.co/#/round/42220/11/66"
