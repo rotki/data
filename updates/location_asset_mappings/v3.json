@@ -1,0 +1,36 @@
+{
+  "location_asset_mappings": {
+    "updates": [
+      {
+        "asset": "eip155:1/erc20:0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+        "location": "binance",
+        "location_symbol": "FET"
+      },
+      {
+        "asset": "eip155:1/erc20:0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+        "location": "bitfinex",
+        "location_symbol": "FET"
+      },
+      {
+        "asset": "eip155:1/erc20:0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+        "location": "bittrex",
+        "location_symbol": "FET"
+      },
+      {
+        "asset": "eip155:1/erc20:0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+        "location": "iconomi",
+        "location_symbol": "FET"
+      },
+      {
+        "asset": "eip155:1/erc20:0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+        "location": "kucoin",
+        "location_symbol": "FET"
+      },
+      {
+        "asset": "eip155:1/erc20:0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+        "location": "okx",
+        "location_symbol": "FET"
+      }
+    ]
+  }
+}
