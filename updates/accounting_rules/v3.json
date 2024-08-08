@@ -1,0 +1,31 @@
+{
+    "accounting_rules": [
+        {
+            "event_type": "spend",
+            "event_subtype": "payment",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "receive",
+            "event_subtype": "payment",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "receive",
+            "event_subtype": "grant",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        }
+    ]
+}
