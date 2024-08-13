@@ -340,6 +340,21 @@
                 "chain_id": 8453,
                 "decimals": 18
             }
+        },
+        "debridge_1": {
+            "file_path": "airdrops/debridge_1.parquet",
+            "file_hash": "aea1b729dea8ae1e2b412c5c6d821854cde4dc84ad996e54ba76439e08fabb58",
+            "asset_identifier": "DBR",
+            "url": "https://debridge.foundation/",
+            "name": "DBR",
+            "icon": "debridge.svg",
+            "icon_path": "airdrops/icons/debridge.svg",
+            "new_asset_data": {
+                "asset_type": "SOLANA_TOKEN",
+                "name": "DeBridge",
+                "symbol": "DBR",
+                "coingecko": "debridge"
+            }
         }
     },
     "poap_airdrops": {
