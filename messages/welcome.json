@@ -3,14 +3,14 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of the Arbitrum Round at Giveth",
+      "text": "rotki is part of the GIV-a-Palooza QF Round at Giveth",
       "action": {
         "text": "Support us here",
         "url": "https://giveth.io/project/rotki"
       },
       "period": {
-        "start": 1722351600,
-        "end": 1723629540
+        "start": 1725948000,
+        "end": 1727258340
       }
     },
     {
