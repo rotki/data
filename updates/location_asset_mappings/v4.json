@@ -1,0 +1,10 @@
+{
+  "location_asset_mappings": {
+    "deletions": [
+      {
+        "location": "kraken",
+        "location_symbol": "OMG"
+      }
+    ]
+  }
+}
