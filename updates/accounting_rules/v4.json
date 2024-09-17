@@ -26,6 +26,24 @@
             "count_entire_amount_spend": true,
             "count_cost_basis_pnl": true,
             "accounting_treatment": null
+        },
+        {
+            "event_type": "loss",
+            "event_subtype": "hack",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "loss",
+            "event_subtype": "liquidate",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
         }
     ]
 }
