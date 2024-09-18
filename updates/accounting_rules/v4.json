@@ -44,6 +44,15 @@
             "count_entire_amount_spend": true,
             "count_cost_basis_pnl": true,
             "accounting_treatment": null
+        },
+        {
+            "event_type": "fail",
+            "event_subtype": "fee",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
         }
     ]
 }
