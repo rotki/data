@@ -1,0 +1,17 @@
+{
+  "location_asset_mappings": {
+    "deletions": [
+      {
+        "location": "kraken",
+        "location_symbol": "OMG"
+      }
+    ],
+    "updates": [
+      {
+        "asset": "eip155:1/erc20:0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d",
+        "location": "binance",
+        "location_symbol": "MCO"
+      }
+    ]
+  }
+}

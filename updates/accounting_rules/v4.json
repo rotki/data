@@ -1,0 +1,85 @@
+{
+    "accounting_rules": [
+        {
+            "event_type": "transfer",
+            "event_subtype": "fee",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "receive",
+            "event_subtype": "interest",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "receive",
+            "event_subtype": "cashback",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "loss",
+            "event_subtype": "hack",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "loss",
+            "event_subtype": "liquidate",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "fail",
+            "event_subtype": "fee",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "receive",
+            "event_subtype": "refund",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "adjustment",
+            "event_subtype": "spend",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "adjustment",
+            "event_subtype": "receive",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        }
+    ]
+}
