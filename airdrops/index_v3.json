@@ -177,9 +177,20 @@
             "file_hash": "4b1636e5ef35d9f29278b4de1ad02f531e73b286f70d09a2e247d5506470cc87",
             "asset_identifier": "eip155:10/erc20:0x4200000000000000000000000000000000000042",
             "url": "https://app.optimism.io/airdrops/4",
-            "name": "OP",
+            "name": "OP airdrop 4",
             "icon": "optimism.svg",
+            "icon_path": "airdrops/icons/optimism.svg",
             "cutoff_time": 1739491200
+        },
+        "optimism_5": {
+            "file_path": "airdrops/op_airdrop_5.parquet",
+            "file_hash": "cef4f943792d1323c1fdeccf92bfca3d90ba1643feaa474e02fc2741bd8867f8",
+            "asset_identifier": "eip155:10/erc20:0x4200000000000000000000000000000000000042",
+            "url": "https://app.optimism.io/airdrops/5",
+            "name": "OP airdrop 5",
+            "icon": "optimism.svg",
+            "icon_path": "airdrops/icons/optimism.svg",
+            "cutoff_time": 1760054399
         },
         "degen2_season1": {
             "file_path": "airdrops/degen2_season1.parquet",
