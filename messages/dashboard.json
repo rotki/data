@@ -3,6 +3,18 @@
     "message": "Enjoying rotki? Consider ",
     "message_highlight": "supporting us in",
     "action": {
+      "text": "Octant Epoch 5",
+      "url": "https://octant.app/home"
+    },
+    "period": {
+      "start": 1728835200,
+      "end": 1729987200
+    }
+  },
+  {
+    "message": "Enjoying rotki? Consider ",
+    "message_highlight": "supporting us in",
+    "action": {
       "text": "GIV-a-Palooza QF Round at Giveth",
       "url": "https://giveth.io/project/rotki"
     },

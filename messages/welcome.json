@@ -3,14 +3,14 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of the GIV-a-Palooza QF Round at Giveth",
+      "text": "rotki is part of the Octant Epoch 5",
       "action": {
         "text": "Support us here",
-        "url": "https://giveth.io/project/rotki"
+        "url": "https://octant.app/home" 
       },
       "period": {
-        "start": 1725948000,
-        "end": 1727258340
+        "start": 1728835200,
+        "end": 1729987200
       }
     },
     {
