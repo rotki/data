@@ -3,6 +3,19 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
+      "text": "rotki is part of the Octant Epoch 5",
+      "action": {
+        "text": "Support us here",
+        "url": "https://octant.app/project/5/0x9531C059098e3d194fF87FebB587aB07B30B1306" 
+      },
+      "period": {
+        "start": 1728835200,
+        "end": 1730044800
+      }
+    },
+    {
+      "header": "Enjoying rotki?",
+      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
       "text": "rotki is part of the GIV-a-Palooza QF Round at Giveth",
       "action": {
         "text": "Support us here",
