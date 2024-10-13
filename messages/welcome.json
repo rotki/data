@@ -3,7 +3,7 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of the Octant Epoch 5",
+      "text": "rotki is part of Octant Epoch 5",
       "action": {
         "text": "Support us here",
         "url": "https://octant.app/project/5/0x9531C059098e3d194fF87FebB587aB07B30B1306" 
