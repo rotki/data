@@ -3,6 +3,30 @@
     "message": "Enjoying rotki? Consider ",
     "message_highlight": "supporting us in",
     "action": {
+      "text": "Gitcoin dApps and Apps round",
+      "url": "https://explorer.gitcoin.co/#/round/42161/608/2"
+    },
+    "period": {
+      "start": 1729684800,
+      "end": 1730937540
+    }
+  },
+  {
+    "message": "Enjoying rotki? Consider ",
+    "message_highlight": "supporting us in",
+    "action": {
+      "text": "Gitcoin ENS ecosystem round",
+      "url": "https://explorer.gitcoin.co/#/round/42161/642/5"
+    },
+    "period": {
+      "start": 1729684800,
+      "end": 1730937540
+    }
+  },
+  {
+    "message": "Enjoying rotki? Consider ",
+    "message_highlight": "supporting us in",
+    "action": {
       "text": "Octant Epoch 5",
       "url": "https://octant.app/project/5/0x9531C059098e3d194fF87FebB587aB07B30B1306"
     },
