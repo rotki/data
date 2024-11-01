@@ -113,6 +113,10 @@
         "asset": "eip155:1/erc20:0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a",
         "location": "kraken",
         "location_symbol": "MOG"
+      }, {
+        "asset": "eip155:1/erc20:0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+        "location": "coinbase",
+        "location_symbol": "SHIB"
       }
     ]
   }
