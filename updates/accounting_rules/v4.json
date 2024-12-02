@@ -62,24 +62,6 @@
             "count_entire_amount_spend": false,
             "count_cost_basis_pnl": true,
             "accounting_treatment": null
-        },
-        {
-            "event_type": "adjustment",
-            "event_subtype": "spend",
-            "counterparty": null,
-            "taxable": true,
-            "count_entire_amount_spend": true,
-            "count_cost_basis_pnl": true,
-            "accounting_treatment": null
-        },
-        {
-            "event_type": "adjustment",
-            "event_subtype": "receive",
-            "counterparty": null,
-            "taxable": true,
-            "count_entire_amount_spend": true,
-            "count_cost_basis_pnl": true,
-            "accounting_treatment": null
         }
     ]
 }
