@@ -332,6 +332,20 @@
                 "symbol": "DBR",
                 "coingecko": "debridge"
             }
+        },
+        "odos": {
+            "file_path": "airdrops/odos.parquet",
+            "file_hash": "362728d16d92b0ffd6cf0558ebc970878cb09e069f6e3b4d8f0802ab9931236e",
+            "asset_identifier": "ODOS_PRELAUNCH",
+            "url": "https://app.odos.xyz/rewards",
+            "name": "Odos",
+            "icon": "odos.svg",
+            "has_decoder": false,
+            "new_asset_data": {
+                "asset_type": "OTHER",
+                "name": "Odos",
+                "symbol": "ODOS"
+            }
         }
     },
     "poap_airdrops": {
