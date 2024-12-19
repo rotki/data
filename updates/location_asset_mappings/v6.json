@@ -190,7 +190,7 @@
         "location": null,
         "location_symbol": "BLAST"
       }, {
-        "asset": "GYEN",
+        "asset": "eip155:1/erc20:0xC08512927D12348F6620a698105e1BAac6EcD911",
         "location": null,
         "location_symbol": "GYEN"
       }, {
