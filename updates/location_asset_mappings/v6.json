@@ -237,10 +237,7 @@
         "asset": "NGN",
         "location": null,
         "location_symbol": "NGN"
-      }
-    ],
-    "updates": [
-      {
+      }, {
         "asset": "eip155:1/erc20:0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
         "location": null,
         "location_symbol": "COW"
