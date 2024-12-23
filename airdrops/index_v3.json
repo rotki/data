@@ -300,40 +300,6 @@
                 "decimals": 18
             }
         },
-        "eigen_s1_phase1": {
-            "asset_identifier": "eip155:1/erc20:0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
-            "url": "https://eigenfoundation.org",
-            "api_url": "https://claims.eigenfoundation.org/clique-eigenlayer-api/campaign/eigenlayer/credentials?walletAddress={address}",
-            "amount_path": "phase1/data/pipelines/tokenQualified",
-            "name": "EIGEN phase 1",
-            "icon": "eigenlayer.png",
-            "new_asset_data": {
-                "asset_type": "EVM_TOKEN",
-                "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
-                "name": "Eigen",
-                "symbol": "EIGEN",
-                "chain_id": 1,
-                "decimals": 18
-            },
-            "cutoff_time": 1725667200
-        },
-        "eigen_s1_phase2": {
-            "asset_identifier": "eip155:1/erc20:0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
-            "url": "https://eigenfoundation.org",
-            "api_url": "https://claims.eigenfoundation.org/clique-eigenlayer-api/campaign/eigenlayer/credentials?walletAddress={address}",
-            "amount_path": "phase2/data/pipelines/tokenQualified",
-            "name": "EIGEN phase 2",
-            "icon": "eigenlayer.png",
-            "new_asset_data": {
-                "asset_type": "EVM_TOKEN",
-                "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
-                "name": "Eigen",
-                "symbol": "EIGEN",
-                "chain_id": 1,
-                "decimals": 18
-            },
-            "cutoff_time": 1725667200
-        },
         "degen2_season4": {
             "file_path": "airdrops/degen2_season4.parquet",
             "file_hash": "e2e8190a901b937004e67917f7b3d7d5452c97d0e80be4b3b25324f4a2fa4263",
@@ -365,6 +331,20 @@
                 "name": "DeBridge",
                 "symbol": "DBR",
                 "coingecko": "debridge"
+            }
+        },
+        "odos": {
+            "file_path": "airdrops/odos.parquet",
+            "file_hash": "362728d16d92b0ffd6cf0558ebc970878cb09e069f6e3b4d8f0802ab9931236e",
+            "asset_identifier": "ODOS_PRELAUNCH",
+            "url": "https://app.odos.xyz/rewards",
+            "name": "Odos",
+            "icon": "odos.svg",
+            "has_decoder": false,
+            "new_asset_data": {
+                "asset_type": "OTHER",
+                "name": "Odos",
+                "symbol": "ODOS"
             }
         }
     },
