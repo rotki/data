@@ -1,0 +1,15 @@
+{
+  "location_asset_mappings": {
+    "additions": [
+      {
+        "asset": "LUNA-3",
+        "location": "nexo",
+        "location_symbol": "LUNA2"
+      }, {
+        "asset": "eip155:1/erc20:0x3c3a81e81dc49A522A592e7622A7E711c06bf354",
+        "location": null,
+        "location_symbol": "MNT"
+      }
+    ]
+  }
+}
