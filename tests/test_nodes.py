@@ -63,6 +63,8 @@ def test_nodes():
                             assert rpc['blockchain'] == 'POLYGON_POS'
                         case 8453:
                             assert rpc['blockchain'] == 'BASE'
+                        case 56:
+                            assert rpc['blockchain'] == 'BINANCE_SC'
                         case _:
                             raise Exception(f'Unexpected chain version for {rpc}')
 
