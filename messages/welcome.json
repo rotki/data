@@ -3,6 +3,19 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
+      "text": "rotki is part of Octant Epoch 6",
+      "action": {
+        "text": "Support us here",
+        "url": "https://octant.app/project/6/0x9531C059098e3d194fF87FebB587aB07B30B1306"
+      },
+      "period": {
+        "start": 1736611200,
+        "end": 1737820800
+      }
+    },
+    {
+      "header": "Enjoying rotki?",
+      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
       "text": "rotki is part of the Gitcoin dApps and Apps round",
       "action": {
         "text": "Support us here",
