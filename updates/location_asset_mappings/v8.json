@@ -1,0 +1,15 @@
+{
+  "location_asset_mappings": {
+    "additions": [
+      {
+        "asset": "eip155:137/erc20:0x0000000000000000000000000000000000001010",
+        "location": "bybit",
+        "location_symbol": "POL"
+      }, {
+        "asset": "eip155:1/erc20:0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+        "location": "binance",
+        "location_symbol": "FDUSD"
+      }
+    ]
+  }
+}
