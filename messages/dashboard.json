@@ -1,4 +1,16 @@
 [
+ {
+    "message": "Enjoying rotki? Consider ",
+    "message_highlight": "supporting us in",
+    "action": {
+      "text": "Gitcoin: Glo Dollar x Optimism Builders",
+      "url": "https://explorer.gitcoin.co/#/round/10/96/30"
+    },
+    "period": {
+      "start": 1736834400,
+      "end": 1738130400
+    }
+  },
   {
     "message": "Enjoying rotki? Consider ",
     "message_highlight": "supporting us in",
