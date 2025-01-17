@@ -3,6 +3,19 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
+      "text": "rotki is part of Gitcoin: Glo Dollar x Optimism Builders",
+      "action": {
+        "text": "Support us here",
+        "url": "https://explorer.gitcoin.co/#/round/10/96/30"
+      },
+      "period": {
+        "start": 1736834400,
+        "end": 1738130400
+      }
+    },
+    {
+      "header": "Enjoying rotki?",
+      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
       "text": "rotki is part of Octant Epoch 6",
       "action": {
         "text": "Support us here",
