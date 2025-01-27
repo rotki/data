@@ -16,105 +16,14 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of Octant Epoch 6",
-      "action": {
-        "text": "Support us here",
-        "url": "https://octant.app/project/6/0x9531C059098e3d194fF87FebB587aB07B30B1306"
-      },
-      "period": {
-        "start": 1736611200,
-        "end": 1737820800
-      }
-    },
-    {
-      "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of the Gitcoin dApps and Apps round",
-      "action": {
-        "text": "Support us here",
-        "url": "https://explorer.gitcoin.co/#/round/42161/608/2"
-      },
-      "period": {
-        "start": 1729684800,
-        "end": 1730937540
-      }
-    },
-    {
-      "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of the Gitcoin ENS ecosystem round",
-      "action": {
-        "text": "Support us here",
-        "url": "https://explorer.gitcoin.co/#/round/42161/642/5"
-      },
-      "period": {
-        "start": 1729684800,
-        "end": 1730937540
-      }
-    },
-    {
-      "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of Octant Epoch 5",
-      "action": {
-        "text": "Support us here",
-        "url": "https://octant.app/project/5/0x9531C059098e3d194fF87FebB587aB07B30B1306"
-      },
-      "period": {
-        "start": 1728835200,
-        "end": 1730044800
-      }
-    },
-    {
-      "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of the GIV-a-Palooza QF Round at Giveth",
+      "text": "rotki is part of Loving on Public Goods QF Giveth Round",
       "action": {
         "text": "Support us here",
         "url": "https://giveth.io/project/rotki"
       },
       "period": {
-        "start": 1725948000,
-        "end": 1727258340
-      }
-    },
-    {
-      "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of the GG21: Thriving Arbitrum Summer Round at Gitcoin",
-      "action": {
-        "text": "Support us here",
-        "url": "https://explorer.gitcoin.co/#/round/42161/389/1"
-      },
-      "period": {
-        "start": 1723032000,
-        "end": 1724284800
-      }
-    },
-    {
-      "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of the CollabTech Round and Thresholds Experiment Round at Gitcoin",
-      "action": {
-        "text": "Support us here",
-        "url": "https://explorer.gitcoin.co/#/round/42161/384/9"
-      },
-      "period": {
-        "start": 1722981600,
-        "end": 1724191200
-      }
-    },
-    {
-      "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of the Celo Real World Builders Round at Gitcoin",
-      "action": {
-        "text": "Support us here",
-        "url": "https://explorer.gitcoin.co/#/round/42220/11/66"
-      },
-      "period": {
-        "start": 1722981600,
-        "end": 1724191200
+        "start": 1738022400,
+        "end": 1739577599
       }
     }
   ]
