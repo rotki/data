@@ -255,6 +255,33 @@
         "asset": "eip155:8453/erc20:0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
         "location": "coinbase",
         "location_symbol": "VVV"
+      },
+      {
+        "asset": "TRUMP",
+        "location": "independentreserve",
+        "location_symbol": "Trump"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+        "location": "independentreserve",
+        "location_symbol": "Pepe"
+      },
+      {
+        "asset": "WIF",
+        "location": "independentreserve",
+        "location_symbol": "Wif"
+      },
+      {
+        "asset": "eip155:137/erc20:0x61299774020dA444Af134c82fa83E3810b309991",
+        "location": "independentreserve",
+        "location_symbol": "Render"
+      }
+    ],
+    "updates": [
+      {
+        "asset": "eip155:1/erc20:0x8292Bb45bf1Ee4d140127049757C2E0fF06317eD",
+        "location": "independentreserve",
+        "location_symbol": "Rlusd"
       }
     ],
     "deletions": [
