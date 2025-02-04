@@ -250,6 +250,11 @@
         "asset": "eip155:1/erc20:0x643C4E15d7d62Ad0aBeC4a9BD4b001aA3Ef52d66",
         "location": "bitstamp",
         "location_symbol": "SYRUP"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+        "location": "coinbase",
+        "location_symbol": "VVV"
       }
     ],
     "deletions": [
