@@ -220,6 +220,37 @@
         "asset": "eip155:1/erc20:0xbe0Ed4138121EcFC5c0E56B40517da27E6c5226B",
         "location": "okx",
         "location_symbol": "ATH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x61EC85aB89377db65762E234C946b5c25A56E99e",
+        "location": "bitfinex",
+        "location_symbol": "HTXDAO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7138Eb0d563f3F6722500936A11DcAe99D738A2c",
+        "location": "bitfinex",
+        "location_symbol": "LIFIII"
+      },
+      {
+        "asset": "J",
+        "location": "bitfinex",
+        "location_symbol": "JXX"
+      },
+      {
+        "asset": "eip155:1/erc20:0xed03Ed872159e199065401b6d0D487d78d9464AA",
+        "location": "bitfinex",
+        "location_symbol": "MXNT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7B43E3875440B44613DC3bC08E7763e6Da63C8f8",
+        "location": "bitfinex",
+        "location_symbol": "USDR"
+      }
+    ],
+    "deletions": [
+      {
+        "location": "bitfinex",
+        "location_symbol": "MNXT"
       }
     ]
   }
