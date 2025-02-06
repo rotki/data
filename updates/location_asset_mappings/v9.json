@@ -148,7 +148,7 @@
       },
       {
         "asset": "eip155:56/erc20:0x5f78F4BFCb2b43bC174FE16A69a13945CEfA2978",
-        "location": "okx",
+        "location": null,
         "location_symbol": "XR"
       },
       {
@@ -163,7 +163,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x4DC26fC5854e7648a064a4ABD590bBE71724C277",
-        "location": "okx",
+        "location": null,
         "location_symbol": "ANIME"
       },
       {
@@ -183,7 +183,7 @@
       },
       {
         "asset": "GOAT",
-        "location": "okx",
+        "location": null,
         "location_symbol": "GOAT"
       },
       {
@@ -198,7 +198,7 @@
       },
       {
         "asset": "eip155:8453/erc20:0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
-        "location": "okx",
+        "location": null,
         "location_symbol": "AIXBT"
       },
       {
@@ -253,7 +253,7 @@
       },
       {
         "asset": "eip155:8453/erc20:0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
-        "location": "coinbase",
+        "location": null,
         "location_symbol": "VVV"
       },
       {
@@ -275,6 +275,106 @@
         "asset": "eip155:137/erc20:0x61299774020dA444Af134c82fa83E3810b309991",
         "location": "independentreserve",
         "location_symbol": "Render"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x3b58a4C865B568a2F6a957C264F6b50CbA35D8CE",
+        "location": "woo",
+        "location_symbol": "GRND"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4C1746A800D224393fE2470C70A35717eD4eA5F1",
+        "location": "woo",
+        "location_symbol": "PLUME"
+      },
+      {
+        "asset": "BUZZ",
+        "location": "woo",
+        "location_symbol": "BUZZ"
+      },
+      {
+        "asset": "PIPPIN",
+        "location": "woo",
+        "location_symbol": "PIPPIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xE7C6BF469e97eEB0bFB74C8dbFF5BD47D4C1C98a",
+        "location": "woo",
+        "location_symbol": "HSK"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6e15A54B5EcAc17e58daDedDbe8506a7560252F9",
+        "location": "woo",
+        "location_symbol": "F"
+      },
+      {
+        "asset": "GRIFFAIN",
+        "location": "woo",
+        "location_symbol": "GRIFFAIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD722424cF94b583752dfc80C08e2531AB3b762dc",
+        "location": "woo",
+        "location_symbol": "HERE"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xd173C2C9386AEE88b1Ca06522C951be67cbf38CC",
+        "location": "woo",
+        "location_symbol": "KOS"
+      },
+      {
+        "asset": "ZEREBRO",
+        "location": "woo",
+        "location_symbol": "ZEREBRO"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+        "location": "woo",
+        "location_symbol": "MIGGLES"
+      },
+      {
+        "asset": "MUMU",
+        "location": "woo",
+        "location_symbol": "MUMU"
+      },
+      {
+        "asset": "eip155:1/erc20:0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+        "location": "woo",
+        "location_symbol": "TON"
+      },
+      {
+        "asset": "FWOG",
+        "location": "woo",
+        "location_symbol": "FWOG"
+      },
+      {
+        "asset": "MCG",
+        "location": "woo",
+        "location_symbol": "MCG"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1495bc9e44Af1F8BCB62278D2bEC4540cF0C05ea",
+        "location": "woo",
+        "location_symbol": "DEAI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x31b6100F5F4466e6dAeb1edb2f2cE6e548cF8938",
+        "location": "woo",
+        "location_symbol": "PUFF"
+      },
+      {
+        "asset": "eip155:56/erc20:0x6894CDe390a3f51155ea41Ed24a33A4827d3063D",
+        "location": "woo",
+        "location_symbol": "CAT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x95987b0cdC7F65d989A30B3B7132a38388c548Eb",
+        "location": "woo",
+        "location_symbol": "PURSE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x23f3D4625AEF6f0b84d50dB1d53516e6015c0c9B",
+        "location": "woo",
+        "location_symbol": "NUTS"
       }
     ],
     "updates": [
