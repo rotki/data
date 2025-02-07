@@ -26,6 +26,15 @@
             "count_entire_amount_spend": false,
             "count_cost_basis_pnl": true,
             "accounting_treatment": null
+        },
+        {
+            "event_type": "spend",
+            "event_subtype": "clawback",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
         }
     ]
 }
