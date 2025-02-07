@@ -375,6 +375,11 @@
         "asset": "eip155:1/erc20:0x23f3D4625AEF6f0b84d50dB1d53516e6015c0c9B",
         "location": "woo",
         "location_symbol": "NUTS"
+      },
+      {
+        "asset": "FIL",
+        "location": "gemini",
+        "location_symbol": "EFIL"
       }
     ],
     "updates": [
