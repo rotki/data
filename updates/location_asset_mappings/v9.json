@@ -1491,6 +1491,11 @@
         "asset": "eip155:8453/erc20:0xF56B3b3972F2f154555a0b62FF5A22b7b2A3C90B",
         "location": "bybit",
         "location_symbol": "ZAP"
+      },
+      {
+        "asset": "eip155:1/erc20:0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+        "location": null,
+        "location_symbol": "ONDO"
       }
     ],
     "updates": [
