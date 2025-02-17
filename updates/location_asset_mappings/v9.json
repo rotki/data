@@ -1496,6 +1496,36 @@
         "asset": "eip155:1/erc20:0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
         "location": null,
         "location_symbol": "ONDO"
+      },
+      {
+        "asset": "eip155:56/erc20:0x6894CDe390a3f51155ea41Ed24a33A4827d3063D",
+        "location": "binance",
+        "location_symbol": "1000CAT"
+      },
+      {
+        "asset": "eip155:56/erc20:0x59E69094398AfbEA632F8Bd63033BdD2443a3Be1",
+        "location": "binance",
+        "location_symbol": "MONKY"
+      },
+      {
+        "asset": "HYPE",
+        "location": "kucoin",
+        "location_symbol": "HYPE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x60158131416F5e53D55D73A11BE2E203cB26Abcc",
+        "location": "binance",
+        "location_symbol": "EON"
+      },
+      {
+        "asset": "SBTC",
+        "location": "binance",
+        "location_symbol": "SBTC"
+      },
+            {
+        "asset": "BCX",
+        "location": "binance",
+        "location_symbol": "BCX"
       }
     ],
     "updates": [
