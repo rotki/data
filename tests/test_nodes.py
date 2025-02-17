@@ -59,8 +59,6 @@ def test_nodes():
                             assert rpc['blockchain'] == 'SCROLL'
                         case 137:
                             assert rpc['blockchain'] == 'POLYGON_POS'
-                        case 137:
-                            assert rpc['blockchain'] == 'POLYGON_POS'
                         case 8453:
                             assert rpc['blockchain'] == 'BASE'
                         case 56:
