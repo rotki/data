@@ -1202,13 +1202,8 @@
         "location_symbol": "RWA"
       },
       {
-        "asset": "",
-        "location": "",
-        "location_symbol": "SAIL"
-      },
-      {
-        "asset": "",
-        "location": "",
+        "asset": "eip155:56/erc20:0x516f8a1fB458EBdcFd0F544fF85c69C1c0Ebc31d",
+        "location": "kucoin",
         "location_symbol": "SDM"
       },
       {
