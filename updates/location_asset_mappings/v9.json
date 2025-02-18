@@ -133,7 +133,12 @@
       },
       {
         "asset": "X",
-        "location": null,
+        "location": "bybit",
+        "location_symbol": "X"
+      },
+      {
+        "asset": "X",
+        "location": "kucoin",
         "location_symbol": "X"
       },
       {
@@ -148,7 +153,22 @@
       },
       {
         "asset": "eip155:56/erc20:0x5f78F4BFCb2b43bC174FE16A69a13945CEfA2978",
-        "location": null,
+        "location": "htx",
+        "location_symbol": "XR"
+      },
+      {
+        "asset": "eip155:56/erc20:0x5f78F4BFCb2b43bC174FE16A69a13945CEfA2978",
+        "location": "okx",
+        "location_symbol": "XR"
+      },
+      {
+        "asset": "eip155:56/erc20:0x5f78F4BFCb2b43bC174FE16A69a13945CEfA2978",
+        "location": "kucoin",
+        "location_symbol": "XR"
+      },
+            {
+        "asset": "eip155:56/erc20:0x5f78F4BFCb2b43bC174FE16A69a13945CEfA2978",
+        "location": "woo",
         "location_symbol": "XR"
       },
       {
@@ -422,7 +442,7 @@
         "location_symbol": "ALCH"
       },
       {
-        "asset": "ARC",
+        "asset": "AIRC",
         "location": "kucoin",
         "location_symbol": "ARCSOL"
       },
@@ -1042,7 +1062,7 @@
         "location_symbol": "NRN"
       },
       {
-        "asset": "1723207500",
+        "asset": "NS",
         "location": null,
         "location_symbol": "NS"
       },
@@ -1187,7 +1207,7 @@
         "location_symbol": "REDO"
       },
       {
-        "asset": "RIF",
+        "asset": "RIFAMPICIN",
         "location": "kucoin",
         "location_symbol": "RIFSOL"
       },
