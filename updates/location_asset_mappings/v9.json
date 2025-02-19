@@ -1537,10 +1537,90 @@
         "location": "binance",
         "location_symbol": "SBTC"
       },
-            {
+      {
         "asset": "BCX",
         "location": "binance",
         "location_symbol": "BCX"
+      },
+      {
+        "asset": "SOL-2",
+        "location": "independentreserve",
+        "location_symbol": "Sol"
+      },
+      {
+        "asset": "eip155:1/erc20:0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "location": "independentreserve",
+        "location_symbol": "Usdc"
+      },
+      {
+        "asset": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "location": "independentreserve",
+        "location_symbol": "Usdt"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "location": "independentreserve",
+        "location_symbol": "Aave"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+        "location": "independentreserve",
+        "location_symbol": "Bat"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc00e94Cb662C3520282E6f5717214004A7f26888",
+        "location": "independentreserve",
+        "location_symbol": "Comp"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "location": "independentreserve",
+        "location_symbol": "Dai"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+        "location": "independentreserve",
+        "location_symbol": "Grt"
+      },
+      {
+        "asset": "eip155:1/erc20:0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "location": "independentreserve",
+        "location_symbol": "Link"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+        "location": "independentreserve",
+        "location_symbol": "Mana"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+        "location": "independentreserve",
+        "location_symbol": "Matic"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+        "location": "independentreserve",
+        "location_symbol": "Mkr"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+        "location": "independentreserve",
+        "location_symbol": "Sand"
+      },
+      {
+        "asset": "eip155:1/erc20:0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+        "location": "independentreserve",
+        "location_symbol": "Snx"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "location": "independentreserve",
+        "location_symbol": "Uni"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+        "location": "independentreserve",
+        "location_symbol": "Yfi"
       }
     ],
     "updates": [
