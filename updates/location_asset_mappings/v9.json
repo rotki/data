@@ -512,16 +512,6 @@
         "location_symbol": "BRZ"
       },
       {
-        "asset": "BTC3L",
-        "location": "bybit",
-        "location_symbol": "BTC"
-      },
-      {
-        "asset": "BTC3S",
-        "location": "bybit",
-        "location_symbol": "BTC"
-      },
-      {
         "asset": "BTF",
         "location": "kucoin",
         "location_symbol": "BTF"
