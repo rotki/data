@@ -1641,6 +1641,146 @@
         "asset": "IP",
         "location": "kucoin",
         "location_symbol": "IP"
+      },
+      {
+        "asset": "ZERO",
+        "location": "htx",
+        "location_symbol": "ZEROLEND"
+      },
+      {
+        "asset": "eip155:1/erc20:0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
+        "location": "htx",
+        "location_symbol": "CLEAR"
+      },
+      {
+        "asset": "eip155:1/erc20:0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7",
+        "location": "htx",
+        "location_symbol": "WMTX"
+      },
+      {
+        "asset": "BULL",
+        "location": "htx",
+        "location_symbol": "TRONBULL"
+      },
+      {
+        "asset": "eip155:56/erc20:0x6894CDe390a3f51155ea41Ed24a33A4827d3063D",
+        "location": "htx",
+        "location_symbol": "CAT"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x00CBcF7B3d37844e44b888Bc747bDd75FCf4E555",
+        "location": "htx",
+        "location_symbol": "XPET"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x1C4CcA7C5DB003824208aDDA61Bd749e55F463a3",
+        "location": "htx",
+        "location_symbol": "GAMEBASE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
+        "location": "htx",
+        "location_symbol": "KAON"
+      },
+      {
+        "asset": "AI16ZELIZA",
+        "location": "htx",
+        "location_symbol": "ELIZACTO"
+      },
+      {
+        "asset": "eip155:1/erc20:0xE1bAD922F84b198A08292FB600319300ae32471b",
+        "location": "htx",
+        "location_symbol": "FCT2"
+      },
+      {
+        "asset": "eip155:1/erc20:0x5c8D0C48810FD37A0A824D074ee290E64f7A8Fa2",
+        "location": "htx",
+        "location_symbol": "AVL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
+        "location": "htx",
+        "location_symbol": "TORN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x28561B8A2360F463011c16b6Cc0B0cbEF8dbBcad",
+        "location": "htx",
+        "location_symbol": "MOODENGETH"
+      },
+      {
+        "asset": "eip155:1/erc20:0xa3F4341C3fEf5963AB04135D2014AC7d68222E19",
+        "location": "htx",
+        "location_symbol": "LOGX"
+      },
+      {
+        "asset": "eip155:1/erc20:0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637",
+        "location": "htx",
+        "location_symbol": "NEIROETH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2E7e487D84B5BAbA5878A9833fb394bC89633Fd7",
+        "location": "htx",
+        "location_symbol": "OMNIA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x031B8d752d73d7Fe9678ACEf26e818280D0646b4",
+        "location": "htx",
+        "location_symbol": "SOVRN"
+      },
+      {
+        "asset": "eip155:10/erc20:0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+        "location": "htx",
+        "location_symbol": "VELODROME"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+        "location": "htx",
+        "location_symbol": "IDEX"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x7E7a7C916c19a45769f6BDAF91087f93c6C12F78",
+        "location": "htx",
+        "location_symbol": "EGP"
+      },
+      {
+        "asset": "eip155:1/erc20:0x97A9a15168C22B3C137E6381037E1499C8ad0978",
+        "location": "htx",
+        "location_symbol": "DOP"
+      },
+      {
+        "asset": "ACT",
+        "location": "htx",
+        "location_symbol": "ACTSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xBBa39Fd2935d5769116ce38d46a71bde9cf03099",
+        "location": "htx",
+        "location_symbol": "CHO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F",
+        "location": "htx",
+        "location_symbol": "ACX"
+      },
+      {
+        "asset": "eip155:1/erc20:0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+        "location": "htx",
+        "location_symbol": "WEETH"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x55cD6469F597452B5A7536e2CD98fDE4c1247ee4",
+        "location": "htx",
+        "location_symbol": "LUNASOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989",
+        "location": "htx",
+        "location_symbol": "GOMINING"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+        "location": "htx",
+        "location_symbol": "PLU"
       }
     ],
     "updates": [
