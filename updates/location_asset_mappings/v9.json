@@ -1856,6 +1856,101 @@
         "asset": "eip155:56/erc20:0x7e3784220740e61dC700501bd6771226E11d8897",
         "location": "okx",
         "location_symbol": "CAT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x97A9a15168C22B3C137E6381037E1499C8ad0978",
+        "location": "kucoin",
+        "location_symbol": "DOP"
+      },
+      {
+        "asset": "eip155:1/erc20:0xFeAc2Eae96899709a43E252B6B92971D32F9C0F9",
+        "location": "kucoin",
+        "location_symbol": "ANYONE"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x7E7a7C916c19a45769f6BDAF91087f93c6C12F78",
+        "location": "kucoin",
+        "location_symbol": "EGP"
+      },
+      {
+        "asset": "RBTC",
+        "location": "kucoin",
+        "location_symbol": "RBTC1"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1c00c3E03C3a10a0C1d9B6d1A42e797d7CB4147a",
+        "location": "kucoin",
+        "location_symbol": "ARCA"
+      },
+      {
+        "asset": "ACT",
+        "location": "kucoin",
+        "location_symbol": "ACTSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD9343a049D5DBd89CD19DC6BcA8c48fB3a0a42a7",
+        "location": "kucoin",
+        "location_symbol": "LUMIA"
+      },
+      {
+        "asset": "eip155:56/erc20:0x3C6256F234Ba638E5883c46b3fEdb00ea2e66b8A",
+        "location": "kucoin",
+        "location_symbol": "MGT"
+      },
+      {
+        "asset": "eip155:1/erc20:0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C",
+        "location": "kucoin",
+        "location_symbol": "SPX"
+      },
+      {
+        "asset": "RON",
+        "location": "kucoin",
+        "location_symbol": "RONIN"
+      },
+      {
+        "asset": "eip155:56/erc20:0x86Bb94DdD16Efc8bc58e6b056e8df71D9e666429",
+        "location": "kucoin",
+        "location_symbol": "TSTBSC"
+      },
+      {
+        "asset": "eip155:56/erc20:0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
+        "location": "kucoin",
+        "location_symbol": "CHEEMS"
+      },
+      {
+        "asset": "LAYER",
+        "location": "kucoin",
+        "location_symbol": "SOLAYER"
+      },
+      {
+        "asset": "eip155:42161/erc20:0xF18e4466F26B4cA55bbAb890b314a54976E45B17",
+        "location": "kucoin",
+        "location_symbol": "G7"
+      },
+      {
+        "asset": "eip155:56/erc20:0x3Ab1A5f76E12202d1AD1548A08a799501581Da4E",
+        "location": "kucoin",
+        "location_symbol": "DIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xF8F173E20e15f3b6CB686FB64724D370689De083",
+        "location": "kucoin",
+        "location_symbol": "HEI"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xc799AdA44171b741Abf41Ee54fb1B47fda5960bE",
+        "location": "kucoin",
+        "location_symbol": "XOXO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x058d411ab9911F90c74f471bDC9d2Bb4Cf9B309C",
+        "location": "kucoin",
+        "location_symbol": "RIZ"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x98d0baa52b2D063E780DE12F615f963Fe8537553",
+        "location": "kucoin",
+        "location_symbol": "KAITO"
       }
     ],
     "updates": [
