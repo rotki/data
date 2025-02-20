@@ -1781,6 +1781,81 @@
         "asset": "eip155:1/erc20:0xD8912C10681D8B21Fd3742244f44658dBA12264E",
         "location": "htx",
         "location_symbol": "PLU"
+      },
+      {
+        "asset": "RIFAMPICIN",
+        "location": "woo",
+        "location_symbol": "RIFSOL"
+      },
+      {
+        "asset": "BTC",
+        "location": "woo",
+        "location_symbol": "BITCOIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C",
+        "location": "woo",
+        "location_symbol": "SPX"
+      },
+      {
+        "asset": "eip155:1/erc20:0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C",
+        "location": "kraken",
+        "location_symbol": "SPX"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x55cD6469F597452B5A7536e2CD98fDE4c1247ee4",
+        "location": "woo",
+        "location_symbol": "LUNAI"
+      },
+      {
+        "asset": "eip155:1/erc20:0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
+        "location": "woo",
+        "location_symbol": "COOKIE"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x98d0baa52b2D063E780DE12F615f963Fe8537553",
+        "location": null,
+        "location_symbol": "KAITO"
+      },
+      {
+        "asset": "1000REKT",
+        "location": "woo",
+        "location_symbol": "1000REKT"
+      },
+      {
+        "asset": "1000CHEMS",
+        "location": "woo",
+        "location_symbol": "1000CHEMS"
+      },
+      {
+        "asset": "eip155:56/erc20:0x59E69094398AfbEA632F8Bd63033BdD2443a3Be1",
+        "location": "woo",
+        "location_symbol": "1000MONKY"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
+        "location": "woo",
+        "location_symbol": "TOKEN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
+        "location": "woo",
+        "location_symbol": "NATIVE"
+      },
+      {
+        "asset": "PI",
+        "location": "okx",
+        "location_symbol": "PI"
+      },
+      {
+        "asset": "eip155:1/erc20:0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e",
+        "location": "okx",
+        "location_symbol": "OMI"
+      },
+      {
+        "asset": "eip155:56/erc20:0x7e3784220740e61dC700501bd6771226E11d8897",
+        "location": "okx",
+        "location_symbol": "CAT"
       }
     ],
     "updates": [
