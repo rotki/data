@@ -1611,6 +1611,36 @@
         "asset": "eip155:1/erc20:0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
         "location": "independentreserve",
         "location_symbol": "Yfi"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
+        "location": "coinbase",
+        "location_symbol": "B3"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
+        "location": "bybit",
+        "location_symbol": "B3"
+      },
+      {
+        "asset": "IP",
+        "location": "bybit",
+        "location_symbol": "IP"
+      },
+      {
+        "asset": "IP",
+        "location": "coinbase",
+        "location_symbol": "IP"
+      },
+      {
+        "asset": "IP",
+        "location": "okx",
+        "location_symbol": "IP"
+      },
+      {
+        "asset": "IP",
+        "location": "kucoin",
+        "location_symbol": "IP"
       }
     ],
     "updates": [
