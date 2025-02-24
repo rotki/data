@@ -58,7 +58,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
-        "location": "kraken",
+        "location": null,
         "location_symbol": "LQTY"
       },
       {
@@ -2114,7 +2114,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xF2B2f7b47715256Ce4eA43363a867fdce9353e3A",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BRISE"
       },
       {
@@ -2504,7 +2504,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BAND"
       },
       {
@@ -2749,7 +2749,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "MOG"
       },
       {
@@ -2809,7 +2809,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x137dDB47Ee24EaA998a535Ab00378d6BFa84F893",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "RDNT"
       },
       {
@@ -2954,7 +2954,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x4d224452801ACEd8B2F0aebE155379bb5D594381",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "APE"
       },
       {
@@ -3079,12 +3079,12 @@
       },
       {
         "asset": "eip155:1/erc20:0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "DUSK"
       },
       {
         "asset": "eip155:1/erc20:0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "ETHFI"
       },
       {
@@ -3219,12 +3219,12 @@
       },
       {
         "asset": "eip155:1/erc20:0x24fcFC492C1393274B6bcd568ac9e225BEc93584",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "MAVIA"
       },
       {
         "asset": "eip155:56/erc20:0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "MBOX"
       },
       {
@@ -3324,7 +3324,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x12BB890508c125661E03b09EC06E404bc9289040",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "RACA"
       },
       {
@@ -3614,7 +3614,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xAC57De9C1A09FeC648E93EB98875B212DB0d460B",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BABYDOGE"
       },
       {
@@ -3744,7 +3744,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x25931894a86D47441213199621F1F2994e1c39Aa",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "CGPT"
       },
       {
@@ -3799,7 +3799,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "CVC"
       },
       {
@@ -3869,7 +3869,7 @@
       },
       {
         "asset": "eip155:43114/erc20:0x714f020C54cc9D104B6F4f6998C63ce2a31D1888",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "FITFI"
       },
       {
@@ -3924,7 +3924,7 @@
       },
       {
         "asset": "eip155:42161/erc20:0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "GMX"
       },
       {
@@ -3989,7 +3989,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "ID"
       },
       {
@@ -4054,7 +4054,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x88909D489678dD17aA6D9609F89B0419Bf78FD9a",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "L3"
       },
       {
@@ -4084,13 +4084,8 @@
       },
       {
         "asset": "eip155:1/erc20:0x58b6A8A3302369DAEc383334672404Ee733aB239",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "LPT"
-      },
-      {
-        "asset": "eip155:1/erc20:0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
-        "location": "poloniex",
-        "location_symbol": "LQTY"
       },
       {
         "asset": "eip155:1/erc20:0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
@@ -4129,7 +4124,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "MLN"
       },
       {
@@ -4186,11 +4181,6 @@
         "asset": "NEVER",
         "location": "poloniex",
         "location_symbol": "NEVER"
-      },
-      {
-        "asset": "eip155:1/erc20:0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
-        "location": "poloniex",
-        "location_symbol": "NEXO"
       },
       {
         "asset": "OG",
@@ -4459,7 +4449,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "SWFTC"
       },
       {
@@ -4509,7 +4499,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xA35923162C49cF95e6BF26623385eb431ad920D3",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "TURBO"
       },
       {
@@ -4624,7 +4614,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "YGG"
       },
       {
@@ -4656,6 +4646,11 @@
         "asset": "eip155:1/erc20:0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
         "location": null,
         "location_symbol": "NEXO"
+      },
+      {
+        "asset": "eip155:56/erc20:0xBDA011D7F8EC00F66C1923B049B94c67d148d8b2",
+        "location": "htx",
+        "location_symbol": "AI"
       }
     ],
     "updates": [
