@@ -3649,7 +3649,7 @@
       },
       {
         "asset": "eip155:8453/erc20:0xBC45647eA894030a4E9801Ec03479739FA2485F0",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BENJI"
       },
       {
@@ -4656,6 +4656,11 @@
         "asset": "eip155:56/erc20:0x23D3F4EaaA515403C6765bb623F287a8Cca28F2b",
         "location": "kucoin",
         "location_symbol": "BROCCOLI"
+      },
+      {
+        "asset": "eip155:56/erc20:0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
+        "location": "woo",
+        "location_symbol": "1000CHEEMS"
       }
     ],
     "updates": [
