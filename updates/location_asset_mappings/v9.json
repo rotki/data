@@ -2919,7 +2919,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xd3CC9d8f3689B83c91b7B59cAB4946B063EB894A",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "XVS"
       },
       {
@@ -3204,7 +3204,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x42476F744292107e34519F9c357927074Ea3F75D",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "LOOM"
       },
       {
@@ -4049,7 +4049,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "KP3R"
       },
       {
