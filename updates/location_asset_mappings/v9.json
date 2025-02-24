@@ -2254,7 +2254,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x8eD97a637A790Be1feff5e888d43629dc05408F6",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "NPC"
       },
       {
@@ -3689,7 +3689,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x0391D2021f89DC339F60Fff84546EA23E337750f",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BOND"
       },
       {
@@ -3824,7 +3824,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x3Da932456D082CBa208FEB0B096d49b202Bf89c8",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "DEGO"
       },
       {
@@ -4651,6 +4651,11 @@
         "asset": "eip155:56/erc20:0xBDA011D7F8EC00F66C1923B049B94c67d148d8b2",
         "location": "htx",
         "location_symbol": "AI"
+      },
+      {
+        "asset": "eip155:56/erc20:0x23D3F4EaaA515403C6765bb623F287a8Cca28F2b",
+        "location": "kucoin",
+        "location_symbol": "BROCCOLI"
       }
     ],
     "updates": [
