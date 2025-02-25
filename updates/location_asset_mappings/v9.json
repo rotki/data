@@ -47,11 +47,6 @@
         "location_symbol": "BLOCK"
       },
       {
-        "asset": "eip155:8453/erc20:0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
-        "location": "kraken",
-        "location_symbol": "EURC"
-      },
-      {
         "asset": "BNB",
         "location": "kraken",
         "location_symbol": "BNB"
@@ -65,11 +60,6 @@
         "asset": "GRIFFAIN",
         "location": null,
         "location_symbol": "GRIFFAIN"
-      },
-      {
-        "asset": "eip155:8453/erc20:0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
-        "location": "kraken",
-        "location_symbol": "DEGEN"
       },
       {
         "asset": "eip155:1/erc20:0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676",
@@ -4289,7 +4279,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "RENDER"
       },
       {
@@ -4649,6 +4639,18 @@
       {
         "location": "bitfinex",
         "location_symbol": "MNXT"
+      },
+      {
+        "location": "kraken",
+        "location_symbol": "BNB"
+      },
+      {
+        "location": "kraken",
+        "location_symbol": "RNDR"
+      },
+      {
+        "location": "kraken",
+        "location_symbol": "SNT"
       }
     ]
   }
