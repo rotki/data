@@ -1878,11 +1878,6 @@
         "location_symbol": "ARCA"
       },
       {
-        "asset": "ACT",
-        "location": "kucoin",
-        "location_symbol": "ACTSOL"
-      },
-      {
         "asset": "eip155:1/erc20:0xD9343a049D5DBd89CD19DC6BcA8c48fB3a0a42a7",
         "location": "kucoin",
         "location_symbol": "LUMIA"
@@ -2399,7 +2394,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "VGX"
       },
       {
@@ -2979,7 +2974,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x799ebfABE77a6E34311eeEe9825190B9ECe32824",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BTRST"
       },
       {
