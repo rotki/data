@@ -58,7 +58,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
-        "location": "kraken",
+        "location": null,
         "location_symbol": "LQTY"
       },
       {
@@ -1743,16 +1743,6 @@
         "location_symbol": "EGP"
       },
       {
-        "asset": "eip155:1/erc20:0x97A9a15168C22B3C137E6381037E1499C8ad0978",
-        "location": "htx",
-        "location_symbol": "DOP"
-      },
-      {
-        "asset": "ACT",
-        "location": "htx",
-        "location_symbol": "ACTSOL"
-      },
-      {
         "asset": "eip155:1/erc20:0xBBa39Fd2935d5769116ce38d46a71bde9cf03099",
         "location": "htx",
         "location_symbol": "CHO"
@@ -1859,7 +1849,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x97A9a15168C22B3C137E6381037E1499C8ad0978",
-        "location": "kucoin",
+        "location": null,
         "location_symbol": "DOP"
       },
       {
@@ -1881,11 +1871,6 @@
         "asset": "eip155:1/erc20:0x1c00c3E03C3a10a0C1d9B6d1A42e797d7CB4147a",
         "location": "kucoin",
         "location_symbol": "ARCA"
-      },
-      {
-        "asset": "ACT",
-        "location": "kucoin",
-        "location_symbol": "ACTSOL"
       },
       {
         "asset": "eip155:1/erc20:0xD9343a049D5DBd89CD19DC6BcA8c48fB3a0a42a7",
@@ -1946,11 +1931,6 @@
         "asset": "eip155:1/erc20:0x058d411ab9911F90c74f471bDC9d2Bb4Cf9B309C",
         "location": "kucoin",
         "location_symbol": "RIZ"
-      },
-      {
-        "asset": "eip155:8453/erc20:0x98d0baa52b2D063E780DE12F615f963Fe8537553",
-        "location": "kucoin",
-        "location_symbol": "KAITO"
       },
       {
         "asset": "eip155:1/erc20:0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
@@ -2016,11 +1996,6 @@
         "asset": "eip155:1/erc20:0xB1D1eae60EEA9525032a6DCb4c1CE336a1dE71BE",
         "location": "kraken",
         "location_symbol": "USDR"
-      },
-      {
-        "asset": "eip155:1/erc20:0xB1D1eae60EEA9525032a6DCb4c1CE336a1dE71BE",
-        "location": "kraken",
-        "location_symbol": "ANLOG"
       },
       {
         "asset": "eip155:1/erc20:0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
@@ -2114,7 +2089,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xF2B2f7b47715256Ce4eA43363a867fdce9353e3A",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BRISE"
       },
       {
@@ -2254,7 +2229,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x8eD97a637A790Be1feff5e888d43629dc05408F6",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "NPC"
       },
       {
@@ -2404,7 +2379,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "VGX"
       },
       {
@@ -2504,7 +2479,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BAND"
       },
       {
@@ -2749,7 +2724,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "MOG"
       },
       {
@@ -2809,7 +2784,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x137dDB47Ee24EaA998a535Ab00378d6BFa84F893",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "RDNT"
       },
       {
@@ -2919,7 +2894,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xd3CC9d8f3689B83c91b7B59cAB4946B063EB894A",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "XVS"
       },
       {
@@ -2954,7 +2929,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x4d224452801ACEd8B2F0aebE155379bb5D594381",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "APE"
       },
       {
@@ -2984,7 +2959,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x799ebfABE77a6E34311eeEe9825190B9ECe32824",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BTRST"
       },
       {
@@ -3079,12 +3054,12 @@
       },
       {
         "asset": "eip155:1/erc20:0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "DUSK"
       },
       {
         "asset": "eip155:1/erc20:0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "ETHFI"
       },
       {
@@ -3204,7 +3179,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x42476F744292107e34519F9c357927074Ea3F75D",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "LOOM"
       },
       {
@@ -3219,12 +3194,12 @@
       },
       {
         "asset": "eip155:1/erc20:0x24fcFC492C1393274B6bcd568ac9e225BEc93584",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "MAVIA"
       },
       {
         "asset": "eip155:56/erc20:0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "MBOX"
       },
       {
@@ -3324,7 +3299,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x12BB890508c125661E03b09EC06E404bc9289040",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "RACA"
       },
       {
@@ -3614,7 +3589,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xAC57De9C1A09FeC648E93EB98875B212DB0d460B",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BABYDOGE"
       },
       {
@@ -3649,7 +3624,7 @@
       },
       {
         "asset": "eip155:8453/erc20:0xBC45647eA894030a4E9801Ec03479739FA2485F0",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BENJI"
       },
       {
@@ -3689,7 +3664,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x0391D2021f89DC339F60Fff84546EA23E337750f",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BOND"
       },
       {
@@ -3744,7 +3719,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x25931894a86D47441213199621F1F2994e1c39Aa",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "CGPT"
       },
       {
@@ -3799,7 +3774,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "CVC"
       },
       {
@@ -3824,7 +3799,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x3Da932456D082CBa208FEB0B096d49b202Bf89c8",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "DEGO"
       },
       {
@@ -3869,7 +3844,7 @@
       },
       {
         "asset": "eip155:43114/erc20:0x714f020C54cc9D104B6F4f6998C63ce2a31D1888",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "FITFI"
       },
       {
@@ -3924,7 +3899,7 @@
       },
       {
         "asset": "eip155:42161/erc20:0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "GMX"
       },
       {
@@ -3989,7 +3964,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x2dfF88A56767223A5529eA5960Da7A3F5f766406",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "ID"
       },
       {
@@ -4049,12 +4024,12 @@
       },
       {
         "asset": "eip155:1/erc20:0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "KP3R"
       },
       {
         "asset": "eip155:1/erc20:0x88909D489678dD17aA6D9609F89B0419Bf78FD9a",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "L3"
       },
       {
@@ -4084,13 +4059,8 @@
       },
       {
         "asset": "eip155:1/erc20:0x58b6A8A3302369DAEc383334672404Ee733aB239",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "LPT"
-      },
-      {
-        "asset": "eip155:1/erc20:0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
-        "location": "poloniex",
-        "location_symbol": "LQTY"
       },
       {
         "asset": "eip155:1/erc20:0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
@@ -4129,7 +4099,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "MLN"
       },
       {
@@ -4186,11 +4156,6 @@
         "asset": "NEVER",
         "location": "poloniex",
         "location_symbol": "NEVER"
-      },
-      {
-        "asset": "eip155:1/erc20:0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
-        "location": "poloniex",
-        "location_symbol": "NEXO"
       },
       {
         "asset": "OG",
@@ -4459,7 +4424,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "SWFTC"
       },
       {
@@ -4509,7 +4474,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xA35923162C49cF95e6BF26623385eb431ad920D3",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "TURBO"
       },
       {
@@ -4624,7 +4589,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "YGG"
       },
       {
@@ -4656,6 +4621,21 @@
         "asset": "eip155:1/erc20:0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
         "location": null,
         "location_symbol": "NEXO"
+      },
+      {
+        "asset": "eip155:56/erc20:0xBDA011D7F8EC00F66C1923B049B94c67d148d8b2",
+        "location": "htx",
+        "location_symbol": "AI"
+      },
+      {
+        "asset": "eip155:56/erc20:0x23D3F4EaaA515403C6765bb623F287a8Cca28F2b",
+        "location": "kucoin",
+        "location_symbol": "BROCCOLI"
+      },
+      {
+        "asset": "eip155:56/erc20:0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
+        "location": "woo",
+        "location_symbol": "1000CHEEMS"
       }
     ],
     "updates": [
