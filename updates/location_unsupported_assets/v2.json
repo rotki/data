@@ -2,7 +2,7 @@
   "location_unsupported_assets": {
     "insert": {
       "kucoin": ["WIFUP","WIFDOWN"],
-      "bitfinex": ["TITAN2", "ALT11M250830", "HILSV", "TITAN1", "ALT11M2507", "ALTIIM251029", "ALT2612"]
+      "bitfinex": ["TITAN2", "ALT11M250830", "HILSV", "TITAN1", "ALT11M2507", "ALT2612", "ALT11M251029"]
     },
     "remove": {
       "poloniex": ["DIS", "CORE", "SUN", "BAD", "LZM", "VRA", "FCT2", "MOCKJUP", "GNS", "JESUS"]
