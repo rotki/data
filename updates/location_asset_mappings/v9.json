@@ -1933,11 +1933,6 @@
         "location_symbol": "RIZ"
       },
       {
-        "asset": "eip155:8453/erc20:0x98d0baa52b2D063E780DE12F615f963Fe8537553",
-        "location": "kucoin",
-        "location_symbol": "KAITO"
-      },
-      {
         "asset": "eip155:1/erc20:0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
         "location": "kraken",
         "location_symbol": "TON"
@@ -2001,11 +1996,6 @@
         "asset": "eip155:1/erc20:0xB1D1eae60EEA9525032a6DCb4c1CE336a1dE71BE",
         "location": "kraken",
         "location_symbol": "USDR"
-      },
-      {
-        "asset": "eip155:1/erc20:0xB1D1eae60EEA9525032a6DCb4c1CE336a1dE71BE",
-        "location": "kraken",
-        "location_symbol": "ANLOG"
       },
       {
         "asset": "eip155:1/erc20:0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
