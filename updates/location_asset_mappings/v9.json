@@ -4713,6 +4713,141 @@
         "location_symbol": "BROCCOLI"
       },
       {
+        "asset": "NOT",
+        "location": "poloniex",
+        "location_symbol": "NOTCOIN"
+      },
+      {
+        "asset": "NEIRO",
+        "location": "poloniex",
+        "location_symbol": "NEIROSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x28561B8A2360F463011c16b6Cc0B0cbEF8dbBcad",
+        "location": "poloniex",
+        "location_symbol": "MOODENGETH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x903ff0ba636E32De1767A4B5eEb55c155763D8B7",
+        "location": "poloniex",
+        "location_symbol": "NONE"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x13741C5dF9aB03E7Aa9Fb3Bf1f714551dD5A5F8a",
+        "location": "poloniex",
+        "location_symbol": "NOGS"
+      },
+      {
+        "asset": "eip155:137/erc20:0xD33fd95fC17bc808b35e98458e078330F35Dbfa3",
+        "location": "poloniex",
+        "location_symbol": "NIGHT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x12652C6d93FDB6F4f37d48A8687783C782BB0d10",
+        "location": "poloniex",
+        "location_symbol": "NGL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3D1C949a761C11E4CC50c3aE6BdB0F24fD7A39DA",
+        "location": "poloniex",
+        "location_symbol": "NEURA"
+      },
+      {
+        "asset": "eip155:1/erc20:0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637",
+        "location": "poloniex",
+        "location_symbol": "NEIROETH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0B9aE6b1D4f0EEeD904D1CEF68b9bd47499f3fFF",
+        "location": "poloniex",
+        "location_symbol": "NATI"
+      },
+      {
+        "asset": "$NAP",
+        "location": "poloniex",
+        "location_symbol": "NAP"
+      },
+      {
+        "asset": "eip155:1/erc20:0xf827f77422d6DFf7b4E1bc87fec88606082B2199",
+        "location": "poloniex",
+        "location_symbol": "MUSKX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x620aA20875Ec1144126ea47FB27ecfe6e10d0c56",
+        "location": "poloniex",
+        "location_symbol": "MOYA"
+      },
+      {
+        "asset": "eip155:1/erc20:0xAb85fc558d722A2b7c040FfB77dB676Bd9e7D322",
+        "location": "poloniex",
+        "location_symbol": "MOROS"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb624960AAaD05d433075a5C9E760aDEc26036934",
+        "location": "poloniex",
+        "location_symbol": "MONKE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8B95Fe1C06E58C269f1267e0f0093b7b26b85481",
+        "location": "poloniex",
+        "location_symbol": "MOJO"
+      },
+      {
+        "asset": "MOBY",
+        "location": "poloniex",
+        "location_symbol": "MOBYSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x40a7dF3dF8b56147B781353D379cB960120211D7",
+        "location": "poloniex",
+        "location_symbol": "MOBY"
+      },
+      {
+        "asset": "eip155:56/erc20:0xe4e11e02AA14c7f24DB749421986EAEc1369e8C9",
+        "location": "poloniex",
+        "location_symbol": "MNTC"
+      },
+      {
+        "asset": "MIST",
+        "location": "poloniex",
+        "location_symbol": "MISTSOL"
+      },
+      {
+        "asset": "EGLD",
+        "location": "poloniex",
+        "location_symbol": "MEX"
+      },
+      {
+        "asset": "eip155:1/erc20:0xA75AD62a1b6b78eEA6c54C22Eb697Ca0b125f97a",
+        "location": "poloniex",
+        "location_symbol": "MEOWCOIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb131f4A55907B10d1F0A50d8ab8FA09EC342cd74",
+        "location": "poloniex",
+        "location_symbol": "MEMELAND"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x3AfEae00a594fbf2E4049f924E3c6AC93296B6e8",
+        "location": "poloniex",
+        "location_symbol": "MAMBA"
+      },
+      {
+        "asset": "MAGA",
+        "location": "poloniex",
+        "location_symbol": "MAGASOL"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x7F12d13B34F5F4f0a9449c16Bcd42f0da47AF200",
+        "location": "poloniex",
+        "location_symbol": "NORMIEOLD"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x47b464eDB8Dc9BC67b5CD4C9310BB87b773845bD",
+        "location": "poloniex",
+        "location_symbol": "NORMIE230926"
+      },
+      {
         "asset": "eip155:56/erc20:0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
         "location": "woo",
         "location_symbol": "1000CHEEMS"
