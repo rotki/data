@@ -4608,6 +4608,96 @@
         "location_symbol": "ZUZALU"
       },
       {
+        "asset": "eip155:1/erc20:0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+        "location": "poloniex",
+        "location_symbol": "WEETH"
+      },
+      {
+          "asset": "eip155:1/erc20:0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+          "location": "poloniex",
+          "location_symbol": "USDEOLD"
+      },
+      {
+          "asset": "eip155:8453/erc20:0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+          "location": "poloniex",
+          "location_symbol": "USDCBASE"
+      },
+      {
+          "asset": "eip155:1/erc20:0x7F9b09f4717072CF4DC18b95D1b09E2B30C76790",
+          "location": "poloniex",
+          "location_symbol": "VAULT"
+      },
+      {
+          "asset": "eip155:1/erc20:0x2b81945875f892afF04AF0A298d35FB2cF848c7b",
+          "location": "poloniex",
+          "location_symbol": "WEB"
+      },
+      {
+          "asset": "STX",
+          "location": "poloniex",
+          "location_symbol": "STACKS"
+      },
+      {
+          "asset": "eip155:1/erc20:0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C",
+          "location": "poloniex",
+          "location_symbol": "SPX"
+      },
+      {
+          "asset": "eip155:1/erc20:0x59C6766de1Dc50a9c9DB86CB0461b5Ce07408aB7",
+          "location": "poloniex",
+          "location_symbol": "SPURDOETH"
+      },
+      {
+          "asset": "eip155:1/erc20:0x63989348EBe7590b8863C5A242F7EE01EFcCa0c7",
+          "location": "poloniex",
+          "location_symbol": "TRUMPAMANIA"
+      },
+      {
+          "asset": "eip155:1/erc20:0x3b991130eaE3CcA364406D718DA22FA1C3E7C256",
+          "location": "poloniex",
+          "location_symbol": "SHRUBETH"
+      },
+      {
+          "asset": "eip155:1/erc20:0x3b991130eaE3CcA364406D718DA22FA1C3E7C256",
+          "location": "poloniex",
+          "location_symbol": "SHOL"
+      },
+      {
+          "asset": "SBF",
+          "location": "poloniex",
+          "location_symbol": "SBFSOL"
+      },
+      {
+          "asset": "eip155:1/erc20:0x0026dFbd8DBb6f8D0c88303CC1B1596409Fda542",
+          "location": "poloniex",
+          "location_symbol": "SANSHU"
+      },
+      {
+          "asset": "eip155:56/erc20:0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5",
+          "location": "poloniex",
+          "location_symbol": "SAFEMOON"
+      },
+      {
+          "asset": "eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+          "location": "poloniex",
+          "location_symbol": "SAFE"
+      },
+      {
+          "asset": "eip155:1/erc20:0x4F8b986ECFFe7beD5dBEb2B49310fB00CA85a539",
+          "location": "poloniex",
+          "location_symbol": "REKT2"
+      },
+      {
+          "asset": "eip155:56/erc20:0x5043F271095350c5ac7db2384A0d9337E27c1055",
+          "location": "poloniex",
+          "location_symbol": "PERRY"
+      },
+      {
+          "asset": "eip155:1/erc20:0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
+          "location": "poloniex",
+          "location_symbol": "OLAS"
+      },
+      {
         "asset": "eip155:1/erc20:0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
         "location": null,
         "location_symbol": "NEXO"
