@@ -4703,6 +4703,96 @@
         "location_symbol": "NEXO"
       },
       {
+        "asset": "PINK",
+        "location": "poloniex",
+        "location_symbol": "PINKOLD"
+      },
+      {
+        "asset": "POL",
+        "location": "poloniex",
+        "location_symbol": "POL"
+      },
+      {
+        "asset": "POGAI",
+        "location": "poloniex",
+        "location_symbol": "POGAISOL"
+      },
+      {
+        "asset": "PNUT",
+        "location": "poloniex",
+        "location_symbol": "PNUTSOL"
+      },
+      {
+        "asset": "SHDW",
+        "location": "poloniex",
+        "location_symbol": "SHDW1"
+      },
+      {
+        "asset": "SEND",
+        "location": "poloniex",
+        "location_symbol": "SEN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xfcaF0e4498E78d65526a507360F755178b804Ba8",
+        "location": "poloniex",
+        "location_symbol": "SHIB42069"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2De1218C31a04E1040fC5501b89e3A58793b3DDF",
+        "location": "poloniex",
+        "location_symbol": "THREEAC"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9D09bCF1784eC43f025d3ee071e5b632679a01bA",
+        "location": "poloniex",
+        "location_symbol": "TEE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x36C7188D64c44301272Db3293899507eabb8eD43",
+        "location": "poloniex",
+        "location_symbol": "SWAG"
+      },
+      {
+        "asset": "SYNC",
+        "location": "poloniex",
+        "location_symbol": "SYNCOLD"
+      },
+      {
+        "asset": "TRUMPWIFHAT",
+        "location": "poloniex",
+        "location_symbol": "TRUMP1"
+      },
+      {
+        "asset": "SUNPUMP",
+        "location": "poloniex",
+        "location_symbol": "TOTHESUN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2be5e8c109e2197D077D13A82dAead6a9b3433C5",
+        "location": "poloniex",
+        "location_symbol": "TON1"
+      },
+      {
+        "asset": "eip155:10/erc20:0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+        "location": "poloniex",
+        "location_symbol": "VELODROME"
+      },
+      {
+        "asset": "WHALE",
+        "location": "poloniex",
+        "location_symbol": "WHALETRX"
+      },
+      {
+        "asset": "TSU",
+        "location": "poloniex",
+        "location_symbol": "TZU"
+      },
+      {
+        "asset": "TRUST-2",
+        "location": "poloniex",
+        "location_symbol": "TRUST"
+      },
+      {
         "asset": "eip155:56/erc20:0xBDA011D7F8EC00F66C1923B049B94c67d148d8b2",
         "location": "htx",
         "location_symbol": "AI"
