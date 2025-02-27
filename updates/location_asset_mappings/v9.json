@@ -4993,6 +4993,61 @@
         "location_symbol": "JANET"
       },
       {
+        "asset": "eip155:56/erc20:0x5043F271095350c5ac7db2384A0d9337E27c1055",
+        "location": "poloniex",
+        "location_symbol": "PERRYBSC"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB69100340A5947E856D873463694aE2186146C43",
+        "location": "poloniex",
+        "location_symbol": "PEPER"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x698DC45e4F10966f6D1D98e3bFd7071d8144C233",
+        "location": "poloniex",
+        "location_symbol": "PEPEBASE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4947b72fED037AdE3365dA050A9be5c063E605A7",
+        "location": "poloniex",
+        "location_symbol": "PEANUT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x570147337F1A2313Fc35573F6a123CeB109eB901",
+        "location": "poloniex",
+        "location_symbol": "OXF"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6A7eFF1e2c355AD6eb91BEbB5ded49257F3FED98",
+        "location": "poloniex",
+        "location_symbol": "OPSEC"
+      },
+      {
+        "asset": "eip155:1/erc20:0x28dd00ef3877187D7b2bE101605768138f839b82",
+        "location": "poloniex",
+        "location_symbol": "OLYMPE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe5018913F2fdf33971864804dDB5fcA25C539032",
+        "location": "poloniex",
+        "location_symbol": "OLM"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
+        "location": "poloniex",
+        "location_symbol": "OLAS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x356e17967206eFb413b60AB0Ba44E269063A26c9",
+        "location": "poloniex",
+        "location_symbol": "OCISLY"
+      },
+      {
+        "asset": "eip155:56/erc20:0x062ca2d2F1aF8C203FA3Ad5298FD6fAa4E44E897",
+        "location": "poloniex",
+        "location_symbol": "O4DX"
+      },
+      {
         "asset": "eip155:56/erc20:0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
         "location": "woo",
         "location_symbol": "1000CHEEMS"
