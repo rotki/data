@@ -2288,11 +2288,6 @@
         "location_symbol": "SC"
       },
       {
-        "asset": "eip155:1/erc20:0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-        "location": "poloniex",
-        "location_symbol": "SHIB"
-      },
-      {
         "asset": "SIX",
         "location": "poloniex",
         "location_symbol": "SIX"
@@ -4608,9 +4603,214 @@
         "location_symbol": "ZUZALU"
       },
       {
+        "asset": "eip155:1/erc20:0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+        "location": "poloniex",
+        "location_symbol": "WEETH"
+      },
+      {
+          "asset": "eip155:1/erc20:0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+          "location": "poloniex",
+          "location_symbol": "USDEOLD"
+      },
+      {
+          "asset": "eip155:8453/erc20:0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+          "location": "poloniex",
+          "location_symbol": "USDCBASE"
+      },
+      {
+          "asset": "eip155:1/erc20:0x7F9b09f4717072CF4DC18b95D1b09E2B30C76790",
+          "location": "poloniex",
+          "location_symbol": "VAULT"
+      },
+      {
+          "asset": "eip155:1/erc20:0x2b81945875f892afF04AF0A298d35FB2cF848c7b",
+          "location": "poloniex",
+          "location_symbol": "WEB"
+      },
+      {
+          "asset": "STX",
+          "location": "poloniex",
+          "location_symbol": "STACKS"
+      },
+      {
+          "asset": "eip155:1/erc20:0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C",
+          "location": "poloniex",
+          "location_symbol": "SPX"
+      },
+      {
+          "asset": "eip155:1/erc20:0x59C6766de1Dc50a9c9DB86CB0461b5Ce07408aB7",
+          "location": "poloniex",
+          "location_symbol": "SPURDOETH"
+      },
+      {
+          "asset": "eip155:1/erc20:0x63989348EBe7590b8863C5A242F7EE01EFcCa0c7",
+          "location": "poloniex",
+          "location_symbol": "TRUMPAMANIA"
+      },
+      {
+          "asset": "eip155:1/erc20:0x3b991130eaE3CcA364406D718DA22FA1C3E7C256",
+          "location": "poloniex",
+          "location_symbol": "SHRUBETH"
+      },
+      {
+          "asset": "eip155:1/erc20:0x3b991130eaE3CcA364406D718DA22FA1C3E7C256",
+          "location": "poloniex",
+          "location_symbol": "SHOL"
+      },
+      {
+          "asset": "SBF",
+          "location": "poloniex",
+          "location_symbol": "SBFSOL"
+      },
+      {
+          "asset": "eip155:1/erc20:0x0026dFbd8DBb6f8D0c88303CC1B1596409Fda542",
+          "location": "poloniex",
+          "location_symbol": "SANSHU"
+      },
+      {
+          "asset": "eip155:56/erc20:0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5",
+          "location": "poloniex",
+          "location_symbol": "SAFEMOON"
+      },
+      {
+          "asset": "eip155:1/erc20:0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+          "location": "poloniex",
+          "location_symbol": "SAFE"
+      },
+      {
+          "asset": "eip155:1/erc20:0x4F8b986ECFFe7beD5dBEb2B49310fB00CA85a539",
+          "location": "poloniex",
+          "location_symbol": "REKT2"
+      },
+      {
+          "asset": "eip155:56/erc20:0x5043F271095350c5ac7db2384A0d9337E27c1055",
+          "location": "poloniex",
+          "location_symbol": "PERRY"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x00CBcF7B3d37844e44b888Bc747bDd75FCf4E555",
+        "location": "poloniex",
+        "location_symbol": "XPET"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1039BaE6254178EE2f6123cD64CDE9e4CA79D779",
+        "location": "poloniex",
+        "location_symbol": "WUKONGETH"
+      },
+      {
+        "asset": "TRUST-2",
+        "location": "poloniex",
+        "location_symbol": "TRUSTSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x86B69F38BEA3e02f68fF88534bc61EC60E772b19",
+        "location": "poloniex",
+        "location_symbol": "TRUMPNS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x12eF10A4fc6e1Ea44B4ca9508760fF51c647BB71",
+        "location": "poloniex",
+        "location_symbol": "RSTK"
+      },
+      {
+          "asset": "eip155:1/erc20:0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
+          "location": "poloniex",
+          "location_symbol": "OLAS"
+      },
+      {
         "asset": "eip155:1/erc20:0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
         "location": null,
         "location_symbol": "NEXO"
+      },
+      {
+        "asset": "PINK",
+        "location": "poloniex",
+        "location_symbol": "PINKOLD"
+      },
+      {
+        "asset": "POL",
+        "location": "poloniex",
+        "location_symbol": "POL"
+      },
+      {
+        "asset": "POGAI",
+        "location": "poloniex",
+        "location_symbol": "POGAISOL"
+      },
+      {
+        "asset": "PNUT",
+        "location": "poloniex",
+        "location_symbol": "PNUTSOL"
+      },
+      {
+        "asset": "SHDW",
+        "location": "poloniex",
+        "location_symbol": "SHDW1"
+      },
+      {
+        "asset": "SEND",
+        "location": "poloniex",
+        "location_symbol": "SEN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xfcaF0e4498E78d65526a507360F755178b804Ba8",
+        "location": "poloniex",
+        "location_symbol": "SHIB42069"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2De1218C31a04E1040fC5501b89e3A58793b3DDF",
+        "location": "poloniex",
+        "location_symbol": "THREEAC"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9D09bCF1784eC43f025d3ee071e5b632679a01bA",
+        "location": "poloniex",
+        "location_symbol": "TEE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x36C7188D64c44301272Db3293899507eabb8eD43",
+        "location": "poloniex",
+        "location_symbol": "SWAG"
+      },
+      {
+        "asset": "SYNC",
+        "location": "poloniex",
+        "location_symbol": "SYNCOLD"
+      },
+      {
+        "asset": "TRUMPWIFHAT",
+        "location": "poloniex",
+        "location_symbol": "TRUMP1"
+      },
+      {
+        "asset": "SUNPUMP",
+        "location": "poloniex",
+        "location_symbol": "TOTHESUN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2be5e8c109e2197D077D13A82dAead6a9b3433C5",
+        "location": "poloniex",
+        "location_symbol": "TON1"
+      },
+      {
+        "asset": "eip155:10/erc20:0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+        "location": "poloniex",
+        "location_symbol": "VELODROME"
+      },
+      {
+        "asset": "WHALE",
+        "location": "poloniex",
+        "location_symbol": "WHALETRX"
+      },
+      {
+        "asset": "TSU",
+        "location": "poloniex",
+        "location_symbol": "TZU"
+      },
+      {
+        "asset": "TRUST-2",
+        "location": "poloniex",
+        "location_symbol": "TRUST"
       },
       {
         "asset": "eip155:56/erc20:0xBDA011D7F8EC00F66C1923B049B94c67d148d8b2",
@@ -4619,13 +4819,718 @@
       },
       {
         "asset": "eip155:56/erc20:0x23D3F4EaaA515403C6765bb623F287a8Cca28F2b",
-        "location": "kucoin",
+        "location": null,
         "location_symbol": "BROCCOLI"
+      },
+      {
+        "asset": "NOT",
+        "location": "poloniex",
+        "location_symbol": "NOTCOIN"
+      },
+      {
+        "asset": "NEIRO",
+        "location": "poloniex",
+        "location_symbol": "NEIROSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x28561B8A2360F463011c16b6Cc0B0cbEF8dbBcad",
+        "location": "poloniex",
+        "location_symbol": "MOODENGETH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x903ff0ba636E32De1767A4B5eEb55c155763D8B7",
+        "location": "poloniex",
+        "location_symbol": "NONE"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x13741C5dF9aB03E7Aa9Fb3Bf1f714551dD5A5F8a",
+        "location": "poloniex",
+        "location_symbol": "NOGS"
+      },
+      {
+        "asset": "eip155:137/erc20:0xD33fd95fC17bc808b35e98458e078330F35Dbfa3",
+        "location": "poloniex",
+        "location_symbol": "NIGHT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x12652C6d93FDB6F4f37d48A8687783C782BB0d10",
+        "location": "poloniex",
+        "location_symbol": "NGL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3D1C949a761C11E4CC50c3aE6BdB0F24fD7A39DA",
+        "location": "poloniex",
+        "location_symbol": "NEURA"
+      },
+      {
+        "asset": "eip155:1/erc20:0xEE2a03Aa6Dacf51C18679C516ad5283d8E7C2637",
+        "location": "poloniex",
+        "location_symbol": "NEIROETH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0B9aE6b1D4f0EEeD904D1CEF68b9bd47499f3fFF",
+        "location": "poloniex",
+        "location_symbol": "NATI"
+      },
+      {
+        "asset": "$NAP",
+        "location": "poloniex",
+        "location_symbol": "NAP"
+      },
+      {
+        "asset": "eip155:1/erc20:0xf827f77422d6DFf7b4E1bc87fec88606082B2199",
+        "location": "poloniex",
+        "location_symbol": "MUSKX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x620aA20875Ec1144126ea47FB27ecfe6e10d0c56",
+        "location": "poloniex",
+        "location_symbol": "MOYA"
+      },
+      {
+        "asset": "eip155:1/erc20:0xAb85fc558d722A2b7c040FfB77dB676Bd9e7D322",
+        "location": "poloniex",
+        "location_symbol": "MOROS"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb624960AAaD05d433075a5C9E760aDEc26036934",
+        "location": "poloniex",
+        "location_symbol": "MONKE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8B95Fe1C06E58C269f1267e0f0093b7b26b85481",
+        "location": "poloniex",
+        "location_symbol": "MOJO"
+      },
+      {
+        "asset": "MOBY",
+        "location": "poloniex",
+        "location_symbol": "MOBYSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x40a7dF3dF8b56147B781353D379cB960120211D7",
+        "location": "poloniex",
+        "location_symbol": "MOBY"
+      },
+      {
+        "asset": "eip155:56/erc20:0xe4e11e02AA14c7f24DB749421986EAEc1369e8C9",
+        "location": "poloniex",
+        "location_symbol": "MNTC"
+      },
+      {
+        "asset": "MIST",
+        "location": "poloniex",
+        "location_symbol": "MISTSOL"
+      },
+      {
+        "asset": "EGLD",
+        "location": "poloniex",
+        "location_symbol": "MEX"
+      },
+      {
+        "asset": "eip155:1/erc20:0xA75AD62a1b6b78eEA6c54C22Eb697Ca0b125f97a",
+        "location": "poloniex",
+        "location_symbol": "MEOWCOIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb131f4A55907B10d1F0A50d8ab8FA09EC342cd74",
+        "location": "poloniex",
+        "location_symbol": "MEMELAND"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x3AfEae00a594fbf2E4049f924E3c6AC93296B6e8",
+        "location": "poloniex",
+        "location_symbol": "MAMBA"
+      },
+      {
+        "asset": "MAGA",
+        "location": "poloniex",
+        "location_symbol": "MAGASOL"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x7F12d13B34F5F4f0a9449c16Bcd42f0da47AF200",
+        "location": "poloniex",
+        "location_symbol": "NORMIEOLD"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x47b464eDB8Dc9BC67b5CD4C9310BB87b773845bD",
+        "location": "poloniex",
+        "location_symbol": "NORMIE230926"
+      },
+      {
+        "asset": "eip155:1/erc20:0x67466BE17df832165F8C80a5A120CCc652bD7E69",
+        "location": "poloniex",
+        "location_symbol": "LWOLF"
+      },
+      {
+        "asset": "eip155:56/erc20:0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
+        "location": "poloniex",
+        "location_symbol": "LVL"
+      },
+      {
+        "asset": "LOOM",
+        "location": "poloniex",
+        "location_symbol": "LOOMSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xAf05Ce8A2Cef336006E933c02fc89887F5B3C726",
+        "location": "poloniex",
+        "location_symbol": "LMI"
+      },
+      {
+        "asset": "LAMBO",
+        "location": "poloniex",
+        "location_symbol": "LAMBOSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8C7AC134ED985367EADC6F727d79E8295E11435c",
+        "location": "poloniex",
+        "location_symbol": "KEKEC"
+      },
+      {
+        "asset": "eip155:1/erc20:0xA045Fe936E26e1e1e1Fb27C1f2Ae3643acde0171",
+        "location": "poloniex",
+        "location_symbol": "KAIKEN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe75F2AcaFbA1aD56C5eD712ffbc1d31910e74396",
+        "location": "poloniex",
+        "location_symbol": "KAI"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb3E41D6e0ea14b43BC5DE3C314A408af171b03dD",
+        "location": "poloniex",
+        "location_symbol": "KABOSUETH"
+      },
+      {
+        "asset": "EGGSOL",
+        "location": "poloniex",
+        "location_symbol": "JUSTANEGG"
+      },
+      {
+        "asset": "eip155:1/erc20:0xF63E309818E4EA13782678CE6C31C1234fa61809",
+        "location": "poloniex",
+        "location_symbol": "JANET"
+      },
+      {
+        "asset": "eip155:56/erc20:0x5043F271095350c5ac7db2384A0d9337E27c1055",
+        "location": "poloniex",
+        "location_symbol": "PERRYBSC"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB69100340A5947E856D873463694aE2186146C43",
+        "location": "poloniex",
+        "location_symbol": "PEPER"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x698DC45e4F10966f6D1D98e3bFd7071d8144C233",
+        "location": "poloniex",
+        "location_symbol": "PEPEBASE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4947b72fED037AdE3365dA050A9be5c063E605A7",
+        "location": "poloniex",
+        "location_symbol": "PEANUT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x570147337F1A2313Fc35573F6a123CeB109eB901",
+        "location": "poloniex",
+        "location_symbol": "OXF"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6A7eFF1e2c355AD6eb91BEbB5ded49257F3FED98",
+        "location": "poloniex",
+        "location_symbol": "OPSEC"
+      },
+      {
+        "asset": "eip155:1/erc20:0x28dd00ef3877187D7b2bE101605768138f839b82",
+        "location": "poloniex",
+        "location_symbol": "OLYMPE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe5018913F2fdf33971864804dDB5fcA25C539032",
+        "location": "poloniex",
+        "location_symbol": "OLM"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
+        "location": "poloniex",
+        "location_symbol": "OLAS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x356e17967206eFb413b60AB0Ba44E269063A26c9",
+        "location": "poloniex",
+        "location_symbol": "OCISLY"
+      },
+      {
+        "asset": "eip155:56/erc20:0x062ca2d2F1aF8C203FA3Ad5298FD6fAa4E44E897",
+        "location": "poloniex",
+        "location_symbol": "O4DX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9fBFed658919A896B5Dc7b00456Ce22D780f9B65",
+        "location": "poloniex",
+        "location_symbol": "PLT"
+      },
+      {
+        "asset": "'eip155:8453/erc20:0x6E93DEDe32b00fC0B993CEE3be8727089fdd013b",
+        "location": "poloniex",
+        "location_symbol": "POON"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc575BD129848Ce06A460A19466c30E1D0328F52C",
+        "location": "poloniex",
+        "location_symbol": "RAI"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe91598331A36A78f7fEfe277cE7C1915DA0AfB93",
+        "location": "poloniex",
+        "location_symbol": "RB"
+      },
+      {
+        "asset": "eip155:1/erc20:0x57B96D4aF698605563A4653D882635da59Bf11AF",
+        "location": "poloniex",
+        "location_symbol": "RCH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+        "location": null,
+        "location_symbol": "SHIB"
       },
       {
         "asset": "eip155:56/erc20:0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
         "location": "woo",
         "location_symbol": "1000CHEEMS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x44F5909E97E1CBf5FBbDF0FC92FD83cde5d5c58A",
+        "location": "poloniex",
+        "location_symbol": "ACRIA"
+      },
+      {
+        "asset": "AISOL",
+        "location": "poloniex",
+        "location_symbol": "AI"
+      },
+      {
+        "asset": "AMC",
+        "location": "poloniex",
+        "location_symbol": "AMCSOL"
+      },
+      {
+        "asset": "eip155:56/erc20:0x01CA78a2B5F1a9152D8A3A625bd7dF5765eeE1D8",
+        "location": "poloniex",
+        "location_symbol": "ANDYBSC"
+      },
+      {
+        "asset": "ANDY",
+        "location": "poloniex",
+        "location_symbol": "ANDYSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xa0385E7283C83e2871E9aF49EEC0966088421ddD",
+        "location": "poloniex",
+        "location_symbol": "APECOIN"
+      },
+      {
+        "asset": "eip155:56/erc20:0x0c4ac8952c28e2e7fe22033C8D2F1263372d301d",
+        "location": "poloniex",
+        "location_symbol": "APRA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2BE056e595110B30ddd5eaF674BdAC54615307d9",
+        "location": "poloniex",
+        "location_symbol": "APUFF"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8E4d27d772099e18900CAF5Dcc36Cb612DcEE886",
+        "location": "poloniex",
+        "location_symbol": "ARCX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9727eaf447203be268e5D471b6503Bf47A71eA72",
+        "location": "poloniex",
+        "location_symbol": "ARKY"
+      },
+      {
+        "asset": "eip155:56/erc20:0x76B560b628F74BF192bE09F0449abef8e456BE79",
+        "location": "poloniex",
+        "location_symbol": "BABYCATE"
+      },
+      {
+        "asset": "BEER",
+        "location": "poloniex",
+        "location_symbol": "BEERSOL"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x347F500323D51E9350285Daf299ddB529009e6AE",
+        "location": "poloniex",
+        "location_symbol": "BLERF"
+      },
+      {
+        "asset": "eip155:56/erc20:0xA18BBdCd86e4178d10eCd9316667cfE4C4AA8717",
+        "location": "poloniex",
+        "location_symbol": "BNBXBT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x55aF5865807b196bD0197e0902746F31FBcCFa58",
+        "location": "poloniex",
+        "location_symbol": "BOO"
+      },
+      {
+        "asset": "eip155:56/erc20:0x12B4356C65340Fb02cdff01293F95FEBb1512F3b",
+        "location": "poloniex",
+        "location_symbol": "BROCCOLIF3B"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD7CFDb3cdc33dBeb9e9A4C95b61953Cf12A008b3",
+        "location": "poloniex",
+        "location_symbol": "BRUH"
+      },
+      {
+        "asset": "eip155:1/erc20:0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
+        "location": "poloniex",
+        "location_symbol": "BSSB1"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xcdE172dc5ffC46D228838446c57C1227e0B82049",
+        "location": "poloniex",
+        "location_symbol": "BOOMER"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1F70300BCe8c2302780BD0a153ebb75B8CA7efCb",
+        "location": "poloniex",
+        "location_symbol": "BARRON"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xd327d36EB6E1f250D191cD62497d08b4aaa843Ce",
+        "location": "poloniex",
+        "location_symbol": "BASEFOMO"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc9F00080d96cEA3Ef92D2E2e563d4cD41fB5Bb36",
+        "location": "poloniex",
+        "location_symbol": "BLOX"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x70737489DFDf1A29b7584d40500d3561bD4Fe196",
+        "location": "poloniex",
+        "location_symbol": "BORED"
+      },
+      {
+        "asset": "eip155:1/erc20:0xC81b0d02393a956234E24564805a896f14ad1250",
+        "location": "poloniex",
+        "location_symbol": "BPD"
+      },
+      {
+        "asset": "BTCS",
+        "location": "poloniex",
+        "location_symbol": "BRCBTCS"
+      },
+      {
+        "asset": "eip155:56/erc20:0x2c21B6d44e4f01807e2F9577DDd89F89d72c292c",
+        "location": "poloniex",
+        "location_symbol": "BUB"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x3C281A39944a2319aA653D81Cfd93Ca10983D234",
+        "location": "poloniex",
+        "location_symbol": "BUILD"
+      },
+      {
+        "asset": "eip155:1/erc20:0x069e4Aa272d17D9625aa3B6F863C7EF6CfB96713",
+        "location": "poloniex",
+        "location_symbol": "BULEI"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x75570E1189fFC1d63B3417CdF0889F87cD3E9bD1",
+        "location": "poloniex",
+        "location_symbol": "BUNNY"
+      },
+      {
+        "asset": "eip155:1/erc20:0x069d89974f4edaBde69450f9cF5CF7D8Cbd2568D",
+        "location": "poloniex",
+        "location_symbol": "BVM"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x506BEb7965FC7053059006c7ab4C62c02C2D989F",
+        "location": "poloniex",
+        "location_symbol": "BWORM"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1b54a6Fa1360BD71A0f28F77A1D6fBA215d498C3",
+        "location": "poloniex",
+        "location_symbol": "CASINU"
+      },
+      {
+        "asset": "eip155:56/erc20:0x6894CDe390a3f51155ea41Ed24a33A4827d3063D",
+        "location": "poloniex",
+        "location_symbol": "CATBSC"
+      },
+      {
+        "asset": "CATFROGDOGSHARK",
+        "location": "poloniex",
+        "location_symbol": "CATFROG"
+      },
+      {
+        "asset": "eip155:1/erc20:0xfB09122d1e17170C1807BFc1Ef3c614BD85E1B6e",
+        "location": "poloniex",
+        "location_symbol": "CCROWD"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3E362038fD3d08887d498944D489aF7909619a9B",
+        "location": "poloniex",
+        "location_symbol": "CHOW"
+      },
+      {
+        "asset": "eip155:1/erc20:0x38604d52d3A89B16a90053AE0c6D009504a9A5b8",
+        "location": "poloniex",
+        "location_symbol": "CLD"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x0028e1E60167b48a938B785AA5292917E7eacA8b",
+        "location": "poloniex",
+        "location_symbol": "COINYE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xFf9c1f21c621696C4f91cF781ec31Bd913EE2C26",
+        "location": "poloniex",
+        "location_symbol": "COM"
+      },
+      {
+        "asset": "CROC",
+        "location": "poloniex",
+        "location_symbol": "CROCCAT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x38E68A37E401F7271568CecaAc63c6B1e19130B4",
+        "location": null,
+        "location_symbol": "BANANA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x00282FD551D03dC033256C4bf119532e8C735D8a",
+        "location": "poloniex",
+        "location_symbol": "BIAO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x106538CC16F938776c7c180186975BCA23875287",
+        "location": "poloniex",
+        "location_symbol": "BAS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9CBf044bc535db4C93a9F11205A69631d9DCeF26",
+        "location": "poloniex",
+        "location_symbol": "BILLY"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB90B2A35C65dBC466b04240097Ca756ad2005295",
+        "location": "poloniex",
+        "location_symbol": "BOBOETH"
+      },
+      {
+        "asset": "eip155:1/erc20:0xda31D0d1Bc934fC34F7189E38A413ca0A5e8b44F",
+        "location": "poloniex",
+        "location_symbol": "BSSB"
+      },
+      {
+        "asset": "eip155:56/erc20:0x40F75eD09c7Bc89Bf596cE0fF6FB2ff8D02aC019",
+        "location": "poloniex",
+        "location_symbol": "BTP"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0000000000c5dc95539589fbD24BE07c6C14eCa4",
+        "location": "poloniex",
+        "location_symbol": "CULTETH"
+      },
+      {
+        "asset": "eip155:1/erc20:0xC3DC991F2E0D39B3F3C4F8aAEdB30F81207974C6",
+        "location": "poloniex",
+        "location_symbol": "DELON"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc234Cb1B59d12C0C2F0e984ee9112a6311B86223",
+        "location": "poloniex",
+        "location_symbol": "DJTETH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x73C6A7491d0dB90Bdb0060308CDE0F49dfD1D0B0",
+        "location": "poloniex",
+        "location_symbol": "DOBO"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD09e5d8607f2541E13c3F014C360f0EE2A25Eb80",
+        "location": "poloniex",
+        "location_symbol": "DOGE1"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1121AcC14c63f3C872BFcA497d10926A6098AAc5",
+        "location": "poloniex",
+        "location_symbol": "DOGEETH"
+      },
+      {
+        "asset": "FORK",
+        "location": "poloniex",
+        "location_symbol": "DOGWIFFORK"
+      },
+      {
+        "asset": "DC",
+        "location": "poloniex",
+        "location_symbol": "DONALDCAT"
+      },
+      {
+        "asset": "eip155:1/erc20:0xF1c71fb7cd399e00EeD76332a9312fa6e70fA189",
+        "location": "poloniex",
+        "location_symbol": "DPOOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc03D38F89b175596859C99eaB231d31e1808358c",
+        "location": "poloniex",
+        "location_symbol": "EACC"
+      },
+      {
+        "asset": "eip155:1/erc20:0x786f112c9A6Bc840cdc07CFD840105EfD6EF2d4B",
+        "location": "poloniex",
+        "location_symbol": "EDOGE"
+      },
+      {
+        "asset": "ELIZA",
+        "location": "poloniex",
+        "location_symbol": "ELIZASOL"
+      },
+      {
+        "asset": "eip155:56/erc20:0x9240c44eE90D058b0b17AbABE0f74Ab1A205ae04",
+        "location": "poloniex",
+        "location_symbol": "ENTS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2FcBD5a6eb694d573D280664393681cB52b9a98b",
+        "location": "poloniex",
+        "location_symbol": "ETF"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6E835aC221d5622bf65aE21a22eB7484d1898598",
+        "location": "poloniex",
+        "location_symbol": "ETHPEPE2"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6135177A17E02658dF99A07A2841464deB5B8589",
+        "location": "poloniex",
+        "location_symbol": "FEARNOT"
+      },
+      {
+        "asset": "FOFAR",
+        "location": "poloniex",
+        "location_symbol": "FOFARTRON"
+      },
+      {
+        "asset": "eip155:56/erc20:0x296d1836658344E4257ec4c9D3c0fcB8312DE87c",
+        "location": "poloniex",
+        "location_symbol": "FOMO"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x6432096f054288Ee45b7f6ad8863a1F4A8e1201C",
+        "location": "poloniex",
+        "location_symbol": "FOMOBASE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xd0D56273290D339aaF1417D9bfa1bb8cFe8A0933",
+        "location": "poloniex",
+        "location_symbol": "FOOM"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xFF0C532FDB8Cd566Ae169C1CB157ff2Bdc83E105",
+        "location": "poloniex",
+        "location_symbol": "FRENPET"
+      },
+      {
+        "asset": "GIGA",
+        "location": "poloniex",
+        "location_symbol": "GIGASOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xf016D7848Cd3f4B42de810BEB116DBACd8eD1e92",
+        "location": "poloniex",
+        "location_symbol": "GIOVE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc56C7A0eAA804f854B536A5F3D5f49D2EC4B12b8",
+        "location": "poloniex",
+        "location_symbol": "GMEETH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x28300D1c687B1F982d67f8A74efded5427dA6ec1",
+        "location": "poloniex",
+        "location_symbol": "GMEONETH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x089453742936dd35134383aee9d78bEe63A69b01",
+        "location": "poloniex",
+        "location_symbol": "GOLD1"
+      },
+      {
+        "asset": "eip155:56/erc20:0x4f7eA8F6487a7007ca054F35c4a7b961f5b18961",
+        "location": "poloniex",
+        "location_symbol": "GOLDENCAT"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x764BFC309090E7f93EDcE53E5BeFa374CDCB7b8e",
+        "location": "poloniex",
+        "location_symbol": "GRIMACE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6942806D1B2d5886D95cE2f04314ece8eb825833",
+        "location": "poloniex",
+        "location_symbol": "GROYPER"
+      },
+      {
+        "asset": "HAMMY",
+        "location": "poloniex",
+        "location_symbol": "HAMMYTRON"
+      },
+      {
+        "asset": "HAPPY",
+        "location": "poloniex",
+        "location_symbol": "HAPPYSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xfA3E941D1F6B7b10eD84A0C211bfA8aeE907965e",
+        "location": "poloniex",
+        "location_symbol": "HAY"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x0578d8A44db98B23BF096A382e016e29a5Ce0ffe",
+        "location": "poloniex",
+        "location_symbol": "HIGHER"
+      },
+      {
+        "asset": "HODL",
+        "location": "poloniex",
+        "location_symbol": "HODLSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xD8E8438CF7bEEd13cFABC82F300Fb6573962c9e3",
+        "location": "poloniex",
+        "location_symbol": "HONKETH"
+      },
+      {
+        "asset": "eip155:56/erc20:0xc335Df7C25b72eEC661d5Aa32a7c2B7b2a1D1874",
+        "location": "poloniex",
+        "location_symbol": "ICENETWORK"
+      },
+      {
+        "asset": "eip155:1/erc20:0x663962C0D2B624776D6FD1bf6ba41236761e76a9",
+        "location": "poloniex",
+        "location_symbol": "IVEX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
+        "location": "poloniex",
+        "location_symbol": "CHZETHOLD"
+      },
+      {
+        "asset": "eip155:1/erc20:0x114f1388fAB456c4bA31B1850b244Eedcd024136",
+        "location": "poloniex",
+        "location_symbol": "COOL240426"
       }
     ],
     "updates": [
@@ -4633,6 +5538,11 @@
         "asset": "eip155:1/erc20:0x8292Bb45bf1Ee4d140127049757C2E0fF06317eD",
         "location": "independentreserve",
         "location_symbol": "Rlusd"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8e729198d1C59B82bd6bBa579310C40d740A11C2",
+        "location": "poloniex",
+        "location_symbol": "ALVA"
       }
     ],
     "deletions": [
