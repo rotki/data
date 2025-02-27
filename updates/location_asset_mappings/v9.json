@@ -4693,6 +4693,31 @@
           "location_symbol": "PERRY"
       },
       {
+        "asset": "eip155:42161/erc20:0x00CBcF7B3d37844e44b888Bc747bDd75FCf4E555",
+        "location": "poloniex",
+        "location_symbol": "XPET"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1039BaE6254178EE2f6123cD64CDE9e4CA79D779",
+        "location": "poloniex",
+        "location_symbol": "WUKONGETH"
+      },
+      {
+        "asset": "TRUST-2",
+        "location": "poloniex",
+        "location_symbol": "TRUSTSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x86B69F38BEA3e02f68fF88534bc61EC60E772b19",
+        "location": "poloniex",
+        "location_symbol": "TRUMPNS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x12eF10A4fc6e1Ea44B4ca9508760fF51c647BB71",
+        "location": "poloniex",
+        "location_symbol": "RSTK"
+      },
+      {
           "asset": "eip155:1/erc20:0x0001A500A6B18995B03f44bb040A5fFc28E45CB0",
           "location": "poloniex",
           "location_symbol": "OLAS"
