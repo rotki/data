@@ -2288,11 +2288,6 @@
         "location_symbol": "SC"
       },
       {
-        "asset": "eip155:1/erc20:0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-        "location": "poloniex",
-        "location_symbol": "SHIB"
-      },
-      {
         "asset": "SIX",
         "location": "poloniex",
         "location_symbol": "SIX"
@@ -5073,6 +5068,36 @@
         "location_symbol": "O4DX"
       },
       {
+        "asset": "eip155:1/erc20:0x9fBFed658919A896B5Dc7b00456Ce22D780f9B65",
+        "location": "poloniex",
+        "location_symbol": "PLT"
+      },
+      {
+        "asset": "'eip155:8453/erc20:0x6E93DEDe32b00fC0B993CEE3be8727089fdd013b",
+        "location": "poloniex",
+        "location_symbol": "POON"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc575BD129848Ce06A460A19466c30E1D0328F52C",
+        "location": "poloniex",
+        "location_symbol": "RAI"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe91598331A36A78f7fEfe277cE7C1915DA0AfB93",
+        "location": "poloniex",
+        "location_symbol": "RB"
+      },
+      {
+        "asset": "eip155:1/erc20:0x57B96D4aF698605563A4653D882635da59Bf11AF",
+        "location": "poloniex",
+        "location_symbol": "RCH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+        "location": null,
+        "location_symbol": "SHIB"
+      },
+      {
         "asset": "eip155:56/erc20:0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
         "location": "woo",
         "location_symbol": "1000CHEEMS"
@@ -5279,7 +5304,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x38E68A37E401F7271568CecaAc63c6B1e19130B4",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BANANA"
       },
       {
