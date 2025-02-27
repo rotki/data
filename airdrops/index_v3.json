@@ -336,15 +336,18 @@
         "odos": {
             "file_path": "airdrops/odos.parquet",
             "file_hash": "362728d16d92b0ffd6cf0558ebc970878cb09e069f6e3b4d8f0802ab9931236e",
-            "asset_identifier": "ODOS_PRELAUNCH",
+            "asset_identifier": "eip155:8453/erc20:0xca73ed1815e5915489570014e024b7EbE65dE679",
             "url": "https://app.odos.xyz/rewards",
             "name": "Odos",
             "icon": "odos.svg",
             "has_decoder": false,
             "new_asset_data": {
-                "asset_type": "OTHER",
-                "name": "Odos",
-                "symbol": "ODOS"
+                "asset_type": "EVM_TOKEN",
+                "address": "0xca73ed1815e5915489570014e024b7EbE65dE679",
+                "name": "Odos Token",
+                "symbol": "ODOS",
+                "chain_id": 8453,
+                "decimals": 18
             }
         }
     },
