@@ -3409,7 +3409,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xB2492E97a68a6E4B9E9a11B99F6C42E5aCCD38c7",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "VEXT"
       },
       {
@@ -5073,7 +5073,7 @@
         "location_symbol": "PLT"
       },
       {
-        "asset": "'eip155:8453/erc20:0x6E93DEDe32b00fC0B993CEE3be8727089fdd013b",
+        "asset": "eip155:8453/erc20:0x6E93DEDe32b00fC0B993CEE3be8727089fdd013b",
         "location": "poloniex",
         "location_symbol": "POON"
       },
@@ -5531,6 +5531,71 @@
         "asset": "eip155:1/erc20:0x114f1388fAB456c4bA31B1850b244Eedcd024136",
         "location": "poloniex",
         "location_symbol": "COOL240426"
+      },
+      {
+        "asset": "eip155:1/erc20:0xf2c88757f8d03634671208935974B60a2a28Bdb3",
+        "location": "kucoin",
+        "location_symbol": "SHELL"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xE3086852A4B125803C815a158249ae468A3254Ca",
+        "location": "bybit",
+        "location_symbol": "MFER"
+      },
+      {
+        "asset": "eip155:1/erc20:0x5c8D0C48810FD37A0A824D074ee290E64f7A8Fa2",
+        "location": "bybit",
+        "location_symbol": "AVL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x95b4B8CaD3567B5d7EF7399C2aE1d7070692aB0D",
+        "location": "bybit",
+        "location_symbol": "APRS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+        "location": "bybit",
+        "location_symbol": "OM"
+      },
+      {
+        "asset": "eip155:1/erc20:0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C",
+        "location": "bybit",
+        "location_symbol": "SPX"
+      },
+      {
+        "asset": "eip155:56/erc20:0x1FA0f5ed24a1a2b43741E88F8FEc19633e67082B",
+        "location": "bybit",
+        "location_symbol": "DIAM"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9F0C013016E8656bC256f948CD4B79ab25c7b94D",
+        "location": "bybit",
+        "location_symbol": "COOK"
+      },
+      {
+        "asset": "eip155:1/erc20:0x09395a2A58DB45db0da254c7EAa5AC469D8bDc85",
+        "location": "bybit",
+        "location_symbol": "SQT"
+      },
+      {
+        "asset": "eip155:1/erc20:0xBEEF01060047522408756E0000A90ce195A70000",
+        "location": "bybit",
+        "location_symbol": "APTR"
+      },
+      {
+        "asset": "eip155:1/erc20:0x580E933D90091b9cE380740E3a4A39c67eB85B4c",
+        "location": "bybit",
+        "location_symbol": "GSWIFT"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x982239D38Af50B0168dA33346d85Fb12929c4c07",
+        "location": null,
+        "location_symbol": "TROVE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6A7eFF1e2c355AD6eb91BEbB5ded49257F3FED98",
+        "location": "poloniex",
+        "location_symbol": "OPSECOLD"
       }
     ],
     "updates": [
@@ -5551,8 +5616,28 @@
         "location_symbol": "MNXT"
       },
       {
+        "location": "bybit",
+        "location_symbol": "BTC"
+      },
+      {
+        "location": "bybit",
+        "location_symbol": "TURBOS"
+      },
+      {
         "location": "kraken",
         "location_symbol": "BNB"
+      },
+      {
+        "location": "kraken",
+        "location_symbol": "PAXG"
+      },
+      {
+        "location": "kraken",
+        "location_symbol": "DEGEN"
+      },
+      {
+        "location": "kraken",
+        "location_symbol": "EURC"
       },
       {
         "location": "kraken",
@@ -5561,6 +5646,14 @@
       {
         "location": "kraken",
         "location_symbol": "SNT"
+      },
+      {
+        "location": "poloniex",
+        "location_symbol": "TROVE"
+      },
+      {
+        "location": "poloniex",
+        "location_symbol": "VEXT"
       }
     ]
   }
