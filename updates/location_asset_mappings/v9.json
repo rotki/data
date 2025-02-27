@@ -4848,6 +4848,61 @@
         "location_symbol": "NORMIE230926"
       },
       {
+        "asset": "eip155:1/erc20:0x67466BE17df832165F8C80a5A120CCc652bD7E69",
+        "location": "poloniex",
+        "location_symbol": "LWOLF"
+      },
+      {
+        "asset": "eip155:56/erc20:0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
+        "location": "poloniex",
+        "location_symbol": "LVL"
+      },
+      {
+        "asset": "LOOM",
+        "location": "poloniex",
+        "location_symbol": "LOOMSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xAf05Ce8A2Cef336006E933c02fc89887F5B3C726",
+        "location": "poloniex",
+        "location_symbol": "LMI"
+      },
+      {
+        "asset": "LAMBO",
+        "location": "poloniex",
+        "location_symbol": "LAMBOSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8C7AC134ED985367EADC6F727d79E8295E11435c",
+        "location": "poloniex",
+        "location_symbol": "KEKEC"
+      },
+      {
+        "asset": "eip155:1/erc20:0xA045Fe936E26e1e1e1Fb27C1f2Ae3643acde0171",
+        "location": "poloniex",
+        "location_symbol": "KAIKEN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe75F2AcaFbA1aD56C5eD712ffbc1d31910e74396",
+        "location": "poloniex",
+        "location_symbol": "KAI"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb3E41D6e0ea14b43BC5DE3C314A408af171b03dD",
+        "location": "poloniex",
+        "location_symbol": "KABOSUETH"
+      },
+      {
+        "asset": "EGGSOL",
+        "location": "poloniex",
+        "location_symbol": "JUSTANEGG"
+      },
+      {
+        "asset": "eip155:1/erc20:0xF63E309818E4EA13782678CE6C31C1234fa61809",
+        "location": "poloniex",
+        "location_symbol": "JANET"
+      },
+      {
         "asset": "eip155:56/erc20:0x0DF0587216a4a1bB7d5082fdc491d93d2dD4B413",
         "location": "woo",
         "location_symbol": "1000CHEEMS"
