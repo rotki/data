@@ -340,7 +340,7 @@
             "url": "https://app.odos.xyz/rewards",
             "name": "Odos",
             "icon": "odos.svg",
-            "has_decoder": false,
+            "has_decoder": true,
             "new_asset_data": {
                 "asset_type": "EVM_TOKEN",
                 "address": "0xca73ed1815e5915489570014e024b7EbE65dE679",
