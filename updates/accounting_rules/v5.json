@@ -1,0 +1,148 @@
+{
+    "accounting_rules": [
+        {
+            "event_type": "staking",
+            "event_subtype": "mev reward",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "spend",
+            "event_subtype": "return wrapped",
+            "counterparty": "aave-v2",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "spend",
+            "event_subtype": "clawback",
+            "counterparty": null,
+            "taxable": true,
+            "count_entire_amount_spend": true,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "deposit",
+            "event_subtype": "deposit for wrapped",
+            "counterparty": null,
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "withdrawal",
+            "event_subtype": "redeem wrapped",
+            "counterparty": null,
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "staking",
+            "event_subtype": "deposit for wrapped",
+            "counterparty": null,
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "staking",
+            "event_subtype": "redeem wrapped",
+            "counterparty": null,
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": null
+        },
+        {
+            "event_type": "deposit",
+            "event_subtype": "deposit for wrapped",
+            "counterparty": "aave-v1",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "deposit",
+            "event_subtype": "deposit for wrapped",
+            "counterparty": "aave-v3",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "deposit",
+            "event_subtype": "deposit for wrapped",
+            "counterparty": "compound",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "deposit",
+            "event_subtype": "deposit for wrapped",
+            "counterparty": "compound-v3",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "deposit",
+            "event_subtype": "deposit for wrapped",
+            "counterparty": "Locked GNO",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "deposit",
+            "event_subtype": "deposit for wrapped",
+            "counterparty": "yearn-v1",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "deposit",
+            "event_subtype": "deposit for wrapped",
+            "counterparty": "yearn-v2",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "withdrawal",
+            "event_subtype": "redeem wrapped",
+            "counterparty": "yearn-v1",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "withdrawal",
+            "event_subtype": "redeem wrapped",
+            "counterparty": "yearn-v2",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": false,
+            "accounting_treatment": "SWAP"
+        }
+    ]
+}
