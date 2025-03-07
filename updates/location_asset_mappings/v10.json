@@ -1,0 +1,111 @@
+{
+  "location_asset_mappings": {
+    "additions": [
+      {
+        "asset": "eip155:1/erc20:0xD9343a049D5DBd89CD19DC6BcA8c48fB3a0a42a7",
+        "location": "binance",
+        "location_symbol": "LUMIA"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc43C6bfeDA065fE2c4c11765Bf838789bd0BB5dE",
+        "location": null,
+        "location_symbol": "RED"
+      },
+      {
+        "asset": "eip155:1/erc20:0xf2c88757f8d03634671208935974B60a2a28Bdb3",
+        "location": null,
+        "location_symbol": "SHELL"
+      },
+      {
+        "asset": "eip155:56/erc20:0xF4C8E32EaDEC4BFe97E0F595AdD0f4450a863a11",
+        "location": "binance",
+        "location_symbol": "THE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+        "location": null,
+        "location_symbol": "TON"
+      },
+      {
+        "asset": "eip155:10/erc20:0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+        "location": null,
+        "location_symbol": "VELODROME"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8730762Cad4a27816A467fAc54e3dd1E2e9617A1",
+        "location": "kucoin",
+        "location_symbol": "GX"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc43C6bfeDA065fE2c4c11765Bf838789bd0BB5dE",
+        "location": "kucoin",
+        "location_symbol": "REDSTONE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6243558a24CC6116aBE751f27E6d7Ede50ABFC76",
+        "location": "kucoin",
+        "location_symbol": "LVVA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x89A8c847f41C0dfA6c8B88638bACca8a0b777Da7",
+        "location": null,
+        "location_symbol": "ELX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x163f8C2467924be0ae7B5347228CABF260318753",
+        "location": null,
+        "location_symbol": "WLD"
+      }
+    ],
+    "deletions": [
+      {
+        "location": "kucoin",
+        "location_symbol": "SHELL"
+      },
+      {
+        "location": "htx",
+        "location_symbol": "TON"
+      },
+      {
+        "location": "woo",
+        "location_symbol": "TON"
+      },
+      {
+        "location": "kraken",
+        "location_symbol": "TON"
+      },
+      {
+        "location": "poloniex",
+        "location_symbol": "TON"
+      },
+      {
+        "location": "woo",
+        "location_symbol": "VELODROME"
+      },
+      {
+        "location": "htx",
+        "location_symbol": "VELODROME"
+      },
+      {
+        "location": "kraken",
+        "location_symbol": "VELODROME"
+      },
+      {
+        "location": "poloniex",
+        "location_symbol": "VELODROME"
+      },
+      {
+        "location": "bybit",
+        "location_symbol": "WLD"
+      },
+      {
+        "location": "htx",
+        "location_symbol": "WLD"
+      },
+      {
+        "location": "poloniex",
+        "location_symbol": "WLD"
+      }
+    ]
+  }
+}
