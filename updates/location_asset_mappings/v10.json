@@ -92,11 +92,6 @@
         "location_symbol": "1000CHEEMS"
       },
       {
-        "asset": "eip155:56/erc20:0xc748673057861a797275CD8A068AbB95A902e8de",
-        "location": "binance",
-        "location_symbol": "1MBABYDOGE"
-      },
-      {
         "asset": "eip155:56/erc20:0xBDA011D7F8EC00F66C1923B049B94c67d148d8b2",
         "location": "binance",
         "location_symbol": "AI"
