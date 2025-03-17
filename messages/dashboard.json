@@ -3,24 +3,12 @@
     "message": "Enjoying rotki? Consider ",
     "message_highlight": "supporting us in",
     "action": {
-      "text": "Gitcoin: Glo Dollar x Optimism Builders",
-      "url": "https://explorer.gitcoin.co/#/round/10/96/30"
-    },
-    "period": {
-      "start": 1736834400,
-      "end": 1738130400
-    }
-  },
-  {
-    "message": "Enjoying rotki? Consider ",
-    "message_highlight": "supporting us in",
-    "action": {
-      "text": "Loving on Public Goods QF Giveth Round",
+      "text": "ENS x Octant Public Goods Giveth Round",
       "url": "https://giveth.io/project/rotki"
     },
     "period": {
-      "start": 1738022400,
-      "end": 1739577599
+      "start": 1742313600,
+      "end": 1743584340
     }
   }
 ]
