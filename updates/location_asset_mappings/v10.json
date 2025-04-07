@@ -153,12 +153,12 @@
       },
       {
         "asset": "eip155:56/erc20:0x3d4f0513E8a29669B960f9dBcA61861548A9A760",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BANANAS31"
       },
       {
         "asset": "eip155:56/erc20:0x6d5AD1592ed9D6D1dF9b93c793AB759573Ed6714",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "BROCCOLI714"
       },
       {
@@ -168,12 +168,12 @@
       },
       {
         "asset": "eip155:1/erc20:0x94314a14Df63779c99C0764a30e0CD22fA78fC0E",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "EPIC"
       },
       {
         "asset": "eip155:56/erc20:0x5b73A93b4E5e4f1FD27D8b3F8C97D69908b5E284",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "FORM"
       },
       {
@@ -188,7 +188,7 @@
       },
       {
         "asset": "eip155:56/erc20:0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "MUBARAK"
       },
       {
@@ -213,13 +213,28 @@
       },
       {
         "asset": "eip155:56/erc20:0xCAAE2A2F939F51d97CdFa9A86e79e3F085b799f3",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "TUT"
       },
       {
         "asset": "eip155:1/erc20:0x1D88713b483A8E45cfF0e5CD7c2e15E5Fab4534d",
         "location": "poloniex",
         "location_symbol": "STO"
+      },
+      {
+        "asset": "eip155:1/erc20:0xC08e7E23C235073C6807C2EFE7021304cb7c2815",
+        "location": "binance",
+        "location_symbol": "XUSD"
+      },
+      {
+        "asset": "eip155:56/erc20:0x59264f02D301281f3393e1385c0aEFd446Eb0F00",
+        "location": null,
+        "location_symbol": "PARTI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+        "location": "okx",
+        "location_symbol": "FLUID"
       }
     ],
     "deletions": [
