@@ -120,6 +120,31 @@
         "asset": "eip155:1/erc20:0x9CBf044bc535db4C93a9F11205A69631d9DCeF26",
         "location": "htx",
         "location_symbol": "BILLY"
+      },
+      {
+        "asset": "eip155:1/erc20:0x808507121B80c02388fAd14726482e061B8da827",
+        "location": "coinbase",
+        "location_symbol": "PENDLE"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
+        "location": "coinbase",
+        "location_symbol": "COOKIE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xbe0Ed4138121EcFC5c0E56B40517da27E6c5226B",
+        "location": "coinbase",
+        "location_symbol": "ATH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x198d14F2Ad9CE69E76ea330B374DE4957C3F850a",
+        "location": "kraken",
+        "location_symbol": "APENFT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8c1BEd5b9a0928467c9B1341Da1D7BD5e10b6549",
+        "location": "kraken",
+        "location_symbol": "LSETH"
       }
     ],
     "deletions": [
