@@ -145,6 +145,81 @@
         "asset": "eip155:1/erc20:0x8c1BEd5b9a0928467c9B1341Da1D7BD5e10b6549",
         "location": "kraken",
         "location_symbol": "LSETH"
+      },
+      {
+        "asset": "eip155:56/erc20:0x3ca729BFD4bbaD155f072752510226b37A5b7723",
+        "location": "poloniex",
+        "location_symbol": "AGON"
+      },
+      {
+        "asset": "eip155:56/erc20:0x3d4f0513E8a29669B960f9dBcA61861548A9A760",
+        "location": "poloniex",
+        "location_symbol": "BANANAS31"
+      },
+      {
+        "asset": "eip155:56/erc20:0x6d5AD1592ed9D6D1dF9b93c793AB759573Ed6714",
+        "location": "poloniex",
+        "location_symbol": "BROCCOLI714"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x937a1cFAF0A3d9f5Dc4D0927F72ee5e3e5F82a00",
+        "location": "poloniex",
+        "location_symbol": "COCORO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x94314a14Df63779c99C0764a30e0CD22fA78fC0E",
+        "location": "poloniex",
+        "location_symbol": "EPIC"
+      },
+      {
+        "asset": "eip155:56/erc20:0x5b73A93b4E5e4f1FD27D8b3F8C97D69908b5E284",
+        "location": "poloniex",
+        "location_symbol": "FORM"
+      },
+      {
+        "asset": "eip155:56/erc20:0x795D2710E383F33fbEbe980a155b29757b6703f3",
+        "location": "poloniex",
+        "location_symbol": "GHIBLIBSC"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x9a26F5433671751C3276a065f57e5a02D2817973",
+        "location": "poloniex",
+        "location_symbol": "KEYCAT"
+      },
+      {
+        "asset": "eip155:56/erc20:0x5C85D6C6825aB4032337F11Ee92a72DF936b46F6",
+        "location": "poloniex",
+        "location_symbol": "MUBARAK"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xD968196FA6977c4e58F2af5aC01C655ea8332d22",
+        "location": "poloniex",
+        "location_symbol": "NATO"
+      },
+      {
+        "asset": "eip155:56/erc20:0x997A58129890bBdA032231A52eD1ddC845fc18e1",
+        "location": "poloniex",
+        "location_symbol": "SIREN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xa62cc35625B0C8dc1fAEA39d33625Bb4C15bD71C",
+        "location": "poloniex",
+        "location_symbol": "STMX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0AFf507aC29B8CEA2FB10d2ad14408c2d79A35AD",
+        "location": "poloniex",
+        "location_symbol": "TALK"
+      },
+      {
+        "asset": "eip155:56/erc20:0xCAAE2A2F939F51d97CdFa9A86e79e3F085b799f3",
+        "location": "poloniex",
+        "location_symbol": "TUT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1D88713b483A8E45cfF0e5CD7c2e15E5Fab4534d",
+        "location": "poloniex",
+        "location_symbol": "STO"
       }
     ],
     "deletions": [
