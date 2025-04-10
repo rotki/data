@@ -349,6 +349,24 @@
                 "chain_id": 8453,
                 "decimals": 18
             }
+        },
+        "superfluid_s1": {
+            "file_path": "airdrops/superfluid_1.parquet",
+            "file_hash": "6dcdf3aa659567734c644297223ead42aab8648f96f72ba416494756ef8eef37",
+            "asset_identifier": "eip155:8453/erc20:0xa69f80524381275A7fFdb3AE01c54150644c8792",
+            "url": "https://claim.superfluid.org/",
+            "name": "Superfluid Season 1",
+            "icon": "superliquid.svg",
+            "icon_path": "airdrops/icons/sup.svg",
+            "has_decoder": true,
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0xa69f80524381275A7fFdb3AE01c54150644c8792",
+                "name": "Superfluid Token",
+                "symbol": "SUP",
+                "chain_id": 8453,
+                "decimals": 18
+            }
         }
     },
     "poap_airdrops": {
