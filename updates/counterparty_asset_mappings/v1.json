@@ -1,164 +1,166 @@
 {
-  "additions": [
-    {
-      "asset": "HYPE",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "HYPE"
-    },
-    {
-      "asset": "eip155:42161/erc20:0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "USDC"
-    },
-    {
-      "asset": "0xc1fb593aeffbeb02f85e0308e9956a90",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "PURR"
-    },
-    {
-      "asset": "0xbaf265ef389da684513d98d68edf4eae",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "HFUN"
-    },
-    {
-      "asset": "0xfcf28885456bf7e7cbe5b7a25407c5bc",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "JEFF"
-    },
-    {
-      "asset": "0x4978f3f49f30776d9d7397b873223c2d",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "RUG"
-    },
-    {
-      "asset": "0x3b5ff6cb91f71032578b53960090adfb",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "CZ"
-    },
-    {
-      "asset": "0xb693d596cd02f5f38e532e647bb43b69",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "VEGAS"
-    },
-    {
-      "asset": "0xdb5190bea4b6ab178da0162420c93a73",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "VAPOR"
-    },
-    {
-      "asset": "0x7631702302e6c7fbf69d369e0bcf45d6",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "CAT"
-    },
-    {
-      "asset": "0x58fb407b5fce2b90348cdf090d6dd3d4",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "FRAC"
-    },
-    {
-      "asset": "0xbebb35d03b83a302a2aa06dbaa67dd9f",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "ATEHUN"
-    },
-    {
-      "asset": "0x38348c17e1a18559bbda232d22007695",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "CATBAL"
-    },
-    {
-      "asset": "0xa82aa458b2c146e97733d0c05374aa0e",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "LAUNCH"
-    },
-    {
-      "asset": "0x288553d859333b90ede88640b4279598",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "VAULT"
-    },
-    {
-      "asset": "0x52a110041682dbf38277c80a72eecba6",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "H"
-    },
-    {
-      "asset": "0xe85f43e1f91e3c8cdf3acbd7e0855b8e",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "PIP"
-    },
-    {
-      "asset": "0x2150c49b1b981b88349dae535d607ce2",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "YEETI"
-    },
-    {
-      "asset": "0x0dd6980f71e51e6f218a9b7d53c837f6",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "LQNA"
-    },
-    {
-      "asset": "0xb3d30d38259b99d4a6daaf72ded7bf34",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "FRUDO"
-    },
-    {
-      "asset": "0x7b659352508b25500406b4cd7fdc4f8c",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "AUTIST"
-    },
-    {
-      "asset": "0x0d01dc56dcaaca66ad901c959b4011ec",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "HYPE"
-    },
-    {
-      "asset": "0x11c83b5cfeb6419a74a85a5aaba0511d",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "FARM"
-    },
-    {
-      "asset": "0xc6aef97252f0081eb8246e24f24c5fe7",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "SOVRN"
-    },
-    {
-      "asset": "0xf1b242b9725266c3c634909fb575ef10",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "HYENA"
-    },
-    {
-      "asset": "0x934a7e00c1b047c2d27967663f58befe",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "DEPIN"
-    },
-    {
-      "asset": "0xd7a5b9b760fd758d2e3f6f3ecd2ae5bb",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "ORA"
-    },
-    {
-      "asset": "0xa043053570d42d6f553896820dfd42b6",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "LIQD"
-    },
-    {
-      "asset": "0x2ceb1907ce5c0c98b86e733d15aea34b",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "SENT"
-    },
-    {
-      "asset": "0x55db85bd0938b111d0f78a98173fd99a",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "FLY"
-    },
-    {
-      "asset": "0xad426cf28a66dc0c8f3b931018ba9845",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "HWTR"
-    },
-    {
-      "asset": "0xe1edd30daaf5caac3fe63569e24748da",
-      "counterparty": "hyperliquid",
-      "counterparty_symbol": "UETH"
-    }
-  ]
+  "counterparty_asset_mappings": {
+    "additions": [
+      {
+        "asset": "HYPE",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "HYPE"
+      },
+      {
+        "asset": "eip155:42161/erc20:0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "USDC"
+      },
+      {
+        "asset": "0xc1fb593aeffbeb02f85e0308e9956a90",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "PURR"
+      },
+      {
+        "asset": "0xbaf265ef389da684513d98d68edf4eae",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "HFUN"
+      },
+      {
+        "asset": "0xfcf28885456bf7e7cbe5b7a25407c5bc",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "JEFF"
+      },
+      {
+        "asset": "0x4978f3f49f30776d9d7397b873223c2d",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "RUG"
+      },
+      {
+        "asset": "0x3b5ff6cb91f71032578b53960090adfb",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "CZ"
+      },
+      {
+        "asset": "0xb693d596cd02f5f38e532e647bb43b69",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "VEGAS"
+      },
+      {
+        "asset": "0xdb5190bea4b6ab178da0162420c93a73",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "VAPOR"
+      },
+      {
+        "asset": "0x7631702302e6c7fbf69d369e0bcf45d6",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "CAT"
+      },
+      {
+        "asset": "0x58fb407b5fce2b90348cdf090d6dd3d4",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "FRAC"
+      },
+      {
+        "asset": "0xbebb35d03b83a302a2aa06dbaa67dd9f",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "ATEHUN"
+      },
+      {
+        "asset": "0x38348c17e1a18559bbda232d22007695",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "CATBAL"
+      },
+      {
+        "asset": "0xa82aa458b2c146e97733d0c05374aa0e",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "LAUNCH"
+      },
+      {
+        "asset": "0x288553d859333b90ede88640b4279598",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "VAULT"
+      },
+      {
+        "asset": "0x52a110041682dbf38277c80a72eecba6",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "H"
+      },
+      {
+        "asset": "0xe85f43e1f91e3c8cdf3acbd7e0855b8e",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "PIP"
+      },
+      {
+        "asset": "0x2150c49b1b981b88349dae535d607ce2",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "YEETI"
+      },
+      {
+        "asset": "0x0dd6980f71e51e6f218a9b7d53c837f6",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "LQNA"
+      },
+      {
+        "asset": "0xb3d30d38259b99d4a6daaf72ded7bf34",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "FRUDO"
+      },
+      {
+        "asset": "0x7b659352508b25500406b4cd7fdc4f8c",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "AUTIST"
+      },
+      {
+        "asset": "0x0d01dc56dcaaca66ad901c959b4011ec",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "HYPE"
+      },
+      {
+        "asset": "0x11c83b5cfeb6419a74a85a5aaba0511d",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "FARM"
+      },
+      {
+        "asset": "0xc6aef97252f0081eb8246e24f24c5fe7",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "SOVRN"
+      },
+      {
+        "asset": "0xf1b242b9725266c3c634909fb575ef10",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "HYENA"
+      },
+      {
+        "asset": "0x934a7e00c1b047c2d27967663f58befe",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "DEPIN"
+      },
+      {
+        "asset": "0xd7a5b9b760fd758d2e3f6f3ecd2ae5bb",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "ORA"
+      },
+      {
+        "asset": "0xa043053570d42d6f553896820dfd42b6",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "LIQD"
+      },
+      {
+        "asset": "0x2ceb1907ce5c0c98b86e733d15aea34b",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "SENT"
+      },
+      {
+        "asset": "0x55db85bd0938b111d0f78a98173fd99a",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "FLY"
+      },
+      {
+        "asset": "0xad426cf28a66dc0c8f3b931018ba9845",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "HWTR"
+      },
+      {
+        "asset": "0xe1edd30daaf5caac3fe63569e24748da",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "UETH"
+      }
+    ]
+  }
 }
