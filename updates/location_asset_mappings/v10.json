@@ -235,6 +235,96 @@
         "asset": "eip155:1/erc20:0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
         "location": "okx",
         "location_symbol": "FLUID"
+      },
+      {
+        "asset": "eip155:1/erc20:0xF831938CaF837cd505dE196BBb408D81A06376ab",
+        "location": "bybit",
+        "location_symbol": "JEFF"
+      },
+      {
+        "asset": "BABYLON",
+        "location": "bybit",
+        "location_symbol": "BABY1"
+      },
+      {
+        "asset": "eip155:1/erc20:0x68749665FF8D2d112Fa859AA293F07A622782F38",
+        "location": "bybit",
+        "location_symbol": "XAUT"
+      },
+      {
+        "asset": "eip155:56/erc20:0xB035723D62e0e2ea7499D76355c9D560f13ba404",
+        "location": "bybit",
+        "location_symbol": "OIK"
+      },
+      {
+        "asset": "eip155:1/erc20:0xF831938CaF837cd505dE196BBb408D81A06376ab",
+        "location": "poloniex",
+        "location_symbol": "JEFF"
+      },
+      {
+        "asset": "eip155:1/erc20:0xDD782657af86492771BdB369CaEB8c246bE362f5",
+        "location": "poloniex",
+        "location_symbol": "RUG"
+      },
+      {
+        "asset": "eip155:1/erc20:0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
+        "location": "htx",
+        "location_symbol": "AERGO"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x30c7235866872213F68cb1F08c37Cb9eCCB93452",
+        "location": "coinbase",
+        "location_symbol": "PROMPT"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x30c7235866872213F68cb1F08c37Cb9eCCB93452",
+        "location": "okx",
+        "location_symbol": "PROMPT"
+      },
+      {
+        "asset": "eip155:1/erc20:0xC65d8d96cddDB31328186EFA113a460b0Af9Ec63",
+        "location": "bybit",
+        "location_symbol": "PELL"
+      },
+      {
+        "asset": "eip155:56/erc20:0xd55C9fB62E176a8Eb6968f32958FeFDD0962727E",
+        "location": "bybit",
+        "location_symbol": "FHE"
+      },
+      {
+        "asset": "eip155:56/erc20:0xd55C9fB62E176a8Eb6968f32958FeFDD0962727E",
+        "location": "kraken",
+        "location_symbol": "FHE"
+      },
+      {
+        "asset": "eip155:56/erc20:0x3Dc8e2d80b6215a1BCcAe4d38715C3520581E77c",
+        "location": "bybit",
+        "location_symbol": "EPT"
+      },
+      {
+        "asset": "eip155:56/erc20:0x3Dc8e2d80b6215a1BCcAe4d38715C3520581E77c",
+        "location": "htx",
+        "location_symbol": "EPT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+        "location": "htx",
+        "location_symbol": "OM"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7B43E3875440B44613DC3bC08E7763e6Da63C8f8",
+        "location": "bybit",
+        "location_symbol": "USDR"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7B43E3875440B44613DC3bC08E7763e6Da63C8f8",
+        "location": "poloniex",
+        "location_symbol": "USDR"
+      },
+      {
+        "asset": "eip155:56/erc20:0xdAf1695c41327b61B9b9965Ac6A5843A3198cf07",
+        "location": "htx",
+        "location_symbol": "STO"
       }
     ],
     "deletions": [
