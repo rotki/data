@@ -203,7 +203,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xa62cc35625B0C8dc1fAEA39d33625Bb4C15bD71C",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "STMX"
       },
       {
@@ -218,7 +218,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x1D88713b483A8E45cfF0e5CD7c2e15E5Fab4534d",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "STO"
       },
       {
@@ -325,6 +325,86 @@
         "asset": "eip155:56/erc20:0xdAf1695c41327b61B9b9965Ac6A5843A3198cf07",
         "location": "htx",
         "location_symbol": "STO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3f80B1c54Ae920Be41a77f8B902259D48cf24cCf",
+        "location": null,
+        "location_symbol": "KERNEL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
+        "location": "coinbase",
+        "location_symbol": "RSR"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7D8146cf21e8D7cbe46054e01588207b51198729",
+        "location": "kucoin",
+        "location_symbol": "BOBMEME"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x5F8a7c646511A790C53F171891E5d469cA884EdE",
+        "location": "kucoin",
+        "location_symbol": "SLING"
+      },
+      {
+        "asset": "eip155:56/erc20:0xd5369a3CaC0f4448A9A96bb98AF9c887c92fC37B",
+        "location": "kucoin",
+        "location_symbol": "BUBB"
+      },
+      {
+        "asset": "SEEDONSUI",
+        "location": "kucoin",
+        "location_symbol": "SEED"
+      },
+      {
+        "asset": "WAVONSUI",
+        "location": "kucoin",
+        "location_symbol": "WAV"
+      },
+      {
+        "asset": "eip155:56/erc20:0x503Fa24B7972677F00C4618e5FBe237780C1df53",
+        "location": "kucoin",
+        "location_symbol": "KILO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2d8eA194902Bc55431420BD26Be92b0782dCe91D",
+        "location": "kucoin",
+        "location_symbol": "ZND"
+      },
+      {
+        "asset": "eip155:56/erc20:0x6587eff07D9aE00f05FAe2a3a032B2C1a1dFCE41",
+        "location": "kucoin",
+        "location_symbol": "FREEDOG"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9e3B5582b22E3835896368017bAfF6D942A41cd9",
+        "location": "kucoin",
+        "location_symbol": "H1"
+      },
+      {
+        "asset": "eip155:56/erc20:0x3Dc8e2d80b6215a1BCcAe4d38715C3520581E77c",
+        "location": "kucoin",
+        "location_symbol": "EPT"
+      },
+      {
+        "asset": "WIN-3",
+        "location": "kraken",
+        "location_symbol": "WIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+        "location": "kraken",
+        "location_symbol": "METIS"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x3ec2156D4c0A9CBdAB4a016633b7BcF6a8d68Ea2",
+        "location": "woo",
+        "location_symbol": "DRB"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x010700AB046Dd8e92b0e3587842080Df36364ed3",
+        "location": "kraken",
+        "location_symbol": "K"
       }
     ],
     "deletions": [
@@ -379,6 +459,10 @@
       {
         "location": "kraken",
         "location_symbol": "BNB"
+      },
+      {
+        "location": "kraken",
+        "location_symbol": "ANT"
       }
     ]
   }
