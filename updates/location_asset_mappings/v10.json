@@ -273,12 +273,7 @@
       },
       {
         "asset": "eip155:8453/erc20:0x30c7235866872213F68cb1F08c37Cb9eCCB93452",
-        "location": "coinbase",
-        "location_symbol": "PROMPT"
-      },
-      {
-        "asset": "eip155:8453/erc20:0x30c7235866872213F68cb1F08c37Cb9eCCB93452",
-        "location": "okx",
+        "location": null,
         "location_symbol": "PROMPT"
       },
       {
@@ -288,22 +283,12 @@
       },
       {
         "asset": "eip155:56/erc20:0xd55C9fB62E176a8Eb6968f32958FeFDD0962727E",
-        "location": "bybit",
-        "location_symbol": "FHE"
-      },
-      {
-        "asset": "eip155:56/erc20:0xd55C9fB62E176a8Eb6968f32958FeFDD0962727E",
-        "location": "kraken",
+        "location": null,
         "location_symbol": "FHE"
       },
       {
         "asset": "eip155:56/erc20:0x3Dc8e2d80b6215a1BCcAe4d38715C3520581E77c",
-        "location": "bybit",
-        "location_symbol": "EPT"
-      },
-      {
-        "asset": "eip155:56/erc20:0x3Dc8e2d80b6215a1BCcAe4d38715C3520581E77c",
-        "location": "htx",
+        "location": null,
         "location_symbol": "EPT"
       },
       {
@@ -380,11 +365,6 @@
         "asset": "eip155:1/erc20:0x9e3B5582b22E3835896368017bAfF6D942A41cd9",
         "location": "kucoin",
         "location_symbol": "H1"
-      },
-      {
-        "asset": "eip155:56/erc20:0x3Dc8e2d80b6215a1BCcAe4d38715C3520581E77c",
-        "location": "kucoin",
-        "location_symbol": "EPT"
       },
       {
         "asset": "WIN-3",
@@ -485,6 +465,46 @@
         "asset": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
         "location": "bitfinex",
         "location_symbol": "USX"
+      },
+      {
+        "asset": "BABYLON",
+        "location": null,
+        "location_symbol": "BABY"
+      },
+      {
+        "asset": "eip155:1/erc20:0x93A2Db22B7c736B341C32Ff666307F4a9ED910F5",
+        "location": null,
+        "location_symbol": "HYPER"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x1111111111166b7FE7bd91427724B487980aFc69",
+        "location": null,
+        "location_symbol": "ZORA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654",
+        "location": null,
+        "location_symbol": "DOLO"
+      },
+      {
+        "asset": "eip155:56/erc20:0x541EEC85ef7452D16814D32aB555dF33F0E4cEAD",
+        "location": "poloniex",
+        "location_symbol": "BIAOBSC"
+      },
+      {
+        "asset": "TROLL",
+        "location": "poloniex",
+        "location_symbol": "TROLLSOL"
+      },
+      {
+        "asset": "eip155:56/erc20:0x030708208dC29B1688b212081F31cDB59097A67D",
+        "location": "kraken",
+        "location_symbol": "KOBAN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc83e27f270cce0A3A3A29521173a83F402c1768b",
+        "location": "bybit",
+        "location_symbol": "USDQ"
       }
     ],
     "deletions": [
