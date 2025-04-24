@@ -405,6 +405,86 @@
         "asset": "eip155:42161/erc20:0x010700AB046Dd8e92b0e3587842080Df36364ed3",
         "location": "kraken",
         "location_symbol": "K"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
+        "location": "bitfinex",
+        "location_symbol": "CHZF0"
+      },
+      {
+        "asset": "ETH",
+        "location": "bitfinex",
+        "location_symbol": "ETH2P"
+      },
+      {
+        "asset": "ETH",
+        "location": "bitfinex",
+        "location_symbol": "ETH2R"
+      },
+      {
+        "asset": "ETH",
+        "location": "bitfinex",
+        "location_symbol": "ETH2U"
+      },
+      {
+        "asset": "eip155:1/erc20:0xC581b735A1688071A1746c968e0798D642EDE491",
+        "location": "bitfinex",
+        "location_symbol": "EUTF0"
+      },
+      {
+        "asset": "BTC",
+        "location": "bitfinex",
+        "location_symbol": "LBT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
+        "location": "bitfinex",
+        "location_symbol": "LES"
+      },
+      {
+        "asset": "BTC",
+        "location": "bitfinex",
+        "location_symbol": "LNX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+        "location": "bitfinex",
+        "location_symbol": "PEPEF0"
+      },
+      {
+        "asset": "eip155:1/erc20:0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+        "location": "bitfinex",
+        "location_symbol": "TONF0"
+      },
+      {
+        "asset": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "location": "bitfinex",
+        "location_symbol": "USDTPLY"
+      },
+      {
+        "asset": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "location": "bitfinex",
+        "location_symbol": "USDTTON"
+      },
+      {
+        "asset": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "location": "bitfinex",
+        "location_symbol": "USE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "location": "bitfinex",
+        "location_symbol": "USS"
+      },
+      {
+        "asset": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "location": "bitfinex",
+        "location_symbol": "USTF0"
+      },
+      {
+        "asset": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "location": "bitfinex",
+        "location_symbol": "USX"
       }
     ],
     "deletions": [
