@@ -1,9 +1,9 @@
 {
   "logo": {
-    "drawer": "drawer_logo.png",
+    "drawer": "app_logo.png",
     "app": "app_logo.png",
-    "website": "app_logo.png",
+    "website": "website_logo.png",
     "about": "app_logo.png",
-    "empty_screen": "empty_screen_logo.png"
+    "empty_screen": "app_logo.png"
   }
 }
