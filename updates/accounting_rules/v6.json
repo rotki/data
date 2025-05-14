@@ -1,0 +1,13 @@
+{
+  "accounting_rules": [
+    {
+      "event_type": "deploy",
+      "event_subtype": "none",
+      "counterparty": null,
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": false,
+      "accounting_treatment": null
+    }
+  ]
+}
