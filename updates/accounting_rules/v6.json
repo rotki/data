@@ -8,6 +8,33 @@
       "count_entire_amount_spend": false,
       "count_cost_basis_pnl": false,
       "accounting_treatment": null
+    },
+    {
+      "event_type": "informational",
+      "event_subtype": "delegate",
+      "counterparty": null,
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": false,
+      "accounting_treatment": null
+    },
+    {
+      "event_type": "informational",
+      "event_subtype": "consolidate",
+      "counterparty": null,
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": false,
+      "accounting_treatment": null
+    },
+    {
+      "event_type": "informational",
+      "event_subtype": "update",
+      "counterparty": null,
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": false,
+      "accounting_treatment": null
     }
   ]
 }
