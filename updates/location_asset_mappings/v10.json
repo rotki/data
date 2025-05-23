@@ -573,7 +573,7 @@
       },
       {
         "asset": "eip155:56/erc20:0x3D9bE0aC1001cd81c32464276D863d2FFdCa4967",
-        "location": "bybit",
+        "location": null,
         "location_symbol": "HAEDAL"
       },
       {
@@ -593,18 +593,43 @@
       },
       {
         "asset": "eip155:1/erc20:0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
-        "location": "binance",
+        "location": null,
         "location_symbol": "USD1"
       },
       {
         "asset": "eip155:8453/erc20:0x1B4617734C43F6159F3a70b7E06d883647512778",
-        "location": "binance",
+        "location": null,
         "location_symbol": "AWE"
       },
       {
         "asset": "eip155:56/erc20:0x1Ab7E7DEdA201E5Ea820F6C02C65Fce7ec6bEd32",
         "location": "binance",
         "location_symbol": "BOT"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x4bFcFdC08892A8FeAB3634Fe96ed57cA935c6a38",
+        "location": "kucoin",
+        "location_symbol": "PFVS"
+      },
+      {
+        "asset": "eip155:56/erc20:0x5dBde81fcE337FF4bcaaEe4Ca3466C00aeCaE274",
+        "location": "kucoin",
+        "location_symbol": "AGT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x590830dFDf9A3F68aFCDdE2694773dEBDF267774",
+        "location": "kucoin",
+        "location_symbol": "GIZA"
+      },
+      {
+        "asset": "eip155:56/erc20:0x899357E54C2c4b014ea50A9A7Bf140bA6Df2eC73",
+        "location": "kucoin",
+        "location_symbol": "PRAI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x73fBD93bFDa83B111DdC092aa3a4ca77fD30d380",
+        "location": "okx",
+        "location_symbol": "SOPH"
       }
     ],
     "deletions": [
