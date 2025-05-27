@@ -53,6 +53,33 @@
       "count_entire_amount_spend": true,
       "count_cost_basis_pnl": true,
       "accounting_treatment": null
+    },
+    {
+      "event_type": "mint",
+      "event_subtype": "nft",
+      "counterparty": null,
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": false,
+      "accounting_treatment": null
+    },
+    {
+      "event_type": "mint",
+      "event_subtype": "fee",
+      "counterparty": null,
+      "taxable": true,
+      "count_entire_amount_spend": true,
+      "count_cost_basis_pnl": true,
+      "accounting_treatment": null
+    },
+    {
+      "event_type": "burn",
+      "event_subtype": "nft",
+      "counterparty": null,
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": false,
+      "accounting_treatment": null
     }
   ]
 }
