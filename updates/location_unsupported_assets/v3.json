@@ -1,0 +1,7 @@
+{
+  "location_unsupported_assets": {
+    "remove": {
+      "binance": ["BGBP", "NGN", "TUSDB"]
+    }
+  }
+}
