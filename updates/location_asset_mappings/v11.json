@@ -145,6 +145,151 @@
         "asset": "solana/token:ASRRjA1R4RHVk5H9QKKm1jaQqMkxvv6nh5EypPrvwmxQ",
         "location": null,
         "location_symbol": "ASRR"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe5e0b73380181273abCfD88695F52C4D0C825661",
+        "location": null,
+        "location_symbol": "ICNT"
+      },
+      {
+        "asset": "solana/token:DtR4D9FtVoTX2569gaL837ZgrB6wNjj6tkmnX9Rdk9B2",
+        "location": "kraken",
+        "location_symbol": "AURA"
+      },
+      {
+        "asset": "solana/token:4TBi66vi32S7J8X1A6eWfaLHYmUXu7CStcEmsJQdpump",
+        "location": null,
+        "location_symbol": "GHIBLI"
+      },
+      {
+        "asset": "eip155:56/erc20:0xFE2DD2d57a05F89438F3AEC94EaFA4070396bab0",
+        "location": null,
+        "location_symbol": "MAT"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xE014d2A4da6E450f21b5050120D291e63c8940FD",
+        "location": "kraken",
+        "location_symbol": "SOGNI"
+      },
+      {
+        "asset": "solana/token:DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump",
+        "location": null,
+        "location_symbol": "AVAAI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+        "location": null,
+        "location_symbol": "ANON"
+      },
+      {
+        "asset": "solana/token:CB9dDufT3ZuQXqqSfa1c5kY935TEreyBw9XJXxHKpump",
+        "location": "kraken",
+        "location_symbol": "USDUC"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x481FE356DF88169f5F38203Dd7f3C67B7559FDa5",
+        "location": "kraken",
+        "location_symbol": "RAIIN"
+      },
+      {
+        "asset": "solana/token:4vMsoUT2BWatFweudnQM1xedRLfJgJ7hswhcpz4xgBTy",
+        "location": null,
+        "location_symbol": "HONEY"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+        "location": "kucoin",
+        "location_symbol": "DC"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+        "location": "kucoin",
+        "location_symbol": "W"
+      },
+      {
+        "asset": "solana/token:ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq",
+        "location": null,
+        "location_symbol": "ZEUS"
+      },
+      {
+        "asset": "solana/token:GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
+        "location": "kucoin",
+        "location_symbol": "ACTSOL"
+      },
+      {
+        "asset": "solana/token:ZxBon4vcf3DVcrt63fJU52ywYm9BKZC6YuXDhb3fomo",
+        "location": "kucoin",
+        "location_symbol": "FOMO"
+      },
+      {
+        "asset": "solana/token:5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+        "location": "kucoin",
+        "location_symbol": "TROLL"
+      },
+      {
+        "asset": "eip155:56/erc20:0xdf296EA217AEC7e118FafA9b2Ce20d0cFccd2EaF",
+        "location": "kucoin",
+        "location_symbol": "BUN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x57240C3E140f98abe315CA8E0213c7a77F34A334",
+        "location": "kucoin",
+        "location_symbol": "RDO"
+      },
+      {
+        "asset": "eip155:1/erc20:0xAa9806c938836627Ed1a41Ae871c7E1889AE02Ca",
+        "location": "kucoin",
+        "location_symbol": "EDGEN"
+      },
+      {
+        "asset": "solana/token:5evN2exivZXJfLaA1KhHfiJKWfwH8znqyH36w1SFz89Y",
+        "location": null,
+        "location_symbol": "MIRAI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4D4574f50dd8B9dBe623cF329DCc78D76935E610",
+        "location": null,
+        "location_symbol": "ZEUSETH"
+      },
+      {
+        "asset": "eip155:56/erc20:0xE0A441D23cedB44822dfC8562E4d8d39C6B7F946",
+        "location": "kucoin",
+        "location_symbol": "SGC"
+      },
+      {
+        "asset": "eip155:56/erc20:0x595E21b20E78674F8a64C1566A20b2b316Bc3511",
+        "location": null,
+        "location_symbol": "BULLA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7Ddc52c4De30e94Be3A6A0A2b259b2850f421989",
+        "location": "kucoin",
+        "location_symbol": "GOMINING"
+      },
+      {
+        "asset": "eip155:56/erc20:0xbAb528425Edb1E0E36D3719bc3307d9C8ccE8888",
+        "location": "kucoin",
+        "location_symbol": "MOOLAH"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB7b37b81d4497AB317fc9d4A370CF243043d6bBe",
+        "location": "kucoin",
+        "location_symbol": "VAIX"
+      },
+      {
+        "asset": "eip155:56/erc20:0x0c78d4605c2972e5f989DE9019De1Fb00c5D3462",
+        "location": "kucoin",
+        "location_symbol": "CESS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x68749665FF8D2d112Fa859AA293F07A622782F38",
+        "location": "kucoin",
+        "location_symbol": "XAUT"
+      },
+      {
+        "asset": "eip155:56/erc20:0xbfe78De7D1c51E0868501D5FA3E88e674C79AcDD",
+        "location": "kucoin",
+        "location_symbol": "LOT"
       }
     ],
     "deletions": [
