@@ -460,6 +460,11 @@
           "asset": "solana/token:4TBi66vi32S7J8X1A6eWfaLHYmUXu7CStcEmsJQdpump",
           "location": "poloniex",
           "location_symbol": "GHIBLI"
+      },
+      {
+        "asset": "eip155:1/erc20:0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
+        "location": "coinbase",
+        "location_symbol": "AMP"
       }
     ],
     "deletions": [
