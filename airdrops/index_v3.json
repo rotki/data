@@ -329,7 +329,9 @@
             "new_asset_data": {
                 "asset_type": "SOLANA_TOKEN",
                 "name": "DeBridge",
+                "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
                 "symbol": "DBR",
+                "decimals": 6,
                 "coingecko": "debridge"
             }
         },
