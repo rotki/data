@@ -465,6 +465,366 @@
         "asset": "eip155:1/erc20:0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
         "location": "coinbase",
         "location_symbol": "AMP"
+      },
+      {
+        "asset": "eip155:1/erc20:0x08dCb9B5989fb09ef80E85567ec1F49577a70D29",
+        "location": "poloniex",
+        "location_symbol": "A2Z"
+      },
+      {
+        "asset": "eip155:56/erc20:0x9558a9254890B2A8B057a789F413631B9084f4a3",
+        "location": "poloniex",
+        "location_symbol": "AIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe60e9BD04ccc0a394f1fDf29874e35a773cb07f4",
+        "location": "poloniex",
+        "location_symbol": "AP"
+      },
+      {
+        "asset": "solana/token:BALLrveijbhu42QaS2XW1pRBYfMji73bGeYJghUvQs6y",
+        "location": "poloniex",
+        "location_symbol": "BALL"
+      },
+      {
+        "asset": "eip155:56/erc20:0xa4B68D48D7bc6f04420e8077E6F74bdeF809dEa3",
+        "location": "poloniex",
+        "location_symbol": "BGSC"
+      },
+      {
+        "asset": "solana/token:boopkpWqe68MSxLqBGogs8ZbUDN4GXaLhFwNP7mpP1i",
+        "location": "poloniex",
+        "location_symbol": "BOOP"
+      },
+      {
+        "asset": "solana/token:JmMRbLcKgNCu17yHZDAn4strE5NjmWJ4pCeJ7s7boop",
+        "location": "poloniex",
+        "location_symbol": "BOOPA"
+      },
+      {
+        "asset": "solana/token:65svCEvM4HdBHXKDxfhjm3yw1A6mKXkdS6HXWXDQTSNA",
+        "location": "poloniex",
+        "location_symbol": "BUDDY"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xba12BC7B210E61e5D3110B997A63Ea216e0E18F7",
+        "location": "poloniex",
+        "location_symbol": "C"
+      },
+      {
+        "asset": "eip155:1/erc20:0x360ee0225CD8ABF0aDf1F97f4c0f4079a4BF41ec",
+        "location": "poloniex",
+        "location_symbol": "CAIOLD"
+      },
+      {
+        "asset": "solana/token:FP2XnGpqP5opNZujB6KPpXYWSAwq7BbTUVUnRij1bonk",
+        "location": "poloniex",
+        "location_symbol": "CRYBB"
+      },
+      {
+        "asset": "solana/token:HRw8mqK8N3ASKFKJGMJpy4FodwR3GKvCFKPDQNqUNuEP",
+        "location": "poloniex",
+        "location_symbol": "DJT"
+      },
+      {
+        "asset": "solana/token:81YHAzq9yfptVbNTHiYuMVKVQ6ZNs3XeQFFENnNUpump",
+        "location": "poloniex",
+        "location_symbol": "DMCP"
+      },
+      {
+        "asset": "eip155:56/erc20:0xf4B385849f2e817E92bffBfB9AEb48F950Ff4444",
+        "location": "poloniex",
+        "location_symbol": "EGL1"
+      },
+      {
+        "asset": "eip155:1/erc20:0x140007c65535AA9C3801eA3bBd3F83C378C7F457",
+        "location": "poloniex",
+        "location_symbol": "FREESPEECH"
+      },
+      {
+        "asset": "eip155:1/erc20:0x774eaF7A53471628768dc679dA945847d34b9a55",
+        "location": "poloniex",
+        "location_symbol": "GASS"
+      },
+      {
+        "asset": "solana/token:6FtbGaqgZzti1TxJksBV4PSya5of9VqA9vJNDxPwbonk",
+        "location": "poloniex",
+        "location_symbol": "GIB"
+      },
+      {
+        "asset": "solana/token:ENfpbQUM5xAnNP8ecyEQGFJ6KwbuPjMwv7ZjR29cDuAb",
+        "location": "poloniex",
+        "location_symbol": "GOONC"
+      },
+      {
+        "asset": "solana/token:71Jvq4Epe2FCJ7JFSF7jLXdNk1Wy4Bhqd9iL6bEFELvg",
+        "location": "poloniex",
+        "location_symbol": "GOR"
+      },
+      {
+        "asset": "solana/token:31k88G5Mq7ptbRDf3AM13HAq6wRQHXHikR8hik7wPygk",
+        "location": "poloniex",
+        "location_symbol": "GP"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x14f7358668D61Bf7171dAA877Ea9664906efc4eF",
+        "location": "poloniex",
+        "location_symbol": "HALVIORA"
+      },
+      {
+        "asset": "solana/token:9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk",
+        "location": "poloniex",
+        "location_symbol": "HOSICO"
+      },
+      {
+        "asset": "solana/token:ibRLJrmgVuZh3tdDpjGgU5CQCCxpxuer7B7ckjGdLsv",
+        "location": "poloniex",
+        "location_symbol": "IBRL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9E72a0E219cFf0011069ae7b0Da73fA26280f41B",
+        "location": "poloniex",
+        "location_symbol": "IZZYETH"
+      },
+      {
+        "asset": "eip155:56/erc20:0x3c8D20001FE883934A15c949a3355a65Ca984444",
+        "location": "poloniex",
+        "location_symbol": "JANITORBSC"
+      },
+      {
+        "asset": "solana/token:JosjEXh69RckgSs2AWsN1xN8zmiSHxBuJjHLURJnHhg",
+        "location": "poloniex",
+        "location_symbol": "JOS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4E9623B7e5b6438542458f5EE828d65c24d3AF8c",
+        "location": "poloniex",
+        "location_symbol": "JYAI"
+      },
+      {
+        "asset": "solana/token:6jTQCFZR8JwvvenVGa3RzGM3a5YEagk9kQXDpHHdpump",
+        "location": "poloniex",
+        "location_symbol": "KOLSCAN"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x05A5B4e217004eB84C6787E0EcBE7a46CfD94CdD",
+        "location": "poloniex",
+        "location_symbol": "LAIKA"
+      },
+      {
+        "asset": "solana/token:CDBdbNqmrLu1PcgjrFG52yxg71QnFhBZcUE6PSFdbonk",
+        "location": "poloniex",
+        "location_symbol": "LETSBONK"
+      },
+      {
+        "asset": "solana/token:83mCRQJzvKMeQd9wJbZDUCTPgRbZMDoPdMSx5Sf1pump",
+        "location": "poloniex",
+        "location_symbol": "LLJEFFY"
+      },
+      {
+        "asset": "eip155:1/erc20:0x95AF4aF910c28E8EcE4512BFE46F1F33687424ce",
+        "location": "poloniex",
+        "location_symbol": "MANYUETH"
+      },
+      {
+        "asset": "solana/token:mae8vJGf8Wju8Ron1oDTQVaTGGBpcpWDwoRQJALMMf2",
+        "location": "poloniex",
+        "location_symbol": "MASHA"
+      },
+      {
+        "asset": "solana/token:4daoTLufDmV3ods48Zh8rymaZKBLtgEvuH9qALYLbonk",
+        "location": "poloniex",
+        "location_symbol": "MEMECOIN"
+      },
+      {
+        "asset": "solana/token:MikamiBjh6AGBUU28GZsPAjFxRdGwcjt1kjGjr39Pr7",
+        "location": "poloniex",
+        "location_symbol": "MIKAMI"
+      },
+      {
+        "asset": "eip155:56/erc20:0xa5346F91A767b89a0363A4309C8E6c5ADc0C4A59",
+        "location": "poloniex",
+        "location_symbol": "MM"
+      },
+      {
+        "asset": "eip155:1/erc20:0x22Fb1D972e2D37F5E8Ff6fF3655aA225e3485de1",
+        "location": "poloniex",
+        "location_symbol": "MONKEETH"
+      },
+      {
+        "asset": "solana/token:Ai3eKAWjzKMV8wRwd41nVP83yqfbAVJykhvJVPxspump",
+        "location": "poloniex",
+        "location_symbol": "MOONPIG"
+      },
+      {
+        "asset": "solana/token:Ce2gx9KGXJ6C9Mp5b5x1sn9Mg87JwEbrQby4Zqo3pump",
+        "location": "poloniex",
+        "location_symbol": "NEET"
+      },
+      {
+        "asset": "eip155:1/erc20:0x926759A8EaEcFADb5D8bdC7A9C7B193C5085F507",
+        "location": "poloniex",
+        "location_symbol": "NURA"
+      },
+      {
+        "asset": "solana/token:2fdtCHuvyLcD2q86XZGFmYbDux9ZbbUgMmFhzChqmoon",
+        "location": "poloniex",
+        "location_symbol": "OLIVIA"
+      },
+      {
+        "asset": "eip155:1/erc20:0xeBb66a88cEdd12bfE3a289df6DFEe377F2963F12",
+        "location": "poloniex",
+        "location_symbol": "OSCAR"
+      },
+      {
+        "asset": "eip155:56/erc20:0xf86089B30F30285D492B0527C37b9C2225bFCF8c",
+        "location": "poloniex",
+        "location_symbol": "PLAYBSC"
+      },
+      {
+        "asset": "POLC",
+        "location": "poloniex",
+        "location_symbol": "POLC"
+      },
+      {
+        "asset": "solana/token:9u8PP725K2GUf4p5bhKebrzHTGgvHp6KDeQPf7jc1F1W",
+        "location": "poloniex",
+        "location_symbol": "POPE"
+      },
+      {
+        "asset": "solana/token:pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        "location": "poloniex",
+        "location_symbol": "PUMPFUN"
+      },
+      {
+        "asset": "REDX",
+        "location": "poloniex",
+        "location_symbol": "REDX"
+      },
+      {
+        "asset": "solana/token:5oUzkFsCFMJJ23Z6Ghev5m7FjE6TtrqZJXUS7V5Smoon",
+        "location": "poloniex",
+        "location_symbol": "RICH"
+      },
+      {
+        "asset": "solana/token:9XjiBXqM8yKk345CMtrWsfoVeXvGZxk1xZD4bdTEbTcv",
+        "location": "poloniex",
+        "location_symbol": "RICHIE"
+      },
+      {
+        "asset": "eip155:56/erc20:0xC0c240C870606a5Cb3150795E2D0dffF9f1F7456",
+        "location": "poloniex",
+        "location_symbol": "RION"
+      },
+      {
+        "asset": "TOILET",
+        "location": "poloniex",
+        "location_symbol": "TOILET"
+      },
+      {
+        "asset": "solana/token:8ncucXv6U6epZKHPbgaEBcEK399TpHGKCquSt4RnmX4f",
+        "location": "poloniex",
+        "location_symbol": "TRENCHER"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x1114982539A2Bfb84e8B9e4e320bbC04532a9e44",
+        "location": "poloniex",
+        "location_symbol": "TRN"
+      },
+      {
+        "asset": "solana/token:9GtvcnDUvGsuibktxiMjLQ2yyBq5akUahuBs8yANbonk",
+        "location": "poloniex",
+        "location_symbol": "VALENTINE"
+      },
+      {
+        "asset": "eip155:56/erc20:0x8b194370825E37b33373e74A41009161808C1488",
+        "location": "poloniex",
+        "location_symbol": "VELVET"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xbf8566956b4e2D8BEB90c4c19dbb8c67A9290C36",
+        "location": "poloniex",
+        "location_symbol": "VIRGEN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9cdf242Ef7975D8c68D5C1F5B6905801699b1940",
+        "location": "poloniex",
+        "location_symbol": "WHITE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9f277eDFc463EBaA3D2a6274b01177697E910391",
+        "location": "poloniex",
+        "location_symbol": "WOOLLY"
+      },
+      {
+        "asset": "solana/token:iUdvUaxyRHh8PYVcmkgBpSJu5evpW6jsSLv8RCpmoon",
+        "location": "poloniex",
+        "location_symbol": "WORTHLESS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x00869E8e2e0343EDd11314E6ccb0D78d51547EE5",
+        "location": "poloniex",
+        "location_symbol": "SUPERGROK"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x96702be57Cd9777f835117a809C7124fe4ec989A",
+        "location": "bybit",
+        "location_symbol": "METAX"
+      },
+      {
+        "asset": "eip155:1/erc20:0x77146784315Ba81904d654466968e3a7c196d1f3",
+        "location": "bybit",
+        "location_symbol": "TREE"
+      },
+      {
+        "asset": "eip155:56/erc20:0x9558a9254890B2A8B057a789F413631B9084f4a3",
+        "location": "kucoin",
+        "location_symbol": "AIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x08dCb9B5989fb09ef80E85567ec1F49577a70D29",
+        "location": "kucoin",
+        "location_symbol": "A2Z"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xba12BC7B210E61e5D3110B997A63Ea216e0E18F7",
+        "location": "kucoin",
+        "location_symbol": "C"
+      },
+      {
+        "asset": "eip155:1/erc20:0x95AF4aF910c28E8EcE4512BFE46F1F33687424ce",
+        "location": "kucoin",
+        "location_symbol": "MANYU"
+      },
+      {
+        "asset": "eip155:56/erc20:0xC0c240C870606a5Cb3150795E2D0dffF9f1F7456",
+        "location": "kucoin",
+        "location_symbol": "RION"
+      },
+      {
+        "asset": "eip155:1/erc20:0x77146784315Ba81904d654466968e3a7c196d1f3",
+        "location": "kucoin",
+        "location_symbol": "TREE"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x1114982539A2Bfb84e8B9e4e320bbC04532a9e44",
+        "location": "kucoin",
+        "location_symbol": "TRN"
+      },
+      {
+        "asset": "eip155:56/erc20:0x8b194370825E37b33373e74A41009161808C1488",
+        "location": "kucoin",
+        "location_symbol": "VELVET"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6BEF15D938d4E72056AC92Ea4bDD0D76B1C4ad29",
+        "location": "kucoin",
+        "location_symbol": "PROVE"
+      },
+      {
+        "asset": "eip155:56/erc20:0xA992ffb0C9B753307B9704079c61DB4e405DeFfd",
+        "location": "kucoin",
+        "location_symbol": "COA"
       }
     ],
     "deletions": [
