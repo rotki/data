@@ -825,6 +825,11 @@
         "asset": "eip155:56/erc20:0xA992ffb0C9B753307B9704079c61DB4e405DeFfd",
         "location": "kucoin",
         "location_symbol": "COA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x57e114B691Db790C35207b2e685D4A43181e6061",
+        "location": "coinbase",
+        "location_symbol": "ENA"
       }
     ],
     "deletions": [
