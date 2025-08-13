@@ -1170,6 +1170,61 @@
           "asset": "eip155:1/erc20:0xfb072b42907dA2Bf7A8E8cB5dCAa790D45Fd81a8",
           "location": "bybit",
           "location_symbol": "K"
+      },
+      {
+          "asset": "eip155:1/erc20:0xfb072b42907dA2Bf7A8E8cB5dCAa790D45Fd81a8",
+          "location": "kucoin",
+          "location_symbol": "K"
+      },
+      {
+          "asset": "eip155:56/erc20:0xfC5a743271672E91D77F0176e5CEa581Fbd5D834",
+          "location": "kucoin",
+          "location_symbol": "SLAY"
+      },
+      {
+          "asset": "solana/token:C29ebrgYjYoJPMGPnPSGY1q3mMGk4iDSqnQeQQA7moon",
+          "location": "kucoin",
+          "location_symbol": "NOBODY"
+      },
+      {
+          "asset": "eip155:1/erc20:0x6BEF15D938d4E72056AC92Ea4bDD0D76B1C4ad29",
+          "location": "kraken",
+          "location_symbol": "PROVE"
+      },
+      {
+          "asset": "eip155:56/erc20:0x1219c409faBe2C27Bd0D1A565daeed9Bd9f271dE",
+          "location": "kraken",
+          "location_symbol": "TAC"
+      },
+      {
+          "asset": "eip155:56/erc20:0x1219c409faBe2C27Bd0D1A565daeed9Bd9f271dE",
+          "location": "bybit",
+          "location_symbol": "TAC"
+      },
+      {
+          "asset": "eip155:1/erc20:0xf94e7d0710709388bCe3161C32B4eEA56d3f91CC",
+          "location": "kucoin",
+          "location_symbol": "DSYNC"
+      },
+      {
+          "asset": "solana/token:BFgdzMkTPdKKJeTipv2njtDEwhKxkgFueJQfJGt1jups",
+          "location": "kucoin",
+          "location_symbol": "URANUS"
+      },
+      {
+          "asset": "eip155:56/erc20:0xA22159fACA8BF5c57A48888a2D4Ddafc88e4DDEB",
+          "location": "kucoin",
+          "location_symbol": "AIO"
+      },
+      {
+          "asset": "eip155:56/erc20:0x4c067DE26475E1CeFee8b8d1f6E2266b33a2372E",
+          "location": "woo",
+          "location_symbol": "RHEA"
+      },
+      {
+          "asset": "eip155:1/erc20:0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+          "location": "coinbase",
+          "location_symbol": "COSMOSDYDX"
       }
     ],
     "deletions": [
