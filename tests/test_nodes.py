@@ -2,12 +2,37 @@ from collections import defaultdict
 from decimal import Decimal, getcontext
 from http import HTTPStatus
 import json
+from typing import Any, Callable
 import urllib3
 
 import warnings
 
 
-def test_nodes():
+def validate_rpc(rpc: dict[str, Any], method: str, validator: Callable[[dict[str, Any]], None]) -> None:
+    """Validate RPC endpoint with specified method and validation function"""
+    try:
+        resp = urllib3.request(
+            method='POST',
+            url=(url := rpc['endpoint']),
+            json={'method': method, 'params': [], 'id': 1, 'jsonrpc': '2.0'},
+            retries=1,
+            timeout=5,
+        )
+    except urllib3.exceptions.HTTPError as e:
+        warnings.warn(f'Failed to connect to {url} due to {e}')
+        return
+
+    if resp.status in (HTTPStatus.TOO_MANY_REQUESTS, HTTPStatus.GATEWAY_TIMEOUT):
+        warnings.warn(f'Failed to connect to {url} due to {resp.status}')
+        return
+    
+    try:
+        assert validator(resp.json()) is True
+    except (json.decoder.JSONDecodeError, KeyError) as e:
+        warnings.warn(f'Failed to decode JSON response from {url} due to {e}')
+
+
+def test_nodes() -> None:
     """Check that all the chains have nodes with weight summing 1"""
     
     with open('updates/info.json') as index_file:
@@ -15,6 +40,16 @@ def test_nodes():
         latest_nodes = index_data['rpc_nodes']['latest']
 
     getcontext().prec = 6
+    evm_chains_mapping = {
+        1: 'ETH',
+        10: 'OPTIMISM', 
+        56: 'BINANCE_SC',
+        100: 'GNOSIS',
+        137: 'POLYGON_POS',
+        8453: 'BASE',
+        42161: 'ARBITRUM_ONE',
+        534352: 'SCROLL',
+    }
     for i in range(1,latest_nodes + 1):
         per_chain_weight = defaultdict(Decimal)
         with open(f'updates/rpc_nodes/v{i}.json', 'r') as f:
@@ -25,45 +60,17 @@ def test_nodes():
                     if len(rpc['endpoint']) == 0:
                         continue
                     
-                    try:
-                        resp = urllib3.request(
-                            "POST",
-                            rpc['endpoint'],
-                            json={"method":"eth_chainId","params":[],"id":1,"jsonrpc":"2.0"},
-                            retries=1,
-                            timeout=5,
+                    if rpc['blockchain'] == 'SOLANA':
+                        validate_rpc(
+                            rpc=rpc,
+                            method='getHealth',
+                            validator=lambda resp: resp['result'] == 'ok',
                         )
-                    except urllib3.exceptions.MaxRetryError as e:
-                        warnings.warn(f'Failed to connect to {rpc["endpoint"]} due to {e}')
-
-                    if resp.status == (HTTPStatus.TOO_MANY_REQUESTS, HTTPStatus.GATEWAY_TIMEOUT):
-                        warnings.warn(f'Failed to connect to {rpc["endpoint"]} due to {resp.status}')
-                        continue
-                    
-                    try:
-                        chain = int(resp.json()['result'], 0)
-                    except (json.decoder.JSONDecodeError, KeyError) as e:
-                        warnings.warn(f'Failed to read response from {rpc["endpoint"]} due to {e}')
-                        continue
-
-                    match chain:
-                        case 1:
-                            assert rpc['blockchain'] == 'ETH'
-                        case 10:
-                            assert rpc['blockchain'] == 'OPTIMISM'
-                        case 100:
-                            assert rpc['blockchain'] == 'GNOSIS'
-                        case 42161:
-                            assert rpc['blockchain'] == 'ARBITRUM_ONE'
-                        case 534352:
-                            assert rpc['blockchain'] == 'SCROLL'
-                        case 137:
-                            assert rpc['blockchain'] == 'POLYGON_POS'
-                        case 8453:
-                            assert rpc['blockchain'] == 'BASE'
-                        case 56:
-                            assert rpc['blockchain'] == 'BINANCE_SC'
-                        case _:
-                            raise Exception(f'Unexpected chain version for {rpc}')
+                    else:
+                        validate_rpc(
+                            rpc=rpc,
+                            method='eth_chainId',
+                            validator=lambda resp: evm_chains_mapping[int(resp['result'], 0)] == rpc['blockchain'],
+                        )
 
         assert all(weight == 1 for weight in per_chain_weight.values()), f'Weights do not add for v{i}: {per_chain_weight=}'
