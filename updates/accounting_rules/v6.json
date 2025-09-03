@@ -1,0 +1,58 @@
+{
+    "accounting_rules": [
+        {
+            "event_type": "trade",
+            "event_subtype": "spend",
+            "counterparty": null,
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "trade",
+            "event_subtype": "spend",
+            "counterparty": "aave",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "trade",
+            "event_subtype": "spend",
+            "counterparty": "aave-v1",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "trade",
+            "event_subtype": "spend",
+            "counterparty": "aave-v2",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "trade",
+            "event_subtype": "spend",
+            "counterparty": "aave-v3",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        },
+        {
+            "event_type": "trade",
+            "event_subtype": "spend",
+            "counterparty": "spark",
+            "taxable": false,
+            "count_entire_amount_spend": false,
+            "count_cost_basis_pnl": true,
+            "accounting_treatment": "SWAP"
+        }
+    ]
+}
