@@ -1,0 +1,22 @@
+{
+  "accounting_rules": [
+    {
+      "event_type": "trade",
+      "event_subtype": "spend",
+      "counterparty": "runmoney",
+      "taxable": true,
+      "count_entire_amount_spend": true,
+      "count_cost_basis_pnl": true,
+      "accounting_treatment": null
+    },
+    {
+      "event_type": "trade",
+      "event_subtype": "receive",
+      "counterparty": "runmoney",
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": false,
+      "accounting_treatment": null
+    }
+  ]
+}
