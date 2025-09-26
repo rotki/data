@@ -94,6 +94,40 @@
                                     "additionalProperties": false,
                                     "properties": {
                                         "asset_type": {
+                                            "const": "SOLANA_TOKEN"
+                                        },
+                                        "name": {
+                                            "type": "string"
+                                        },
+                                        "address": {
+                                            "type": "string"
+                                        },
+                                        "symbol": {
+                                            "type": "string"
+                                        },
+                                        "decimals": {
+                                            "type": "integer"
+                                        },
+                                        "coingecko": {
+                                            "type": "string"
+                                        },
+                                        "cryptocompare": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "required": [
+                                        "asset_type",
+                                        "name",
+                                        "address",
+                                        "symbol",
+                                        "decimals"
+                                    ]
+                                },
+                                {
+                                    "type": "object",
+                                    "additionalProperties": false,
+                                    "properties": {
+                                        "asset_type": {
                                             "enum": [
                                                 "FIAT",
                                                 "OWN_CHAIN",
@@ -118,7 +152,6 @@
                                                 "LUNIVERSE_TOKEN",
                                                 "OTHER",
                                                 "AVALANCHE_TOKEN",
-                                                "SOLANA_TOKEN",
                                                 "NFT",
                                                 "CUSTOM_ASSET"
                                             ]

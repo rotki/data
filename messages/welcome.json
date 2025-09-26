@@ -3,27 +3,14 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of Gitcoin: Glo Dollar x Optimism Builders",
-      "action": {
-        "text": "Support us here",
-        "url": "https://explorer.gitcoin.co/#/round/10/96/30"
-      },
-      "period": {
-        "start": 1736834400,
-        "end": 1738130400
-      }
-    },
-    {
-      "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
-      "text": "rotki is part of Loving on Public Goods QF Giveth Round",
+      "text": "rotki is part of ENS x Octant Public Goods Giveth Round",
       "action": {
         "text": "Support us here",
         "url": "https://giveth.io/project/rotki"
       },
       "period": {
-        "start": 1738022400,
-        "end": 1739577599
+        "start": 1742313600,
+        "end": 1743584340
       }
     }
   ]
