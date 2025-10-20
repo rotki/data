@@ -10,6 +10,11 @@
         "asset": "eip155:1/erc20:0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
         "location": "independentreserve",
         "location_symbol": "Omg"
+      },
+      {
+        "asset": "eip155:1/erc20:0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6",
+        "location": "gemini",
+        "location_symbol": "WLFI"
       }
     ]
   }
