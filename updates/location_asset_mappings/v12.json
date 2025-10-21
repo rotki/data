@@ -13,8 +13,78 @@
       },
       {
         "asset": "eip155:1/erc20:0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6",
-        "location": "gemini",
+        "location": null,
         "location_symbol": "WLFI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4B948d64dE1F71fCd12fB586f4c776421a35b3eE",
+        "location": null,
+        "location_symbol": "0G"
+      },
+      {
+        "asset": "solana/token:J6pQQ3FAcJQeWPPGppWRb4nM8jU3wLyYbRrLh7feMfvd",
+        "location": null,
+        "location_symbol": "2Z"
+      },
+      {
+        "asset": "eip155:56/erc20:0x000Ae314E2A2172a039B26378814C252734f556A",
+        "location": null,
+        "location_symbol": "ASTER"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x696F9436B67233384889472Cd7cD58A6fB5DF4f1",
+        "location": null,
+        "location_symbol": "AVNT"
+      },
+      {
+        "asset": "eip155:1/erc20:0xf0DB65D17e30a966C2ae6A21f6BBA71cea6e9754",
+        "location": null,
+        "location_symbol": "BARD"
+      },
+      {
+        "asset": "eip155:1/erc20:0xFA1C09fC8B491B6A4d3Ff53A10CAd29381b3F949",
+        "location": null,
+        "location_symbol": "FF"
+      },
+      {
+        "asset": "eip155:1/erc20:0xEb964A1A6fAB73b8c72A0D15c7337fA4804F484d",
+        "location": "binance",
+        "location_symbol": "HEMI"
+      },
+      {
+        "asset": "eip155:56/erc20:0x1a5D7E4c3A7F940B240b7357a4bFED30D17f9497",
+        "location": null,
+        "location_symbol": "HOLO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+        "location": null,
+        "location_symbol": "LINEA"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x7AaFD31a321d3627b30A8e2171264B56852187fe",
+        "location": null,
+        "location_symbol": "MIRA"
+      },
+      {
+        "asset": "eip155:56/erc20:0x8e1e6BF7E13C400269987B65Ab2b5724b016CaEF",
+        "location": "binance",
+        "location_symbol": "MITO"
+      },
+      {
+        "asset": "eip155:1/erc20:0xA227Cc36938f0c9E09CE0e64dfab226cad739447",
+        "location": "binance",
+        "location_symbol": "OPEN"
+      },
+      {
+        "asset": "solana/token:pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+        "location": "binance",
+        "location_symbol": "PUMP"
+      },
+      {
+        "asset": "eip155:1/erc20:0x000006c2A22ff4A44ff1f5d0F2ed65F781F55555",
+        "location": null,
+        "location_symbol": "ZKC"
       }
     ]
   }
