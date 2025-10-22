@@ -145,6 +145,36 @@
         "asset": "eip155:1/erc20:0xfAB99fCF605fD8f4593EDb70A43bA56542777777",
         "location": "bybit",
         "location_symbol": "ZBT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4cCe605eD955295432958d8951D0B176C10720d5",
+        "location": "coinbase",
+        "location_symbol": "AUDD"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x9Cb41FD9dC6891BAe8187029461bfAADF6CC0C69",
+        "location": "coinbase",
+        "location_symbol": "NOICE"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xC729777d0470F30612B1564Fd96E8Dd26f5814E3",
+        "location": "coinbase",
+        "location_symbol": "SAPIEN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x1bAB804803159aD84b8854581AA53AC72455614E",
+        "location": "coinbase",
+        "location_symbol": "SYND"
+      },
+      {
+        "asset": "eip155:25/erc20:0x679f6863a653251C8C215e77205A7058b5bF676a",
+        "location": "coinbase",
+        "location_symbol": "TROLL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
+        "location": "coinbase",
+        "location_symbol": "XSGD"
       }
     ]
   }
