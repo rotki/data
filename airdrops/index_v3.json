@@ -369,6 +369,63 @@
                 "chain_id": 8453,
                 "decimals": 18
             }
+        },
+        "squill_airdrop_1": {
+            "file_path": "airdrops/squill_airdrop_1.parquet",
+            "file_hash": "7b86255296110e5280375e8720f7e75bd0665b14c1658f72807fd932c2276e9e",
+            "asset_identifier": "eip155:1/erc20:0x7ebAB7190d3d574ce82D29F2FA1422f18E29969C",
+            "url": "https://github.com/open-stablecoin-index/squill-drop/blob/main/README.md",
+            "name": "Squill airdrop 1",
+            "icon": "squill.png",
+            "icon_path": "airdrops/icons/squill.png",
+            "has_decoder": false,
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0x7ebAB7190d3d574ce82D29F2FA1422f18E29969C",
+                "name": "Squill",
+                "symbol": "SQUILL",
+                "chain_id": 1,
+                "decimals": 18,
+                "coingecko": "squill"
+            }
+        },
+        "squill_airdrop_2": {
+            "file_path": "airdrops/squill_airdrop_2.parquet",
+            "file_hash": "a0827cc4f0e876832437b0a5062acc9f125bfd74b385bc9faad5b88cc278c65d",
+            "asset_identifier": "eip155:1/erc20:0x7ebAB7190d3d574ce82D29F2FA1422f18E29969C",
+            "url": "https://github.com/open-stablecoin-index/squill-drop/blob/main/README.md",
+            "name": "Squill airdrop 2",
+            "icon": "squill.png",
+            "icon_path": "airdrops/icons/squill.png",
+            "has_decoder": false,
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0x7ebAB7190d3d574ce82D29F2FA1422f18E29969C",
+                "name": "Squill",
+                "symbol": "SQUILL",
+                "chain_id": 1,
+                "decimals": 18,
+                "coingecko": "squill"
+            }
+        },
+        "squill_airdrop_3": {
+            "file_path": "airdrops/squill_airdrop_3.parquet",
+            "file_hash": "e64830ac799656c99ca3fb1725900b96d9dda21fbb212ac9ae3cfa24c8eee2e4",
+            "asset_identifier": "eip155:1/erc20:0x7ebAB7190d3d574ce82D29F2FA1422f18E29969C",
+            "url": "https://github.com/open-stablecoin-index/squill-drop/blob/main/README.md",
+            "name": "Squill airdrop 3",
+            "icon": "squill.png",
+            "icon_path": "airdrops/icons/squill.png",
+            "has_decoder": false,
+            "new_asset_data": {
+                "asset_type": "EVM_TOKEN",
+                "address": "0x7ebAB7190d3d574ce82D29F2FA1422f18E29969C",
+                "name": "Squill",
+                "symbol": "SQUILL",
+                "chain_id": 1,
+                "decimals": 18,
+                "coingecko": "squill"
+            }
         }
     },
     "poap_airdrops": {
