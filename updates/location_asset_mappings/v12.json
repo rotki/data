@@ -163,7 +163,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x1bAB804803159aD84b8854581AA53AC72455614E",
-        "location": "coinbase",
+        "location": null,
         "location_symbol": "SYND"
       },
       {
@@ -175,6 +175,96 @@
         "asset": "eip155:1/erc20:0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
         "location": "coinbase",
         "location_symbol": "XSGD"
+      },
+      {
+        "asset": "eip155:56/erc20:0x1a5D7E4c3A7F940B240b7357a4bFED30D17f9497",
+        "location": "htx",
+        "location_symbol": "HOLOWORLD"
+      },
+      {
+        "asset": "eip155:1/erc20:0xFc4b4ec763722B71eB1D729749B447A9645f5F30",
+        "location": "htx",
+        "location_symbol": "GME"
+      },
+      {
+        "asset": "eip155:56/erc20:0x3AeE7602b612de36088F3ffEd8c8f10E86EbF2bF",
+        "location": "htx",
+        "location_symbol": "BANK"
+      },
+      {
+        "asset": "eip155:56/erc20:0xa890F8BA60051ec8a5B528F056DA362Ba208a96F",
+        "location": "htx",
+        "location_symbol": "GAIN"
+      },
+      {
+          "asset": "eip155:1/erc20:0x000000Fa00b200406de700041CFc6b19BbFB4d13",
+          "location": "htx",
+          "location_symbol": "TOWNS"
+      },
+      {
+          "asset": "solana/token:FJz7ptUR1FwxSHbb8Sfd5Cn6Zt4TqucJZKLqU4n66gdq",
+          "location": "htx",
+          "location_symbol": "MAY"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6BEF15D938d4E72056AC92Ea4bDD0D76B1C4ad29",
+        "location": "htx",
+        "location_symbol": "PROVE"
+      },
+      {
+        "asset": "eip155:56/erc20:0x4345a1056E614E61C877eC1CB90510Afc8753123",
+        "location": "htx",
+        "location_symbol": "SNAKES"
+      },
+      {
+        "asset": "eip155:56/erc20:0xbe6Ad1eB9876cf3D3f9b85fEeCfB400298E80143",
+        "location": "htx",
+        "location_symbol": "AIC"
+      },
+      {
+        "asset": "eip155:56/erc20:0x405FBc9004D857903bFD6b3357792D71a50726b0",
+        "location": "htx",
+        "location_symbol": "XPL"
+      },
+      {
+        "asset": "solana/token:SW1TCHLmRGTfW5xZknqQdpdarB8PD95sJYWpNp9TbFx",
+        "location": "htx",
+        "location_symbol": "SWTCH"
+      },
+      {
+          "asset": "eip155:56/erc20:0x51363F073b1E4920fdA7AA9E9d84BA97EdE1560e",
+          "location": "htx",
+          "location_symbol": "BOBBSC"
+      },
+      {
+          "asset": "eip155:1/erc20:0xE2AD0BF751834f2fbdC62A41014f84d67cA1de2A",
+          "location": "htx",
+          "location_symbol": "ERA"
+      },
+      {
+          "asset": "eip155:1/erc20:0x2F714d7b9A035d4ce24af8d9b6091c07E37f43Fb",
+          "location": "htx",
+          "location_symbol": "NODEOPS"
+      },
+      {
+        "asset": "solana/token:GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
+        "location": "htx",
+        "location_symbol": "ACTSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x77146784315Ba81904d654466968e3a7c196d1f3",
+        "location": "htx",
+        "location_symbol": "TREE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x825459139C897D769339f295E962396C4F9E4A4D",
+        "location": "htx",
+        "location_symbol": "GAME2"
+      },
+      {
+        "asset": "DMC",
+        "location": "htx",
+        "location_symbol": "DELOREAN"
       }
     ]
   }
