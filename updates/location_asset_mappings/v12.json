@@ -85,6 +85,66 @@
         "asset": "eip155:1/erc20:0x000006c2A22ff4A44ff1f5d0F2ed65F781F55555",
         "location": null,
         "location_symbol": "ZKC"
+      },
+      {
+        "asset": "eip155:1/erc20:0xCEDbEA37C8872c4171259Cdfd5255CB8923Cf8e7",
+        "location": null,
+        "location_symbol": "XAN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8236a87084f8B84306f72007F36F2618A5634494",
+        "location": "bybit",
+        "location_symbol": "LBTC"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6Efe65C2426b51E9AA0427B96C313E5D8715FD06",
+        "location": "bybit",
+        "location_symbol": "SHARDS"
+      },
+      {
+        "asset": "solana/token:PRTLSwfLzpVGSAQiUfXEenJkq1cwTsEcsn1hPL9zwwg",
+        "location": null,
+        "location_symbol": "PORTALS"
+      },
+      {
+        "asset": "eip155:56/erc20:0x539AE81A166E5E80aEd211731563e549c411b140",
+        "location": "bybit",
+        "location_symbol": "TA"
+      },
+      {
+        "asset": "eip155:1/erc20:0xC08e7E23C235073C6807C2EFE7021304cb7c2815",
+        "location": "bybit",
+        "location_symbol": "XUSD"
+      },
+      {
+        "asset": "eip155:1/erc20:0x6BEF15D938d4E72056AC92Ea4bDD0D76B1C4ad29",
+        "location": null,
+        "location_symbol": "PROVE"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe07710cdcD1c9F0FB04bfd013F9854E4552671cE",
+        "location": "bybit",
+        "location_symbol": "U"
+      },
+      {
+        "asset": "eip155:1/erc20:0x01791F726B4103694969820be083196cC7c045fF",
+        "location": "bybit",
+        "location_symbol": "YB"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x1f16e03C1a5908818F47f6EE7bB16690b40D0671",
+        "location": "bybit",
+        "location_symbol": "RECALL"
+      },
+      {
+        "asset": "eip155:1/erc20:0x699F088b5DddcAFB7c4824db5B10B57B37cB0C66",
+        "location": "bybit",
+        "location_symbol": "ENSO"
+      },
+      {
+        "asset": "eip155:1/erc20:0xfAB99fCF605fD8f4593EDb70A43bA56542777777",
+        "location": "bybit",
+        "location_symbol": "ZBT"
       }
     ]
   }
