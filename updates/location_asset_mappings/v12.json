@@ -73,7 +73,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xA227Cc36938f0c9E09CE0e64dfab226cad739447",
-        "location": "binance",
+        "location": null,
         "location_symbol": "OPEN"
       },
       {
@@ -128,7 +128,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x01791F726B4103694969820be083196cC7c045fF",
-        "location": "bybit",
+        "location": null,
         "location_symbol": "YB"
       },
       {
@@ -618,7 +618,7 @@
       },
       {
         "asset": "eip155:56/erc20:0xF3d5b4c34Ed623478cc5141861776E6cf7AE3A1E",
-        "location": "kucoin",
+        "location": null,
         "location_symbol": "KGEN"
       },
       {
@@ -660,6 +660,76 @@
         "asset": "solana/token:DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
         "location": "independentreserve",
         "location_symbol": "Bonk"
+      },
+      {
+        "asset": "eip155:1/erc20:0x68749665FF8D2d112Fa859AA293F07A622782F38",
+        "location": "kraken",
+        "location_symbol": "XAUT"
+      },
+      {
+        "asset": "eip155:1/erc20:0xa3EE21C306A700E682AbCdfe9BaA6A08F3820419",
+        "location": "kraken",
+        "location_symbol": "CTC"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb2617246d0c6c0087f18703d576831899ca94f01",
+        "location": "kraken",
+        "location_symbol": "ZIG"
+      },
+      {
+          "asset": "eip155:56/erc20:0xfC5a743271672E91D77F0176e5CEa581Fbd5D834",
+          "location": "kraken",
+          "location_symbol": "SLAY"
+      },
+      {
+        "asset": "solana/token:BDCs2xEqzXyRpp9P6uPDnAvERpLKBfzHPEzbe3BfCxDY",
+        "location": "kraken",
+        "location_symbol": "BILLY"
+      },
+      {
+        "asset": "solana/token:A1t2UviBYwyfYZDJyKY2W6Td8ritgsCriUDuNaAQN49S",
+        "location": "kraken",
+        "location_symbol": "BLESS"
+      },
+      {
+        "asset": "eip155:56/erc20:0xD82544bf0dfe8385eF8FA34D67e6e4940CC63e16",
+        "location": "kraken",
+        "location_symbol": "MYX"
+      },
+      {
+        "asset": "solana/token:So11111111111111111111111111111111111111112",
+        "location": "kraken",
+        "location_symbol": "WSOL"
+      },
+      {
+        "asset": "eip155:1/erc20:0xDBB5Cf12408a3Ac17d668037Ce289f9eA75439D7",
+        "location": "kraken",
+        "location_symbol": "WMTX"
+      },
+      {
+        "asset": "eip155:43114/erc20:0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7",
+        "location": "kraken",
+        "location_symbol": "KET"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x853a7c99227499DbA9dB8C3A02aA691aFDeBf841",
+        "location": "kraken",
+        "location_symbol": "PLAY"
+      },
+      {
+        "asset": "eip155:1/erc20:0xF197FFC28c23E0309B5559e7a166f2c6164C80aA",
+        "location": "kraken",
+        "location_symbol": "MXNB"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x4dA9A0f397dB1397902070f93a4D6ddBC0E0E6e8",
+        "location": "kraken",
+        "location_symbol": "LCAP"
+      },
+      {
+        "asset": "eip155:1/erc20:0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
+        "location": "kraken",
+        "location_symbol": "XMN"
       }
     ]
   }
