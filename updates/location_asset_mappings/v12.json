@@ -228,7 +228,7 @@
       },
       {
         "asset": "solana/token:SW1TCHLmRGTfW5xZknqQdpdarB8PD95sJYWpNp9TbFx",
-        "location": "htx",
+        "location": null,
         "location_symbol": "SWTCH"
       },
       {
@@ -433,12 +433,12 @@
       },
       {
         "asset": "eip155:56/erc20:0xD955c9bA56Fb1AB30e34766e252A97ccCE3D31A6",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "XPIN"
       },
       {
         "asset": "solana/token:DrZ26cKJDksVRWib3DVVsjo9eeXccc7hKhDJviiYEEZY",
-        "location": "poloniex",
+        "location": null,
         "location_symbol": "YZY"
       },
       {
@@ -492,16 +492,6 @@
         "location_symbol": "BAS"
       },
       {
-        "asset": "solana/token:DrZ26cKJDksVRWib3DVVsjo9eeXccc7hKhDJviiYEEZY",
-        "location": null,
-        "location_symbol": "YZY"
-      },
-      {
-        "asset": "eip155:56/erc20:0xD955c9bA56Fb1AB30e34766e252A97ccCE3D31A6",
-        "location": null,
-        "location_symbol": "XPIN"
-      },
-      {
         "asset": "eip155:56/erc20:0xfa35E2250E376c23955247383DC32C79082e7fcC",
         "location": "kucoin",
         "location_symbol": "FST"
@@ -525,11 +515,6 @@
         "asset": "eip155:1/erc20:0x30a25CC9c9EADe4D4d9e9349BE6e68c3411367D3",
         "location": null,
         "location_symbol": "PTB"
-      },
-      {
-        "asset": "solana/token:SW1TCHLmRGTfW5xZknqQdpdarB8PD95sJYWpNp9TbFx",
-        "location": null,
-        "location_symbol": "SWTCH"
       },
       {
         "asset": "eip155:1/erc20:0x8db036f007841C21B97eFF7dfc2c187241d59BaF",
