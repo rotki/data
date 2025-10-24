@@ -17,6 +17,14 @@
       "count_entire_amount_spend": false,
       "count_cost_basis_pnl": false,
       "accounting_treatment": null
+    },
+    {
+      "event_type": "trade",
+      "event_subtype": "fee",
+      "taxable": true,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": true,
+      "accounting_treatment": null
     }
   ]
 }
