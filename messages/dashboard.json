@@ -1,14 +1,15 @@
 [
   {
-    "message": "Enjoying rotki? Consider ",
-    "message_highlight": "supporting us in",
+    "message": "rotki premium is 20% off for new users until the end (GMT+1) of Cyber Monday (EoD 01/12/2025). Code:",
+    "message_highlight": "ROTKIBLACKWEEK25",
     "action": {
-      "text": "ENS x Octant Public Goods Giveth Round",
-      "url": "https://giveth.io/project/rotki"
+      "text": "Register and buy premium now",
+      "url": "https://rotki.com/products"
     },
     "period": {
-      "start": 1742313600,
-      "end": 1743584340
-    }
+      "start": 1763942400,
+      "end": 1764629999
+    },
+    "free_user_only": true
   }
 ]
