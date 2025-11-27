@@ -2,7 +2,7 @@
   "messages": [
     {
       "header": "rotki premium is 20% off for new users",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
+      "icon": "https://raw.githubusercontent.com/rotki/data/main/messages/icon.svg",
       "text": "This discount code is valid until the end (GMT+1) of Cyber Monday (01/12/2025). \nCode: ROTKIBLACKWEEK25",
       "action": {
         "text": "Register and buy premium now",
