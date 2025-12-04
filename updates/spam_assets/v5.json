@@ -1,0 +1,67 @@
+{
+  "spam_assets": [
+    {
+      "address": "0x66a3c2Fa3E467Aa586e90912f977e648589CaBaf",
+      "name": "AICC",
+      "symbol": "AI Chain Coin",
+      "decimals": 18,
+      "chain": "ethereum"
+    },
+    {
+      "address": "0x38b6088849e98115315baD2786f6490474158c33",
+      "name": "Ethereum Defi",
+      "symbol": "ETHf",
+      "decimals": 18,
+      "chain": "ethereum"
+    },
+    {
+      "address": "0xC7d8bd336012E6D4A743878AaAA89AcA50f37Af7",
+      "name": "ACX [via www.across.cash]",
+      "symbol": "! ACX",
+      "decimals": 18,
+      "chain": "arbitrum_one"
+    },
+    {
+      "address": "0x2493b4972CB35027071dC0F35D5eAAfdB2FCa271",
+      "name": "ACX [via www.across.cash]",
+      "symbol": "! ACX",
+      "decimals": 18,
+      "chain": "optimism"
+    },
+    {
+      "address": "0x9B1C853338dB0237aF28A67705909A5Fa7DBF81e",
+      "name": "KURO [www.kuroro.gg]",
+      "symbol": "! Kuroro.gg",
+      "decimals": 18,
+      "chain": "polygon_pos"
+    },
+    {
+      "address": "0xBea4993EF563f4B5E07a366d4321E0E8c771Ec93",
+      "name": "Swap your Voucher on wr.do/s/ether",
+      "symbol": "ETHERS VOUCHER",
+      "decimals": 18,
+      "chain": "polygon_pos"
+    },
+    {
+      "address": "0x1F54305Fb775485074EE9Fe0E9B86510A18553d4",
+      "name": "ENA-W (www.ethena.markets)",
+      "symbol": "ENA-W",
+      "decimals": 18,
+      "chain": "optimism"
+    },
+    {
+      "address": "0xB9d514814C1780C235e4B973D16210d917E32926",
+      "name": "Trump Bone",
+      "symbol": "BONE",
+      "decimals": 18,
+      "chain": "ethereum"
+    },
+    {
+      "address": "0x41e357ea17eEd8e3Ee32451F8E5CBa824AF58Dbf",
+      "name": "FAKE coinbase wrapped XRP",
+      "symbol": "cbXRP",
+      "decimals": 18,
+      "chain": "base"
+    }
+  ]
+}
