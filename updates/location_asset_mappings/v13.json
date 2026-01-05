@@ -1,0 +1,71 @@
+{
+  "location_asset_mappings": {
+    "additions": [
+      {
+        "asset": "eip155:1/erc20:0x0E63B9C287E32A05E6b9AB8ee8dF88A2760225A9",
+        "location": "bybit",
+        "location_symbol": "PIEVERSE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x4D4eb0E8B160f6EbF63cC6d36060ffec09301B42",
+        "location": "bybit",
+        "location_symbol": "LITKEY"
+      },
+      {
+        "asset": "eip155:1/erc20:0xea17Df5Cf6D172224892B5477A16ACb111182478",
+        "location": null,
+        "location_symbol": "ELIZAOS"
+      },
+      {
+        "asset": "eip155:1/erc20:0xDeFA1D21c5F1cbeac00eeB54B44C7D86467cc3a3",
+        "location": null,
+        "location_symbol": "ALMANAK"
+      },
+      {
+        "asset": "solana/token:375aiUqZERLrB9sHtsArKr4nuWCgBrtqibUDBMGeLvZC",
+        "location": null,
+        "location_symbol": "EAT"
+      },
+      {
+        "asset": "eip155:1/erc20:0xC19D38925F9F645337B1D1f37bAf3C0647A48E50",
+        "location": null,
+        "location_symbol": "GAIB"
+      },
+      {
+        "asset": "solana/token:METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+        "location": null,
+        "location_symbol": "MET"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xD67EC255100Ef200A439D09FF865fbAA2Ad9C730",
+        "location": null,
+        "location_symbol": "SCOR"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc555D625828c4527d477e595fF1Dd5801B4a600e",
+        "location": "bybit",
+        "location_symbol": "MONPRO"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb31561F0e2aaC72406103b1926356D756F07A481",
+        "location": null,
+        "location_symbol": "VOOI"
+      },
+      {
+        "asset": "eip155:1/erc20:0xe1Be424F442D0687129128C6c38aAce44F8c8Dbc",
+        "location": null,
+        "location_symbol": "ZKP"
+      },
+      {
+        "asset": "solana/token:WETZjtprkDMCcUxPi9PfWnowMRZkiGGHDb9rABuRZ2U",
+        "location": null,
+        "location_symbol": "WET"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x4c87da04887a1F9F21F777E3A8dD55C3C9f84701",
+        "location": null,
+        "location_symbol": "COMMON"
+      }
+    ]
+  }
+}
