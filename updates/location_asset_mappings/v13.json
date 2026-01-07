@@ -195,6 +195,36 @@
           "asset": "eip155:1/erc20:0x263B6B028F3e4eD8C4329eB2b5f409Ee38D97296",
           "location": "coinbase",
           "location_symbol": "WMTX"
+      },
+      {
+          "asset": "eip155:1/erc20:0x0581CCdf2d9BcA21baEfF8b32b2551fd49CF70aa",
+          "location": "binance",
+          "location_symbol": "AT"
+      },
+      {
+          "asset": "eip155:56/erc20:0x3AeE7602b612de36088F3ffEd8c8f10E86EbF2bF",
+          "location": "binance",
+          "location_symbol": "BANK"
+      },
+      {
+          "asset": "eip155:1/erc20:0x699F088b5DddcAFB7c4824db5B10B57B37cB0C66",
+          "location": "binance",
+          "location_symbol": "ENSO"
+      },
+      {
+          "asset": "eip155:56/erc20:0x94be0bbA8E1E303fE998c9360B57b826F1A4f828",
+          "location": "binance",
+          "location_symbol": "KGST"
+      },
+      {
+          "asset": "eip155:1/erc20:0x66fD8de541c0594b4DccdFc13Bf3a390E50d3Afd",
+          "location": "binance",
+          "location_symbol": "TURTLE"
+      },
+      {
+          "asset": "eip155:1/erc20:0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
+          "location": "binance",
+          "location_symbol": "UTK"
       }
     ],
     "deletions": [
