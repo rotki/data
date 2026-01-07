@@ -1,16 +1,16 @@
 {
   "messages": [
     {
-      "header": "rotki premium is 20% off for new users",
-      "icon": "https://raw.githubusercontent.com/rotki/data/main/messages/icon.svg",
-      "text": "This discount code is valid until the end (GMT+1) of Cyber Monday (01/12/2025). \nCode: ROTKIBLACKWEEK25",
+      "header": "Enjoying rotki?",
+      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
+      "text": "rotki is part of Octant Epoch 10",
       "action": {
-        "text": "Register and buy premium now",
-        "url": "https://rotki.com/products"
+        "text": "Support us here",
+        "url": "https://octant.app/project/10/0x9531C059098e3d194fF87FebB587aB07B30B1306"
       },
       "period": {
-        "start": 1763942400,
-        "end": 1764629999
+        "start": 1767726000,
+        "end": 1768924800
       }
     }
   ]
