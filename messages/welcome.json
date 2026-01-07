@@ -2,7 +2,7 @@
   "messages": [
     {
       "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/develop/messages/icon.svg",
+      "icon": "https://raw.githubusercontent.com/rotki/data/main/messages/donation.svg",
       "text": "rotki is part of Octant Epoch 10",
       "action": {
         "text": "Support us here",
