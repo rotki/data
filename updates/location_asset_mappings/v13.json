@@ -140,6 +140,61 @@
         "asset": "eip155:56/erc20:0x924fa68a0FC644485b8df8AbfA0A41C2e7744444",
         "location": null,
         "location_symbol": "币安人生"
+      },
+      {
+          "asset": "eip155:1/erc20:0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8",
+          "location": "coinbase",
+          "location_symbol": "JUPITER"
+      },
+      {
+          "asset": "eip155:1/erc20:0x232CE3bd40fCd6f80f3d55A522d03f25Df784Ee2",
+          "location": "coinbase",
+          "location_symbol": "LIGHTER"
+      },
+      {
+          "asset": "eip155:1/erc20:0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
+          "location": "coinbase",
+          "location_symbol": "FLUID"
+      },
+      {
+          "asset": "eip155:1/erc20:0x50f41F589aFACa2EF41FDF590FE7b90cD26DEe64",
+          "location": "coinbase",
+          "location_symbol": "IRYS"
+      },
+      {
+          "asset": "MON",
+          "location": "coinbase",
+          "location_symbol": "MON"
+      },
+      {
+          "asset": "eip155:8453/erc20:0xEdc817A28E8B93B03976FBd4a3dDBc9f7D176c22",
+          "location": "coinbase",
+          "location_symbol": "MUSD"
+      },
+      {
+          "asset": "eip155:1/erc20:0xB5F7b021a78f470d31D762C1DDA05ea549904fbd",
+          "location": "coinbase",
+          "location_symbol": "RLS"
+      },
+      {
+          "asset": "eip155:1/erc20:0xD05001Db979ff2f1a3B2105875d3454E90dd2961",
+          "location": "coinbase",
+          "location_symbol": "SUP"
+      },
+      {
+          "asset": "eip155:1/erc20:0xafFbe9a60F1F45E057FD9b6DC70004Bb0Ccc8b99",
+          "location": "coinbase",
+          "location_symbol": "THQ"
+      },
+      {
+          "asset": "solana/token:WETZjtprkDMCcUxPi9PfWnowMRZkiGGHDb9rABuRZ2U",
+          "location": "coinbase",
+          "location_symbol": "WET"
+      },
+      {
+          "asset": "eip155:1/erc20:0x263B6B028F3e4eD8C4329eB2b5f409Ee38D97296",
+          "location": "coinbase",
+          "location_symbol": "WMTX"
       }
     ],
     "deletions": [
