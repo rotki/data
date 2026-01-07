@@ -65,6 +65,87 @@
         "asset": "eip155:8453/erc20:0x4c87da04887a1F9F21F777E3A8dD55C3C9f84701",
         "location": null,
         "location_symbol": "COMMON"
+      },
+      {
+        "asset": "solana/token:PAYmo6moDF3Ro3X6bU2jwe2UdBnBhv8YjLgL1j4DxGu",
+        "location": null,
+        "location_symbol": "PAYAI"
+      },
+      {
+        "asset": "MON",
+        "location": "htx",
+        "location_symbol": "MONAD"
+      },
+      {
+        "asset": "eip155:56/erc20:0xed9Ae3DEF8d6F052971Bb8b6d1975FF267Cf9aaD",
+        "location": null,
+        "location_symbol": "BLUAI"
+      },
+      {
+        "asset": "eip155:56/erc20:0xAce9De5AF92Eb82A97A5973B00efF85024bDCB39",
+        "location": null,
+        "location_symbol": "IR"
+      },
+      {
+        "asset": "eip155:1/erc20:0xfAB99fCF605fD8f4593EDb70A43bA56542777777",
+        "location": null,
+        "location_symbol": "ZBT"
+      },
+      {
+        "asset": "eip155:56/erc20:0x004D50B3fC784b580531D8e8615AA96Cf7fbb919",
+        "location": null,
+        "location_symbol": "PLANCK"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
+        "location": null,
+        "location_symbol": "SQD"
+      },
+      {
+        "asset": "eip155:1/erc20:0x8408D45b61f5823298F19a09B53b7339c0280489",
+        "location": null,
+        "location_symbol": "ALLO"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xd85c31854c2B0Fb40aaA9E2Fc4Da23C21f829d46",
+        "location": null,
+        "location_symbol": "PING"
+      },
+      {
+        "asset": "eip155:1/erc20:0x909E34d3f6124C324ac83DccA84b74398a6fa173",
+        "location": "htx",
+        "location_symbol": "PANTHER"
+      },
+      {
+        "asset": "eip155:1/erc20:0xc555D625828c4527d477e595fF1Dd5801B4a600e",
+        "location": "htx",
+        "location_symbol": "MON"
+      },
+      {
+        "asset": "eip155:1/erc20:0xB8f28C60dD8240141185a192fa4156A23E189305",
+        "location": null,
+        "location_symbol": "KYO"
+      },
+      {
+        "asset": "eip155:1/erc20:0x5A9610919f5e81183823A2be4Bd1BeB2B4da2a20",
+        "location": null,
+        "location_symbol": "APR"
+      },
+      {
+        "asset": "eip155:56/erc20:0x0A43fC31a73013089DF59194872Ecae4cAe14444",
+        "location": null,
+        "location_symbol": "4"
+      },
+      {
+        "asset": "eip155:56/erc20:0x924fa68a0FC644485b8df8AbfA0A41C2e7744444",
+        "location": null,
+        "location_symbol": "币安人生"
+      }
+    ],
+    "deletions": [
+      {
+        "location": "bybit",
+        "location_symbol": "ZBT"
       }
     ]
   }
