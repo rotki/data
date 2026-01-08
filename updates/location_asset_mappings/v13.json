@@ -162,11 +162,6 @@
           "location_symbol": "IRYS"
       },
       {
-          "asset": "MON",
-          "location": "coinbase",
-          "location_symbol": "MON"
-      },
-      {
           "asset": "eip155:8453/erc20:0xEdc817A28E8B93B03976FBd4a3dDBc9f7D176c22",
           "location": "coinbase",
           "location_symbol": "MUSD"
@@ -218,13 +213,98 @@
       },
       {
           "asset": "eip155:1/erc20:0x66fD8de541c0594b4DccdFc13Bf3a390E50d3Afd",
-          "location": "binance",
+          "location": null,
           "location_symbol": "TURTLE"
       },
       {
           "asset": "eip155:1/erc20:0xdc9Ac3C20D1ed0B540dF9b1feDC10039Df13F99c",
           "location": "binance",
           "location_symbol": "UTK"
+      },
+      {
+          "asset": "eip155:1/erc20:0x2F714d7b9A035d4ce24af8d9b6091c07E37f43Fb",
+          "location": "kucoin",
+          "location_symbol": "NODE"
+      },
+      {
+          "asset": "eip155:56/erc20:0x7ec43Cf65F1663F820427C62A5780b8f2E25593A",
+          "location": "kucoin",
+          "location_symbol": "LAB"
+      },
+      {
+          "asset": "eip155:8453/erc20:0xE0969ec84456b7e4d3Dd2181fB5265EDbB63F7BD",
+          "location": "kucoin",
+          "location_symbol": "FLK"
+      },
+      {
+          "asset": "eip155:56/erc20:0x6BC3855827fa6EE1229C937A26BB9fCA1a0FfBf0",
+          "location": "kucoin",
+          "location_symbol": "ANOME"
+      },
+      {
+          "asset": "eip155:1/erc20:0x699F088b5DddcAFB7c4824db5B10B57B37cB0C66",
+          "location": "kucoin",
+          "location_symbol": "ENSO"
+      },
+      {
+          "asset": "eip155:56/erc20:0x635d44F246156ed1080CB470877256c847673f19",
+          "location": "kucoin",
+          "location_symbol": "WBAI"
+      },
+      {
+          "asset": "eip155:56/erc20:0x80563Fc2dd549bf36f82d3bF3b970Bb5b08dBDdb",
+          "location": "kucoin",
+          "location_symbol": "RVV"
+      },
+      {
+          "asset": "solana/token:BLVxek8YMXUQhcKmMvrFTrzh5FXg8ec88Crp6otEaCMf",
+          "location": "kucoin",
+          "location_symbol": "BELIEVE"
+      },
+      {
+          "asset": "eip155:8453/erc20:0x9EadbE35F3Ee3bF3e28180070C429298a1b02F93",
+          "location": "kucoin",
+          "location_symbol": "LMTS"
+      },
+      {
+          "asset": "eip155:8453/erc20:0xC71F37D9bF4C5d1E7Fe4bCcB97e6f30B11b37D29",
+          "location": "kucoin",
+          "location_symbol": "EQTY"
+      },
+      {
+          "asset": "eip155:1/erc20:0x13239C268BEDDd88aD0Cb02050D3ff6a9d00de6D",
+          "location": "kucoin",
+          "location_symbol": "BOS"
+      },
+      {
+          "asset": "eip155:1/erc20:0x075F23b9CdfCE2cC0cA466F4eE6cb4bD29d83bef",
+          "location": "kucoin",
+          "location_symbol": "PUNDIAI"
+      },
+      {
+          "asset": "eip155:56/erc20:0xcf3232B85b43BCa90E51D38cc06Cc8bB8C8A3E36",
+          "location": "kucoin",
+          "location_symbol": "KBEAT"
+      },
+      {
+          "asset": "eip155:56/erc20:0x336ff048C664a081D527979aC4197d6C3c8bfB14",
+          "location": "kucoin",
+          "location_symbol": "TEA"
+      },
+      {
+          "asset": "eip155:8453/erc20:0x9215e6362F76fc781df00D51293CC7179C6C99A4",
+          "location": "kucoin",
+          "location_symbol": "PLAI"
+      },
+      {
+          "asset": "eip155:56/erc20:0x3E5d4f8aee0D9B3082d5f6DA5D6e225D17ba9ea0",
+          "location": "kucoin",
+          "location_symbol": "UAI"
+      },
+      {
+          "asset": "eip155:1/erc20:0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B",
+          "location": "kucoin",
+          "location_symbol": "FOLKS"
       }
     ],
     "deletions": [
