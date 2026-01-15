@@ -188,7 +188,7 @@
       },
       {
           "asset": "eip155:1/erc20:0x0581CCdf2d9BcA21baEfF8b32b2551fd49CF70aa",
-          "location": "binance",
+          "location": null,
           "location_symbol": "AT"
       },
       {
@@ -385,6 +385,71 @@
           "asset": "XMN",
           "location": "kucoin",
           "location_symbol": "UTK"
+      },
+      {
+          "asset": "eip155:1/erc20:0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541",
+          "location": "poloniex",
+          "location_symbol": "BBTCBINANCE"
+      },
+      {
+          "asset": "eip155:56/erc20:0x9212cF1f9f4A9c69Bb010146Ba5b0725169D4444",
+          "location": "poloniex",
+          "location_symbol": "BIBIBSC"
+      },
+      {
+          "asset": "eip155:56/erc20:0x44440f83419DE123d7d411187aDb9962db017d03",
+          "location": "poloniex",
+          "location_symbol": "BNBHOLDER"
+      },
+      {
+          "asset": "eip155:56/erc20:0x4B3D30992f003c8167699735F5Ab2831B2A087D3",
+          "location": "poloniex",
+          "location_symbol": "COLLECT"
+      },
+      {
+          "asset": "eip155:56/erc20:0x925c8Ab7A9a8a148E87CD7f1EC7ECc3625864444",
+          "location": "poloniex",
+          "location_symbol": "DOYR"
+      },
+      {
+          "asset": "eip155:56/erc20:0xe5E1A0a43f307F390887E2a17399172F3F9a3caB",
+          "location": "poloniex",
+          "location_symbol": "ETAN"
+      },
+      {
+          "asset": "eip155:56/erc20:0xA5C8e1513B6A08334b479fe4D71F1253259469BE",
+          "location": "poloniex",
+          "location_symbol": "GUA"
+      },
+      {
+          "asset": "eip155:8453/erc20:0x50F88fe97f72CD3E75b9Eb4f747F59BcEBA80d59",
+          "location": "poloniex",
+          "location_symbol": "JESSE"
+      },
+      {
+          "asset": "eip155:56/erc20:0x7ec43Cf65F1663F820427C62A5780b8f2E25593A",
+          "location": "poloniex",
+          "location_symbol": "LAB"
+      },
+      {
+          "asset": "eip155:56/erc20:0xbaaa9E1ab7429166d0a424De0F24237A33864444",
+          "location": "poloniex",
+          "location_symbol": "MEMERUSH"
+      },
+      {
+          "asset": "eip155:8453/erc20:0xE57E601c06689D3e2BF7DB7bebb14B4ff28400C6",
+          "location": "poloniex",
+          "location_symbol": "MRDN"
+      },
+      {
+          "asset": "eip155:8453/erc20:0x9F62B62CF8cC3aea56A3CE8808Cf13503D1131e7",
+          "location": "poloniex",
+          "location_symbol": "NICKSHIRLEY"
+      },
+      {
+          "asset": "eip155:1/erc20:0x33f6BE84becfF45ea6aA2952d7eF890B44bFB59d",
+          "location": "poloniex",
+          "location_symbol": "ON"
       }
     ],
     "deletions": [
