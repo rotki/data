@@ -168,7 +168,7 @@
       },
       {
           "asset": "eip155:1/erc20:0xB5F7b021a78f470d31D762C1DDA05ea549904fbd",
-          "location": "coinbase",
+          "location": null,
           "location_symbol": "RLS"
       },
       {
@@ -378,7 +378,7 @@
       },
       {
           "asset": "eip155:1/erc20:0x086F405146Ce90135750Bbec9A063a8B20A8bfFb",
-          "location": "kucoin",
+          "location": null,
           "location_symbol": "BREV"
       },
       {
@@ -545,12 +545,41 @@
         "asset": "eip155:1/erc20:0x808507121B80c02388fAd14726482e061B8da827",
         "location": "bitstamp",
         "location_symbol": "PENDLE"
+      },
+      {
+        "asset": "eip155:1/erc20:0x68749665FF8D2d112Fa859AA293F07A622782F38",
+        "location": "bitstamp",
+        "location_symbol": "XAUT0"
+      },
+      {
+        "asset": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "location": "bitstamp",
+        "location_symbol": "USDT0"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x901F1D2BF312e6Fa1716Df603df8F86315bcb355",
+        "location": "gemini",
+        "location_symbol": "LINKS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x081599E4936D12c46Bd48913B2329115Cd26cbdd",
+        "location": "independentreserve",
+        "location_symbol": "Audm"
+      },
+      {
+        "asset": "eip155:1/erc20:0x68749665FF8D2d112Fa859AA293F07A622782F38",
+        "location": "independentreserve",
+        "location_symbol": "Xaut"
       }
     ],
     "deletions": [
       {
         "location": "bybit",
         "location_symbol": "ZBT"
+      },
+      {
+        "location": "bitstamp",
+        "location_symbol": "USDT0"
       }
     ]
   }
