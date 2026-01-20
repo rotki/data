@@ -538,7 +538,7 @@
       },
       {
           "asset": "eip155:56/erc20:0xFe930c2d63AeD9b82fC4DBC801920dD2c1a3224F",
-          "location": "kraken",
+          "location": null,
           "location_symbol": "NIGHT"
       },
       {
@@ -548,12 +548,12 @@
       },
       {
         "asset": "eip155:1/erc20:0x68749665FF8D2d112Fa859AA293F07A622782F38",
-        "location": "bitstamp",
+        "location": "bitfinex",
         "location_symbol": "XAUT0"
       },
       {
         "asset": "eip155:1/erc20:0xdAC17F958D2ee523a2206206994597C13D831ec7",
-        "location": "bitstamp",
+        "location": "bitfinex",
         "location_symbol": "USDT0"
       },
       {
@@ -570,6 +570,36 @@
         "asset": "eip155:1/erc20:0x68749665FF8D2d112Fa859AA293F07A622782F38",
         "location": "independentreserve",
         "location_symbol": "Xaut"
+      },
+      {
+        "asset": "eip155:56/erc20:0x9A2f5556e9A637e8fBcE886d8e3cf8b316a1D8a2",
+        "location": "binance",
+        "location_symbol": "IDR"
+      },
+      {
+        "asset": "eip155:1/erc20:0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
+        "location": null,
+        "location_symbol": "LIT"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x29cC30f9D113B356Ce408667aa6433589CeCBDcA",
+        "location": null,
+        "location_symbol": "ELSA"
+      },
+      {
+        "asset": "eip155:1/erc20:0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+        "location": "bybit",
+        "location_symbol": "FRAX"
+      },
+      {
+        "asset": "eip155:56/erc20:0x52B5fB4B0F6572B8C44d0251Cc224513ac5eB7E7",
+        "location": "coinbase",
+        "location_symbol": "BOBBOB"
+      },
+      {
+        "asset": "solana/token:AmBeAXoGgKVjs1nVKqT32LXX8RTdysg3mAjK7Vhpump",
+        "location": "coinbase",
+        "location_symbol": "FUN1"
       }
     ],
     "deletions": [
@@ -578,7 +608,7 @@
         "location_symbol": "ZBT"
       },
       {
-        "location": "bitstamp",
+        "location": "bitfinex",
         "location_symbol": "USDT0"
       }
     ]
