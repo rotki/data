@@ -655,6 +655,11 @@
         "asset": "solana/token:AmBeAXoGgKVjs1nVKqT32LXX8RTdysg3mAjK7Vhpump",
         "location": "coinbase",
         "location_symbol": "FUN1"
+      },
+      {
+        "asset": "eip155:1/erc20:0x56A3BA04E95d34268A19b2a4474DC979baBDaf76",
+        "location": "binance",
+        "location_symbol": "SENT"
       }
     ],
     "deletions": [
