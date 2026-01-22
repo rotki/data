@@ -233,7 +233,7 @@
       },
       {
           "asset": "eip155:1/erc20:0x9126236476eFBA9Ad8aB77855c60eB5BF37586Eb",
-          "location": "kraken",
+          "location": null,
           "location_symbol": "CHECK"
       },
       {
@@ -273,7 +273,7 @@
       },
       {
           "asset": "eip155:1/erc20:0xdA7AD9dea9397cffdDAE2F8a052B82f1484252B3",
-          "location": "kraken",
+          "location": null,
           "location_symbol": "RIVER"
       },
       {
@@ -433,7 +433,7 @@
       },
       {
           "asset": "eip155:56/erc20:0x7765A659C5b0cFBFD9fbc2Ef2298b75a598F2d2D",
-          "location": "kucoin",
+          "location": null,
           "location_symbol": "ESIM"
       },
       {
@@ -543,7 +543,7 @@
       },
       {
           "asset": "solana/token:a3W4qutoEJA4232T2gwZUfgYJTetr96pU4SJMwppump",
-          "location": "poloniex",
+          "location": null,
           "location_symbol": "WHITEWHALE"
       },
       {
@@ -658,8 +658,133 @@
       },
       {
         "asset": "eip155:1/erc20:0x56A3BA04E95d34268A19b2a4474DC979baBDaf76",
-        "location": "binance",
+        "location": null,
         "location_symbol": "SENT"
+      },
+      {
+        "asset": "eip155:56/erc20:0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "location": "bitstamp",
+        "location_symbol": "CAKE"
+      },
+      {
+        "asset": "eip155:56/erc20:0xc51A9250795c0186a6FB4A7D20A90330651e4444",
+        "location": "htx",
+        "location_symbol": "我踏马来了"
+      },
+      {
+        "asset": "eip155:56/erc20:0x1a5F9d77CA46646cD4937fD8d093F460B66F4444",
+        "location": null,
+        "location_symbol": "老子"
+      },
+      {
+        "asset": "eip155:56/erc20:0x1a1E69F1e6182e2F8b9e8987E83C016ac9444444",
+        "location": null,
+        "location_symbol": "人生K线"
+      },
+      {
+        "asset": "eip155:1/erc20:0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+        "location": "kraken",
+        "location_symbol": "AUSD"
+      },
+      {
+        "asset": "eip155:1/erc20:0x2798b1cC5A993085E8A9D46e80499F1B63f42204",
+        "location": null,
+        "location_symbol": "GWEI"
+      },
+      {
+        "asset": "eip155:1/erc20:0x216b3643ff8b7BB30d8A48E9F1BD550126202AdD",
+        "location": null,
+        "location_symbol": "ACU"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xAb6363dA0C80cEF3Ae105Bd6241E30872355d021",
+        "location": null,
+        "location_symbol": "ROLL"
+      },
+      {
+        "asset": "eip155:56/erc20:0xFF5d99A5C16cf2fFb4E7dA1d7C42a791e70e4444",
+        "location": "poloniex",
+        "location_symbol": "1"
+      },
+      {
+        "asset": "solana/token:AGdGTQa8iRnSx4fQJehWo4Xwbh1bzTazs55R6Jwupump",
+        "location": "poloniex",
+        "location_symbol": "114514"
+      },
+      {
+        "asset": "solana/token:4vGHdzcNrDf8XVE8H19Rqea86RULz7xi89ew1sSJpump",
+        "location": "poloniex",
+        "location_symbol": "21"
+      },
+      {
+        "asset": "eip155:137/erc20:0x2C5604fFcbbd1Ad371E7Cf54F063E179cA92AC1d",
+        "location": "poloniex",
+        "location_symbol": "KRYON"
+      },
+      {
+        "asset": "solana/token:2nP9yKQNSGQy851iyawDvBkzkK2R2aqKArQCKc2gpump",
+        "location": "poloniex",
+        "location_symbol": "PSYOPANIME"
+      },
+      {
+        "asset": "solana/token:4TyZGqRLG3VcHTGMcLBoPUmqYitMVojXinAmkL8xpump",
+        "location": "poloniex",
+        "location_symbol": "TESTICLE"
+      },
+      {
+        "asset": "eip155:56/erc20:0x248dB81f8307De98107602d5fdf1AA6398A14444",
+        "location": "poloniex",
+        "location_symbol": "山野万里"
+      },
+      {
+        "asset": "eip155:56/erc20:0xC9981ec962978523C342B22D13164143500E4444",
+        "location": "poloniex",
+        "location_symbol": "死了么"
+      },
+      {
+        "asset": "eip155:56/erc20:0xf9C6e80e9A5807A1214a79449009b48104F94444",
+        "location": "poloniex",
+        "location_symbol": "黑马"
+      },
+      {
+        "asset": "eip155:42161/erc20:0x25118290e6A5f4139381D072181157035864099d",
+        "location": "kucoin",
+        "location_symbol": "RAIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x9B6a1d4fa5d90E5f2D34130053978D14Cd301d58",
+        "location": "kucoin",
+        "location_symbol": "DN"
+      },
+      {
+        "asset": "eip155:56/erc20:0x107C9C954b19f69DEC6ddEFfFF9a5745a05E86a3",
+        "location": "kucoin",
+        "location_symbol": "SIGHT"
+      },
+      {
+        "asset": "eip155:1/erc20:0xA12CC123ba206d4031D1c7f6223D1C2Ec249f4f3",
+        "location": "kucoin",
+        "location_symbol": "ZAMA"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xaD407Df605096DA5422A6977D3521D7F4a09Fdd9",
+        "location": "kucoin",
+        "location_symbol": "NOLAN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x87acFA3fD7A6e0d48677D070644D76905C2bDC00",
+        "location": "kucoin",
+        "location_symbol": "SPACE"
+      },
+      {
+        "asset": "BYTENOVA",
+        "location": "kucoin",
+        "location_symbol": "BYTE"
+      },
+      {
+        "asset": "eip155:56/erc20:0x924fa68a0FC644485b8df8AbfA0A41C2e7744444",
+        "location": "kucoin",
+        "location_symbol": "BNRENSHENG"
       }
     ],
     "deletions": [
