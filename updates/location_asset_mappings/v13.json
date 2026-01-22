@@ -605,6 +605,10 @@
       {
         "location": "bitfinex",
         "location_symbol": "USDT0"
+      },
+      {
+        "location": "kraken",
+        "location_symbol": "XMN"
       }
     ]
   }
