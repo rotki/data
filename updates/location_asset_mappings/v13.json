@@ -198,13 +198,58 @@
       },
       {
           "asset": "eip155:1/erc20:0x699F088b5DddcAFB7c4824db5B10B57B37cB0C66",
-          "location": "binance",
+          "location": null,
           "location_symbol": "ENSO"
+      },
+      {
+          "asset": "eip155:1/erc20:0xfb072b42907dA2Bf7A8E8cB5dCAa790D45Fd81a8",
+          "location": "kraken",
+          "location_symbol": "SIDEKICK"
+      },
+      {
+          "asset": "eip155:56/erc20:0x297eb2CD0E0aF48Dd2241D1fe2EAe8D9d5188E87",
+          "location": "kraken",
+          "location_symbol": "MIRROR"
+      },
+      {
+          "asset": "solana/token:7kN5FQMD8ja4bzysEgc5FXmryKd6gCgjiWnhksjHCFb3",
+          "location": "kraken",
+          "location_symbol": "LION"
       },
       {
           "asset": "eip155:56/erc20:0x94be0bbA8E1E303fE998c9360B57b826F1A4f828",
           "location": "binance",
           "location_symbol": "KGST"
+      },
+      {
+          "asset": "eip155:1/erc20:0x17205fab260a7a6383a81452cE6315A39370Db97",
+          "location": "kraken",
+          "location_symbol": "RAVE"
+      },
+      {
+          "asset": "eip155:1/erc20:0x825459139C897D769339f295E962396C4F9E4A4D",
+          "location": "kraken",
+          "location_symbol": "GAME2"
+      },
+      {
+          "asset": "eip155:1/erc20:0x9126236476eFBA9Ad8aB77855c60eB5BF37586Eb",
+          "location": "kraken",
+          "location_symbol": "CHECK"
+      },
+      {
+          "asset": "eip155:1/erc20:0xfAB99fCF605fD8f4593EDb70A43bA56542777777",
+          "location": "kraken",
+          "location_symbol": "ZBT"
+      },
+      {
+          "asset": "eip155:1/erc20:0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc",
+          "location": "kraken",
+          "location_symbol": "FRNT"
+      },
+      {
+          "asset": "eip155:1/erc20:0xD687759f35bb747A29246a4b9495C8f52C49E00C",
+          "location": "kraken",
+          "location_symbol": "AUDX"
       },
       {
           "asset": "eip155:1/erc20:0x66fD8de541c0594b4DccdFc13Bf3a390E50d3Afd",
@@ -222,6 +267,26 @@
           "location_symbol": "NODE"
       },
       {
+          "asset": "eip155:1/erc20:0x2F714d7b9A035d4ce24af8d9b6091c07E37f43Fb",
+          "location": "kraken",
+          "location_symbol": "NODE"
+      },
+      {
+          "asset": "eip155:1/erc20:0xdA7AD9dea9397cffdDAE2F8a052B82f1484252B3",
+          "location": "kraken",
+          "location_symbol": "RIVER"
+      },
+      {
+          "asset": "eip155:1/erc20:0xF970706063b7853877F39515C96932D49d5AC9Cd",
+          "location": "kraken",
+          "location_symbol": "YALA"
+      },
+      {
+          "asset": "eip155:1/erc20:0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e",
+          "location": "kraken",
+          "location_symbol": "COPM"
+      },
+      {
           "asset": "eip155:56/erc20:0x7ec43Cf65F1663F820427C62A5780b8f2E25593A",
           "location": "kucoin",
           "location_symbol": "LAB"
@@ -235,11 +300,6 @@
           "asset": "eip155:56/erc20:0x6BC3855827fa6EE1229C937A26BB9fCA1a0FfBf0",
           "location": "kucoin",
           "location_symbol": "ANOME"
-      },
-      {
-          "asset": "eip155:1/erc20:0x699F088b5DddcAFB7c4824db5B10B57B37cB0C66",
-          "location": "kucoin",
-          "location_symbol": "ENSO"
       },
       {
           "asset": "eip155:56/erc20:0x635d44F246156ed1080CB470877256c847673f19",
