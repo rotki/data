@@ -223,7 +223,7 @@
       },
       {
           "asset": "eip155:1/erc20:0x17205fab260a7a6383a81452cE6315A39370Db97",
-          "location": "kraken",
+          "location": null,
           "location_symbol": "RAVE"
       },
       {
@@ -763,7 +763,7 @@
       },
       {
         "asset": "eip155:1/erc20:0xA12CC123ba206d4031D1c7f6223D1C2Ec249f4f3",
-        "location": "kucoin",
+        "location": null,
         "location_symbol": "ZAMA"
       },
       {
@@ -785,6 +785,41 @@
         "asset": "eip155:56/erc20:0x924fa68a0FC644485b8df8AbfA0A41C2e7744444",
         "location": "kucoin",
         "location_symbol": "BNRENSHENG"
+      },
+      {
+        "asset": "eip155:1/erc20:0x221657776846890989a759BA2973e427DfF5C9bB",
+        "location": "poloniex",
+        "location_symbol": "REP"
+      },
+      {
+        "asset": "eip155:1/erc20:0x07041776f5007ACa2A54844F50503a18A72A8b68",
+        "location": null,
+        "location_symbol": "USAT"
+      },
+      {
+        "asset": "solana/token:G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG",
+        "location": null,
+        "location_symbol": "BIRB"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xA64A1b5b0a5ce578A8c6bca10CBE36d83713D170",
+        "location": "bybit",
+        "location_symbol": "PENGUIN"
+      },
+      {
+        "asset": "eip155:1/erc20:0x228bEC415adE4b61D7CaF0adf8C91EAc587BA369",
+        "location": null,
+        "location_symbol": "TRIA"
+      },
+      {
+        "asset": "solana/token:D6xWgRCSHoMEB5fqPwk3p6Stxirn5ytm2WwboSTTx4oE",
+        "location": "bybit",
+        "location_symbol": "PYBOBO"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xa53887F7e7c1bf5010b8627F1C1ba94fE7a5d6E0",
+        "location": "bybit",
+        "location_symbol": "RNBW"
       }
     ],
     "deletions": [
