@@ -218,7 +218,7 @@
       },
       {
           "asset": "eip155:56/erc20:0x94be0bbA8E1E303fE998c9360B57b826F1A4f828",
-          "location": "binance",
+          "location": null,
           "location_symbol": "KGST"
       },
       {
@@ -748,7 +748,7 @@
       },
       {
         "asset": "eip155:42161/erc20:0x25118290e6A5f4139381D072181157035864099d",
-        "location": "kucoin",
+        "location": null,
         "location_symbol": "RAIN"
       },
       {
@@ -773,7 +773,7 @@
       },
       {
         "asset": "eip155:1/erc20:0x87acFA3fD7A6e0d48677D070644D76905C2bDC00",
-        "location": "kucoin",
+        "location": null,
         "location_symbol": "SPACE"
       },
       {
@@ -803,7 +803,7 @@
       },
       {
         "asset": "eip155:8453/erc20:0xA64A1b5b0a5ce578A8c6bca10CBE36d83713D170",
-        "location": "bybit",
+        "location": null,
         "location_symbol": "PENGUIN"
       },
       {
@@ -813,13 +813,103 @@
       },
       {
         "asset": "solana/token:D6xWgRCSHoMEB5fqPwk3p6Stxirn5ytm2WwboSTTx4oE",
-        "location": "bybit",
+        "location": null,
         "location_symbol": "PYBOBO"
       },
       {
         "asset": "eip155:8453/erc20:0xa53887F7e7c1bf5010b8627F1C1ba94fE7a5d6E0",
-        "location": "bybit",
+        "location": null,
         "location_symbol": "RNBW"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x9f86dB9fc6f7c9408e8Fda3Ff8ce4e78ac7a6b07",
+        "location": null,
+        "location_symbol": "CLAWD"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xB695559b26BB2c9703ef1935c37AeaE9526bab07",
+        "location": null,
+        "location_symbol": "MOLT"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xa1F72459dfA10BAD200Ac160eCd78C6b77a747be",
+        "location": null,
+        "location_symbol": "CLAWNCH"
+      },
+      {
+        "asset": "eip155:56/erc20:0x19Ed254efa5E061D28d84650891a3db2A9940C16",
+        "location": "kraken",
+        "location_symbol": "SUP"
+      },
+      {
+        "asset": "eip155:56/erc20:0x6dc200b21894Af4660b549B678ea8df22BF7cfAc",
+        "location": null,
+        "location_symbol": "WARD"
+      },
+      {
+        "asset": "eip155:1/erc20:0x19645c760aFfdD9caC0b805A80De227cbe506538",
+        "location": "kraken",
+        "location_symbol": "RAILS"
+      },
+      {
+        "asset": "eip155:1/erc20:0x7C135549504245B5eAe64fc0E99Fa5ebabb8e35D",
+        "location": "kraken",
+        "location_symbol": "FIDD"
+      },
+      {
+        "asset": "eip155:56/erc20:0xCC1B8207853662C5CFABfB028806EC06eA1f6AC6",
+        "location": "kucoin",
+        "location_symbol": "KIN"
+      },
+      {
+        "asset": "solana/token:8UKuetxWnpC9Po9Mpf3ptT2wEvkqg9GxZWnnx4VPhpeD",
+        "location": "kucoin",
+        "location_symbol": "PVT"
+      },
+      {
+        "asset": "eip155:56/erc20:0xF9471965b3E9DF2d07BEd059117a3Ff2FEe35dD1",
+        "location": "kucoin",
+        "location_symbol": "MOVA"
+      },
+      {
+        "asset": "solana/token:HmMubgKx91Tpq3jmfcKQwsv5HrErqnCTTRJMB6afFR2u",
+        "location": "kucoin",
+        "location_symbol": "9BIT"
+      },
+      {
+        "asset": "eip155:56/erc20:0x336ff048C664a081D527979aC4197d6C3c8bfB14",
+        "location": "kucoin",
+        "location_symbol": "TEAFI"
+      },
+      {
+        "asset": "solana/token:8biqsLDiRPaPM11S42zKtNaC3WWKF64PNoPG9htzy99n",
+        "location": "okx",
+        "location_symbol": "OKSOL"
+      },
+      {
+        "asset": "solana/token:EKwF2HD6X4rHHr4322EJeK9QBGkqhpHZQSanSUmWkecG",
+        "location": "poloniex",
+        "location_symbol": "BIGTROUT"
+      },
+      {
+        "asset": "solana/token:61Wj56QgGyyB966T7YsMzEAKRLcMvJpDbPzjkrCZc4Bi",
+        "location": "poloniex",
+        "location_symbol": "COPPERINU"
+      },
+      {
+        "asset": "solana/token:FbmmdcCYHL7WETG89xtWmNFMzQAaQ8Zs9NXVbimibonk",
+        "location": "poloniex",
+        "location_symbol": "DONT"
+      },
+      {
+        "asset": "eip155:56/erc20:0xF74548802f4c700315F019FdE17178b392EE4444",
+        "location": "poloniex",
+        "location_symbol": "MEMES"
+      },
+      {
+        "asset": "solana/token:8opvqaWysX1oYbXuTL8PHaoaTiXD69VFYAX4smPebonk",
+        "location": "poloniex",
+        "location_symbol": "WAR"
       }
     ],
     "deletions": [
