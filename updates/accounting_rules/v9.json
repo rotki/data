@@ -8,13 +8,52 @@
       "count_entire_amount_spend": false,
       "count_cost_basis_pnl": true,
       "accounting_treatment": null
-    },
-    {
+    }, {
       "event_type": "withdrawal",
       "event_subtype": "withdraw from protocol",
       "counterparty": null,
       "taxable": false,
       "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": true,
+      "accounting_treatment": null
+    }, {
+      "event_type": "exchange adjustment",
+      "event_subtype": "spend",
+      "counterparty": null,
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": true,
+      "accounting_treatment": null
+    }, {
+      "event_type": "exchange adjustment",
+      "event_subtype": "receive",
+      "counterparty": null,
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": true,
+      "accounting_treatment": null
+    }, {
+      "event_type": "exchange transfer",
+      "event_subtype": "spend",
+      "counterparty": null,
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": true,
+      "accounting_treatment": null
+    }, {
+      "event_type": "exchange transfer",
+      "event_subtype": "receive",
+      "counterparty": null,
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": true,
+      "accounting_treatment": null
+    }, {
+      "event_type": "exchange transfer",
+      "event_subtype": "fee",
+      "counterparty": null,
+      "taxable": true,
+      "count_entire_amount_spend": true,
       "count_cost_basis_pnl": true,
       "accounting_treatment": null
     }
