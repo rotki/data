@@ -56,6 +56,14 @@
       "count_entire_amount_spend": true,
       "count_cost_basis_pnl": true,
       "accounting_treatment": null
+    }, {
+      "event_type": "transaction to self",
+      "event_subtype": "none",
+      "counterparty": null,
+      "taxable": false,
+      "count_entire_amount_spend": true,
+      "count_cost_basis_pnl": true,
+      "accounting_treatment": null
     }
   ]
 }
