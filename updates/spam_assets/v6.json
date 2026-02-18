@@ -1779,5 +1779,6 @@
   {"address":"0xdA30A522Ff35E4C64a941d9E2594cb4722463561","name":"www.basex.cfd - claim Base airdrop","symbol":"www.basex.cfd","decimals":18,"chain":"gnosis"},
   {"address":"0xe2977Ba855aeAd9423E9C9aA33f6600066586245","name":"www.basex.cfd - claim Base airdrop","symbol":"www.basex.cfd","decimals":18,"chain":"gnosis"},
   {"address":"0xd9b05bd8443F16fB6B140a9497eD5D8A1d417E15","name":"www.basex.cfd - claim Base airdrop","symbol":"www.basex.cfd","decimals":18,"chain":"gnosis"},
-  {"address":"0xB49489D7F99E6dBc0Ed14Ee18bb1E2572597aD63","name":"www.basex.cfd - claim Base airdrop","symbol":"www.basex.cfd","decimals":18,"chain":"gnosis"}
+  {"address":"0xB49489D7F99E6dBc0Ed14Ee18bb1E2572597aD63","name":"www.basex.cfd - claim Base airdrop","symbol":"www.basex.cfd","decimals":18,"chain":"gnosis"},
+  {"address":"0x290b3B9f7661a6834135Be44c3475AEf987Fa3b2","name":"Trump Doge","symbol":"DOGE","decimals":18,"chain":"ethereum"}
 ]}
