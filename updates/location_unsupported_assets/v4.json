@@ -1,0 +1,7 @@
+{
+  "location_unsupported_assets": {
+    "remove": {
+      "poloniex": ["SPACE"]
+    }
+  }
+}

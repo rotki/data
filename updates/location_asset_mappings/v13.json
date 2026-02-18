@@ -284,7 +284,7 @@
       {
           "asset": "eip155:1/erc20:0xeD35af169aF46a02eE13b9d79Eb57d6D68C1749e",
           "location": "kraken",
-          "location_symbol": "COPM"
+          "location_symbol": "OMI"
       },
       {
           "asset": "eip155:56/erc20:0x7ec43Cf65F1663F820427C62A5780b8f2E25593A",
@@ -328,7 +328,7 @@
       },
       {
           "asset": "eip155:1/erc20:0x13239C268BEDDd88aD0Cb02050D3ff6a9d00de6D",
-          "location": "kucoin",
+          "location": null,
           "location_symbol": "BOS"
       },
       {
@@ -358,7 +358,7 @@
       },
       {
           "asset": "eip155:1/erc20:0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B",
-          "location": "kucoin",
+          "location": null,
           "location_symbol": "FOLKS"
       },
       {
@@ -910,6 +910,61 @@
         "asset": "solana/token:8opvqaWysX1oYbXuTL8PHaoaTiXD69VFYAX4smPebonk",
         "location": "poloniex",
         "location_symbol": "WAR"
+      },
+      {
+        "asset": "eip155:1/erc20:0x031De51F3E8016514Bd0963d0B2AB825A591Db9A",
+        "location": null,
+        "location_symbol": "ESP"
+      },
+      {
+        "asset": "eip155:1/erc20:0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2",
+        "location": null,
+        "location_symbol": "AZTEC"
+      },
+      {
+          "asset": "eip155:137/erc20:0x12050c705152931cFEe3DD56c52Fb09Dea816C23",
+          "location": "kraken",
+          "location_symbol": "COPM"
+      },
+      {
+        "asset": "eip155:1/erc20:0x23878914EFE38d27C4D67Ab83ed1b93A74D4086a",
+        "location": "kraken",
+        "location_symbol": "AUSDT"
+      },
+      {
+        "asset": "eip155:1/erc20:0x98C23E9d8f34FEFb1B7BD6a91B7FF122F4e16F5c",
+        "location": "kraken",
+        "location_symbol": "AUSDC"
+      },
+      {
+        "asset": "eip155:1/erc20:0xC9746F73cC33a36c2cD55b8aEFD732586946Cedd",
+        "location": "kraken",
+        "location_symbol": "BOB"
+      },
+      {
+        "asset": "eip155:1/erc20:0xA9E8aCf069C58aEc8825542845Fd754e41a9489A",
+        "location": "kraken",
+        "location_symbol": "PEPECOIN"
+      },
+      {
+        "asset": "TRUTHSUI",
+        "location": "kucoin",
+        "location_symbol": "TRUTH"
+      },
+      {
+        "asset": "eip155:8453/erc20:0xe2f3FaE4bc62E21826018364aa30ae45D430bb07",
+        "location": "poloniex",
+        "location_symbol": "ANTIHUNTER"
+      },
+      {
+        "asset": "eip155:8453/erc20:0x50D2280441372486BeecdD328c1854743EBaCb07",
+        "location": "poloniex",
+        "location_symbol": "KELLYCLAUDE"
+      },
+      {
+        "asset": "solana/token:NV2RYH954cTJ3ckFUpvfqaQXU4ARqqDH3562nFSpump",
+        "location": "poloniex",
+        "location_symbol": "PUNCH"
       }
     ],
     "deletions": [
