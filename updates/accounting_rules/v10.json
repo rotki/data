@@ -1,0 +1,53 @@
+{
+  "accounting_rules": [
+    {
+      "event_type": "deposit",
+      "event_subtype": "deposit for wrapped",
+      "counterparty": "weth",
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": false,
+      "accounting_treatment": "basis_transfer"
+    }, {
+      "event_type": "spend",
+      "event_subtype": "return wrapped",
+      "counterparty": "weth",
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": false,
+      "accounting_treatment": "basis_transfer"
+    }, {
+      "event_type": "deposit",
+      "event_subtype": "deposit for wrapped",
+      "counterparty": "wxdai",
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": false,
+      "accounting_treatment": "basis_transfer"
+    }, {
+      "event_type": "spend",
+      "event_subtype": "return wrapped",
+      "counterparty": "wxdai",
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": false,
+      "accounting_treatment": "basis_transfer"
+    }, {
+      "event_type": "deposit",
+      "event_subtype": "deposit for wrapped",
+      "counterparty": "wmatic",
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": false,
+      "accounting_treatment": "basis_transfer"
+    }, {
+      "event_type": "spend",
+      "event_subtype": "return wrapped",
+      "counterparty": "wmatic",
+      "taxable": false,
+      "count_entire_amount_spend": false,
+      "count_cost_basis_pnl": false,
+      "accounting_treatment": "basis_transfer"
+    }
+  ]
+}
