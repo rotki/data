@@ -4,8 +4,7 @@ import os
 import polars
 import pytest
 import requests
-from decimal import Decimal
-from eth_utils import is_checksum_address
+from eth_utils import to_checksum_address
 from jsonschema import validate
 from typing import Final
 
@@ -42,12 +41,22 @@ def test_files_and_jsons():
         if 'file_hash' in airdrop:
             with open(airdrop['file_path'], 'br') as f:
                 assert airdrop['file_hash'] == hashlib.sha256(f.read()).hexdigest(), f'Invalid hash for {airdrop["file_path"]}'
-            df = polars.read_parquet(airdrop['file_path'])
-            assert df.columns[:2] == ['address', 'amount'], f'{airdrop["file_path"]} does not have address and amount columns'
-            assert len(df.rows()) > 0, f'{airdrop["file_path"]} is empty'
-            for i, (address, amount) in enumerate(df.select(polars.selectors.by_index(0, 1)).rows()):
-               assert is_checksum_address(address), f'{airdrop["file_path"]} address {address} is not checksummed at row {i+1}'
-               assert Decimal(amount) > 0, f'{airdrop["file_path"]} amount {amount} is negative at row {i+1}'
+            file_schema = polars.read_parquet_schema(airdrop['file_path'])
+            assert list(file_schema.keys())[:2] == ['address', 'amount'], f'{airdrop["file_path"]} does not have address and amount columns'
+
+            df = polars.read_parquet(airdrop['file_path'], columns=['address', 'amount'])
+            assert df.height > 0, f'{airdrop["file_path"]} is empty'
+
+            invalid_amounts = df.select(
+                (
+                    polars.col('amount').cast(polars.Float64, strict=False).is_null() |
+                    (polars.col('amount').cast(polars.Float64, strict=False) <= 0)
+                ).sum()
+            ).item()
+            assert invalid_amounts == 0, f'{airdrop["file_path"]} has invalid non-positive amounts'
+
+            for i, address in enumerate(df.get_column('address')):
+               assert to_checksum_address(address.lower()) == address, f'{airdrop["file_path"]} address {address} is not checksummed at row {i+1}'
         else:
             assert TEST_ADDR in airdrop['api_url'].format(address=TEST_ADDR)  # check that the format variable is in the url
             assert 'amount_path' in airdrop
