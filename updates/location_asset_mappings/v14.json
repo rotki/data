@@ -1,0 +1,141 @@
+{
+    "location_asset_mappings": {
+        "additions": [
+            {
+                "asset": "eip155:1/erc20:0x8e4cbbcc33db6c0a18561fde1f6ba35906d4848b",
+                "location": "kraken",
+                "location_symbol": "MEZO"
+            },
+            {
+                "asset": "eip155:1/erc20:0x2aeabde1ab736c59e9a19bed67681869eef39526",
+                "location": "kraken",
+                "location_symbol": "DOVU"
+            },
+            {
+                "asset": "MANTRA",
+                "location": "kraken",
+                "location_symbol": "MANTRA"
+            },
+            {
+                "asset": "PACT",
+                "location": "kraken",
+                "location_symbol": "PACT"
+            },
+            {
+                "asset": "PACK",
+                "location": "kraken",
+                "location_symbol": "PACK"
+            },
+            {
+                "asset": "SHAPE",
+                "location": "kraken",
+                "location_symbol": "SHAPE"
+            },
+            {
+                "asset": "eip155:1/erc20:0x4f2b33840227DDD0e28da8d4185D6fa07ADfed87",
+                "location": null,
+                "location_symbol": "BASED"
+            },
+            {
+                "asset": "eip155:56/erc20:0x7977BF3e7e0c954D12cdcA3E013ADAf57E0B06E0",
+                "location": null,
+                "location_symbol": "OPN"
+            },
+            {
+                "asset": "eip155:56/erc20:0x000008D2175F9AEAdDb2430c26f8A6f73c5A0000",
+                "location": "kraken",
+                "location_symbol": "UNITAS"
+            },
+            {
+                "asset": "eip155:42161/erc20:0x68731d6f14b827bbcffbebb62b19daa18de1d79c",
+                "location": "kraken",
+                "location_symbol": "IDOS"
+            },
+            {
+                "asset": "QUAI",
+                "location": "kraken",
+                "location_symbol": "QUAI"
+            },
+            {
+                "asset": "eip155:1/erc20:0x38eeb52f0771140d10c4e9a9a72349a329fe8a6a",
+                "location": "kraken",
+                "location_symbol": "APYUSD"
+            },
+            {
+                "asset": "eip155:1/erc20:0x6af487beb661ccecd1d045e9561a0dac9aa5c7db",
+                "location": "kraken",
+                "location_symbol": "DUAL"
+            },
+            {
+                "asset": "eip155:1/erc20:0x32b4d049fe4c888d2b92eecaf729f44df6b1f36e",
+                "location": null,
+                "location_symbol": "ROBO"
+            },
+            {
+                "asset": "BONZO",
+                "location": "kraken",
+                "location_symbol": "BONZO"
+            },
+            {
+                "asset": "eip155:8453/erc20:0xa4ff56ef7ef4a2cad03cfa130208c9bc1b45d293",
+                "location": "kraken",
+                "location_symbol": "SAUCE"
+            },
+            {
+                "asset": "eip155:1/erc20:0x8e4cbbcc33db6c0a18561fde1f6ba35906d4848b",
+                "location": "coinbase",
+                "location_symbol": "MEZO"
+            },
+            {
+                "asset": "eip155:1/erc20:0x9cb7a4ef0cae65b07362bc679a0b874041e3da53",
+                "location": "okx",
+                "location_symbol": "OFC"
+            },
+            {
+                "asset": "MANTRA",
+                "location": "binance",
+                "location_symbol": "MANTRA"
+            },
+            {
+                "asset": "eip155:1/erc20:0x32b4d049fe4c888d2b92eecaf729f44df6b1f36e",
+                "location": "binance",
+                "location_symbol": "ROBO"
+            },
+            {
+                "asset": "eip155:1/erc20:0x68749665FF8D2d112Fa859AA293F07A622782F38",
+                "location": "binance",
+                "location_symbol": "XAUT"
+            },
+            {
+                "asset": "eip155:1/erc20:0xfCCD6fBCa272B4cc11069402F4123b070B7838F9",
+                "location": "poloniex",
+                "location_symbol": "KIMCHI"
+            },
+            {
+                "asset": "solana/token:kLqMvUm1p4pRbxU4r8kWCTVAuWMJLtcTJqGb4b5pump",
+                "location": "poloniex",
+                "location_symbol": "BRENT"
+            },
+            {
+                "asset": "solana/token:CpP36fvZmbcDUH9tQihQZTcvH2ApwRzHh2pPojyWpump",
+                "location": "poloniex",
+                "location_symbol": "DAPANG"
+            },
+            {
+                "asset": "eip155:1/erc20:0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+                "location": "poloniex",
+                "location_symbol": "USDS"
+            },
+            {
+                "asset": "solana/token:4fSWEw2wbYEUCcMtitzmeGUfqinoafXxkhqZrA9Gpump",
+                "location": "poloniex",
+                "location_symbol": "PIGEON"
+            },
+            {
+                "asset": "eip155:56/erc20:0x3e17ee3B1895dD1A7CF993A89769C5e029584444",
+                "location": "poloniex",
+                "location_symbol": "FREEDOMOFMONEY"
+            }
+        ]
+    }
+}
