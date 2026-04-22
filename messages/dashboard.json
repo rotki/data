@@ -3,12 +3,12 @@
     "message": "Enjoying rotki? Consider",
     "message_highlight": "supporting us in",
     "action": {
-      "text": "Octant Epoch 10",
-      "url": "https://octant.app/project/10/0x9531C059098e3d194fF87FebB587aB07B30B1306"
+      "text": "Ethereum Security QF Round at Giveth",
+      "url": "https://qf.giveth.io/project/rotki?roundId=16"
     },
     "period": {
-      "start": 1767726000,
-      "end": 1768924800
+      "start": 1776956400,
+      "end": 1778835540
     }
   }
 ]

@@ -3,14 +3,14 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/main/messages/donation.svg",
-      "text": "rotki is part of Octant Epoch 10",
+      "text": "rotki is part of the Ethereum Security QF Round at Giveth",
       "action": {
         "text": "Support us here",
-        "url": "https://octant.app/project/10/0x9531C059098e3d194fF87FebB587aB07B30B1306"
+        "url": "https://qf.giveth.io/project/rotki?roundId=16"
       },
       "period": {
-        "start": 1767726000,
-        "end": 1768924800
+        "start": 1776956400,
+        "end": 1778835540
       }
     }
   ]
