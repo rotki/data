@@ -75,3 +75,19 @@ The filename has to be `dashboard.json` and have the following schema.
 - `message_highlight` is an **optional** field. It will appear in semi-bold after the messages and before the action
 - `action` is an **optional** field. If it exists it is required to have a `text` and a `url` property. Action will appear as a link, with text being the link text and url the link that will open when clicking it.
 - `period` is a **required** field. It is the period for which the message will be displayed in the application welcome area.
+
+## Converting ISO dates to epoch timestamps
+
+The `period.start` and `period.end` fields are unix epoch timestamps (seconds). To convert an ISO 8601 date to epoch:
+
+```bash
+# GNU date (Linux)
+date -u -d "2026-04-23T15:00:00Z" +%s
+# 1776956400
+
+# BSD date (macOS)
+date -u -j -f "%Y-%m-%dT%H:%M:%SZ" "2026-04-23T15:00:00Z" +%s
+
+# Reverse (epoch to ISO, useful for sanity-checking an existing entry)
+date -u -d "@1776956400" +"%Y-%m-%dT%H:%M:%SZ"
+```
