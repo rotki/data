@@ -37,6 +37,11 @@
                 "location_symbol": "BASED"
             },
             {
+                "asset": "eip155:1/erc20:0x4f2b33840227DDD0e28da8d4185D6fa07ADfed87",
+                "location": "coinbase",
+                "location_symbol": "BASED1"
+            },
+            {
                 "asset": "eip155:56/erc20:0x7977BF3e7e0c954D12cdcA3E013ADAf57E0B06E0",
                 "location": null,
                 "location_symbol": "OPN"
@@ -127,6 +132,21 @@
                 "location_symbol": "USDS"
             },
             {
+                "asset": "eip155:1/erc20:0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+                "location": "okx",
+                "location_symbol": "USDS"
+            },
+            {
+                "asset": "eip155:1/erc20:0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+                "location": "kucoin",
+                "location_symbol": "USDS"
+            },
+            {
+                "asset": "eip155:1/erc20:0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+                "location": "poloniex",
+                "location_symbol": "USDS"
+            },
+            {
                 "asset": "solana/token:4fSWEw2wbYEUCcMtitzmeGUfqinoafXxkhqZrA9Gpump",
                 "location": "poloniex",
                 "location_symbol": "PIGEON"
@@ -135,6 +155,11 @@
                 "asset": "eip155:56/erc20:0x3e17ee3B1895dD1A7CF993A89769C5e029584444",
                 "location": "poloniex",
                 "location_symbol": "FREEDOMOFMONEY"
+            },
+            {
+                "asset": "eip155:1/erc20:0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
+                "location": "binance",
+                "location_symbol": "USDSOLD"
             }
         ]
     }
