@@ -167,6 +167,11 @@
                 "location_symbol": "EDGE"
             },
             {
+                "asset": "eip155:1/erc20:0xB0076DE78Dc50581770BBa1D211dDc0aD4F2a241",
+                "location": "coinbase",
+                "location_symbol": "EDGEX"
+            },
+            {
                 "asset": "eip155:1/erc20:0x4d7078DDd6cCFED2F85dB5B7D3Ff16828d378d48",
                 "location": null,
                 "location_symbol": "AI"
@@ -210,6 +215,16 @@
                 "asset": "eip155:1/erc20:0x70BE40667385500c5da7f108a022E21B606045DD",
                 "location": "kraken",
                 "location_symbol": "ST"
+            },
+            {
+                "asset": "PROS",
+                "location": "kraken",
+                "location_symbol": "PROS"
+            },
+            {
+                "asset": "eip155:8453/erc20:0xFbC2051AE2265686a469421b2C5A2D5462FbF5eB",
+                "location": null,
+                "location_symbol": "OPG"
             }
         ]
     }
