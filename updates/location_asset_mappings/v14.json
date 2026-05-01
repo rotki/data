@@ -163,8 +163,8 @@
             },
             {
                 "asset": "eip155:1/erc20:0xB0076DE78Dc50581770BBa1D211dDc0aD4F2a241",
-                "location": "coinbase",
-                "location_symbol": "EDGEX"
+                "location": null,
+                "location_symbol": "EDGE"
             },
             {
                 "asset": "eip155:1/erc20:0x4d7078DDd6cCFED2F85dB5B7D3Ff16828d378d48",
@@ -180,6 +180,36 @@
                 "asset": "eip155:1/erc20:0xEc4ef66D4fCeEba34aBB4dE69dB391Bc5476ccc8",
                 "location": "kraken",
                 "location_symbol": "AUSDTB"
+            },
+            {
+                "asset": "eip155:42161/erc20:0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e",
+                "location": null,
+                "location_symbol": "CHIP"
+            },
+            {
+                "asset": "eip155:1/erc20:0xd8A271974E8EdAE9D7b58e3370dc1669427503F4",
+                "location": null,
+                "location_symbol": "BLEND"
+            },
+            {
+                "asset": "eip155:1/erc20:0x1D926bbE67425C9F507b9A0E8030eEdc7880BF33",
+                "location": null,
+                "location_symbol": "UP"
+            },
+            {
+                "asset": "eip155:57073/erc20:0x0200C29006150606B650577BBE7B6248F58470c1",
+                "location": null,
+                "location_symbol": "USDT0"
+            },
+            {
+                "asset": "eip155:1/erc20:0x99E980265Bf36516C442be982df1772a6cCb3233",
+                "location": null,
+                "location_symbol": "ASSET"
+            },
+            {
+                "asset": "eip155:1/erc20:0x70BE40667385500c5da7f108a022E21B606045DD",
+                "location": "kraken",
+                "location_symbol": "ST"
             }
         ]
     }
