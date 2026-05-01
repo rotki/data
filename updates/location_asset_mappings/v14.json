@@ -160,6 +160,26 @@
                 "asset": "eip155:1/erc20:0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
                 "location": "binance",
                 "location_symbol": "USDSOLD"
+            },
+            {
+                "asset": "eip155:1/erc20:0xB0076DE78Dc50581770BBa1D211dDc0aD4F2a241",
+                "location": "coinbase",
+                "location_symbol": "EDGEX"
+            },
+            {
+                "asset": "eip155:1/erc20:0x4d7078DDd6cCFED2F85dB5B7D3Ff16828d378d48",
+                "location": null,
+                "location_symbol": "AI"
+            },
+            {
+                "asset": "eip155:1/erc20:0x98A878b1Cd98131B271883B390f68D2c90674665",
+                "location": "kraken",
+                "location_symbol": "APXUSD"
+            },
+            {
+                "asset": "eip155:1/erc20:0xEc4ef66D4fCeEba34aBB4dE69dB391Bc5476ccc8",
+                "location": "kraken",
+                "location_symbol": "AUSDTB"
             }
         ]
     }
