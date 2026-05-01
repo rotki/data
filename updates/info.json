@@ -30,7 +30,7 @@
   },
   "counterparty_asset_mappings": { "latest": 1 },
   "location_unsupported_assets": {
-    "latest": 4,
+    "latest": 5,
     "limits": { "2": { "min_version": "1.38.0" } }
   }
 }
