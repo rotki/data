@@ -11,7 +11,7 @@
   "contracts": { "latest": 0 },
   "global_addressbook": { "latest": 0 },
   "accounting_rules": {
-    "latest": 10,
+    "latest": 11,
     "limits": {
       "4": { "min_version": "1.35.0" },
       "5": { "min_version": "1.38.0" },
