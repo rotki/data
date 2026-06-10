@@ -1,14 +1,14 @@
 [
   {
-    "message": "Enjoying rotki? Consider",
-    "message_highlight": "supporting us in",
+    "message": "Refer friends to rotki premium. They get a discount and you get EUR off your next payment.",
+    "message_highlight": "Share your referral code",
     "action": {
-      "text": "Ethereum Security QF Round at Giveth",
-      "url": "https://qf.giveth.io/project/rotki?roundId=16"
+      "text": "Get your code",
+      "url": "https://rotki.com/home/subscription?utm_source=cta&utm_medium=web&utm_campaign=referrals"
     },
     "period": {
-      "start": 1776956400,
-      "end": 1778835540
+      "start": 1781481600,
+      "end": 1781827199
     }
   }
 ]
