@@ -1,5 +1,17 @@
 [
   {
+    "message": "Enjoying rotki? rotki is part of",
+    "message_highlight": "Octant Epoch 12 featuring properQF",
+    "action": {
+      "text": "Donate via Octant",
+      "url": "https://octant.app"
+    },
+    "period": {
+      "start": 1781627400,
+      "end": 1782876600
+    }
+  },
+  {
     "message": "Refer friends to rotki premium. They get a discount and you get EUR off your next payment.",
     "message_highlight": "Share your referral code",
     "action": {
