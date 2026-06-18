@@ -1,0 +1,11 @@
+{
+    "location_asset_mappings": {
+        "additions": [
+            {
+                "asset": "BTT",
+                "location": null,
+                "location_symbol": "BTTC"
+            }
+        ]
+    }
+}
