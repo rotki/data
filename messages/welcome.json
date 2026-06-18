@@ -3,14 +3,27 @@
     {
       "header": "Enjoying rotki?",
       "icon": "https://raw.githubusercontent.com/rotki/data/main/messages/donation.svg",
-      "text": "rotki is part of the Ethereum Security QF Round at Giveth",
+      "text": "rotki is part of Octant Epoch 12 featuring properQF. Support us by donating to allocate funding.",
       "action": {
-        "text": "Support us here",
-        "url": "https://qf.giveth.io/project/rotki?roundId=16"
+        "text": "Donate via Octant",
+        "url": "https://octant.app"
       },
       "period": {
-        "start": 1776956400,
-        "end": 1778835540
+        "start": 1781627400,
+        "end": 1782876600
+      }
+    },
+    {
+      "header": "Refer friends to rotki premium",
+      "icon": "https://raw.githubusercontent.com/rotki/data/main/messages/bird.svg",
+      "text": "Share your referral code with friends. They get a discount on their first payment and you get EUR off your next payment.",
+      "action": {
+        "text": "Get your code",
+        "url": "https://rotki.com/home/subscription?utm_source=cta&utm_medium=web&utm_campaign=referrals"
+      },
+      "period": {
+        "start": 1781100579,
+        "end": 1781827199
       }
     }
   ]
