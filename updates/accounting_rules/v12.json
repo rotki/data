@@ -17,6 +17,24 @@
           "count_entire_amount_spend": true,
           "count_cost_basis_pnl": true,
           "accounting_treatment": null
+      },
+      {
+	  "event_type": "spend",
+	  "event_subtype": "bridge",
+	  "counterparty": null,
+	  "taxable": true,
+	  "count_entire_amount_spend": true,
+	  "count_cost_basis_pnl": true,
+	  "accounting_treatment": null
+      },
+      {
+	  "event_type": "receive",
+	  "event_subtype": "bridge",
+	  "counterparty": null,
+	  "taxable": true,
+	  "count_entire_amount_spend": true,
+	  "count_cost_basis_pnl": true,
+	  "accounting_treatment": null
       }
   ]
 }
