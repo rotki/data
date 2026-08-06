@@ -775,7 +775,30 @@
           "asset": "SN3",
           "location": "kucoin",
           "location_symbol": "SN3"
-      }
+      },
+      {"asset": "eip155:1/erc20:0x38EEb52F0771140d10c4E9A9a72349A329Fe8a6A", "location": "kraken", "location_symbol": "APYUSD"},
+      {"asset": "eip155:1/erc20:0x5732046A883704404F284Ce41FfADd5b007FD668", "location": "kucoin", "location_symbol": "BLZ"},
+      {"asset": "eip155:1/erc20:0x2620638EDA99F9e7E902Ea24a285456EE9438861", "location": "kraken", "location_symbol": "CSM"},
+      {"asset": "eip155:1/erc20:0x2aeAbde1aB736c59E9A19BeD67681869eEF39526", "location": "kraken", "location_symbol": "DOVU"},
+      {"asset": "eip155:1/erc20:0x6aF487BEb661CCeCD1D045E9561A0dAC9AA5c7db", "location": "kraken", "location_symbol": "DUAL"},
+      {"asset": "eip155:56/erc20:0x2dfF88A56767223A5529eA5960Da7A3F5f766406", "location": "okx", "location_symbol": "ID"},
+      {"asset": "eip155:42161/erc20:0x68731d6F14B827bBCfFbEBb62b19Daa18de1d79c", "location": "kraken", "location_symbol": "IDOS"},
+      {"asset": "eip155:1/erc20:0x8e4cbBcc33dB6c0a18561fDE1F6bA35906d4848b", "location": "coinbase", "location_symbol": "MEZO"},
+      {"asset": "eip155:1/erc20:0x8e4cbBcc33dB6c0a18561fDE1F6bA35906d4848b", "location": "kraken", "location_symbol": "MEZO"},
+      {"asset": "eip155:1/erc20:0x38e382F74dfb84608F3C1F10187f6bEf5951DE93", "location": "kucoin", "location_symbol": "MUBI"},
+      {"asset": "eip155:1/erc20:0x38e382F74dfb84608F3C1F10187f6bEf5951DE93", "location": "poloniex", "location_symbol": "MUBI"},
+      {"asset": "eip155:1/erc20:0x52498F8d9791736f1D6398fE95ba3BD868114d10", "location": "kucoin", "location_symbol": "NTVRK"},
+      {"asset": "eip155:1/erc20:0x9CB7A4EF0cAE65B07362bc679a0B874041E3da53", "location": "okx", "location_symbol": "OFC"},
+      {"asset": "eip155:1/erc20:0x32b4d049fE4c888D2b92eEcaf729F44DF6B1F36E", "location": null, "location_symbol": "ROBO"},
+      {"asset": "eip155:1/erc20:0x32b4d049fE4c888D2b92eEcaf729F44DF6B1F36E", "location": "binance", "location_symbol": "ROBO"},
+      {"asset": "eip155:8453/erc20:0xA4FF56eF7Ef4a2CaD03cFa130208C9BC1b45d293", "location": "kraken", "location_symbol": "SAUCE"},
+      {"asset": "eip155:1/erc20:0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0", "location": "coinbase", "location_symbol": "TRB"},
+      {"asset": "eip155:1/erc20:0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0", "location": "kucoin", "location_symbol": "TRB"},
+      {"asset": "eip155:1/erc20:0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624", "location": "kucoin", "location_symbol": "VANRY"},
+      {"asset": "eip155:10/erc20:0x3c8B650257cFb5f272f799F5e2b4e65093a11a05", "location": "okx", "location_symbol": "VELODROME"}
+    ],
+    "deletions": [
+      {"location": "kraken", "location_symbol": "APYUSD"}, {"location": "kucoin", "location_symbol": "BLZ"}, {"location": "kraken", "location_symbol": "CSM"}, {"location": "kraken", "location_symbol": "DOVU"}, {"location": "kraken", "location_symbol": "DUAL"}, {"location": "okx", "location_symbol": "ID"}, {"location": "kraken", "location_symbol": "IDOS"}, {"location": "coinbase", "location_symbol": "MEZO"}, {"location": "kraken", "location_symbol": "MEZO"}, {"location": "kucoin", "location_symbol": "MUBI"}, {"location": "poloniex", "location_symbol": "MUBI"}, {"location": "kucoin", "location_symbol": "NTVRK"}, {"location": "okx", "location_symbol": "OFC"}, {"location": null, "location_symbol": "ROBO"}, {"location": "binance", "location_symbol": "ROBO"}, {"location": "kraken", "location_symbol": "SAUCE"}, {"location": "coinbase", "location_symbol": "TRB"}, {"location": "kucoin", "location_symbol": "TRB"}, {"location": "kucoin", "location_symbol": "VANRY"}, {"location": "okx", "location_symbol": "VELODROME"}
     ]
   }
 }
