@@ -1,0 +1,596 @@
+{
+  "rpc_nodes": [
+    {
+      "name": "PublicNode",
+      "endpoint": "https://ethereum-rpc.publicnode.com",
+      "weight": 0.111,
+      "owned": false,
+      "active": true,
+      "blockchain": "ETH"
+    },
+    {
+      "name": "dRPC",
+      "endpoint": "https://eth.drpc.org",
+      "weight": 0.111,
+      "owned": false,
+      "active": true,
+      "blockchain": "ETH"
+    },
+    {
+      "name": "0xRPC",
+      "endpoint": "https://0xrpc.io/eth",
+      "weight": 0.111,
+      "owned": false,
+      "active": true,
+      "blockchain": "ETH"
+    },
+    {
+      "name": "BlockRazor",
+      "endpoint": "https://eth.blockrazor.xyz",
+      "weight": 0.111,
+      "owned": false,
+      "active": true,
+      "blockchain": "ETH"
+    },
+    {
+      "name": "Pocket",
+      "endpoint": "https://eth.api.pocket.network",
+      "weight": 0.111,
+      "owned": false,
+      "active": true,
+      "blockchain": "ETH"
+    },
+    {
+      "name": "Lava",
+      "endpoint": "https://eth1.lava.build",
+      "weight": 0.111,
+      "owned": false,
+      "active": true,
+      "blockchain": "ETH"
+    },
+    {
+      "name": "Nodies",
+      "endpoint": "https://ethereum-public.nodies.app",
+      "weight": 0.111,
+      "owned": false,
+      "active": true,
+      "blockchain": "ETH"
+    },
+    {
+      "name": "BlockPi",
+      "endpoint": "https://ethereum.public.blockpi.network/v1/rpc/public",
+      "weight": 0.111,
+      "owned": false,
+      "active": true,
+      "blockchain": "ETH"
+    },
+    {
+      "name": "Sentio",
+      "endpoint": "https://mainnet.rpc.sentio.xyz",
+      "weight": 0.112,
+      "owned": false,
+      "active": true,
+      "blockchain": "ETH"
+    },
+    {
+      "name": "Optimism Official",
+      "endpoint": "https://mainnet.optimism.io",
+      "weight": 0.125,
+      "owned": false,
+      "active": true,
+      "blockchain": "OPTIMISM"
+    },
+    {
+      "name": "dRPC",
+      "endpoint": "https://optimism.drpc.org",
+      "weight": 0.125,
+      "owned": false,
+      "active": true,
+      "blockchain": "OPTIMISM"
+    },
+    {
+      "name": "PublicNode",
+      "endpoint": "https://optimism-rpc.publicnode.com",
+      "weight": 0.125,
+      "owned": false,
+      "active": true,
+      "blockchain": "OPTIMISM"
+    },
+    {
+      "name": "Pocket",
+      "endpoint": "https://op.api.pocket.network",
+      "weight": 0.125,
+      "owned": false,
+      "active": true,
+      "blockchain": "OPTIMISM"
+    },
+    {
+      "name": "Nodies",
+      "endpoint": "https://optimism-public.nodies.app",
+      "weight": 0.125,
+      "owned": false,
+      "active": true,
+      "blockchain": "OPTIMISM"
+    },
+    {
+      "name": "BlockPi",
+      "endpoint": "https://optimism.public.blockpi.network/v1/rpc/public",
+      "weight": 0.125,
+      "owned": false,
+      "active": true,
+      "blockchain": "OPTIMISM"
+    },
+    {
+      "name": "Fastnode",
+      "endpoint": "https://public-op-mainnet.fastnode.io",
+      "weight": 0.125,
+      "owned": false,
+      "active": true,
+      "blockchain": "OPTIMISM"
+    },
+    {
+      "name": "Sentio",
+      "endpoint": "https://optimism.rpc.sentio.xyz",
+      "weight": 0.125,
+      "owned": false,
+      "active": true,
+      "blockchain": "OPTIMISM"
+    },
+    {
+      "name": "dRPC",
+      "endpoint": "https://polygon.drpc.org",
+      "weight": 0.2,
+      "owned": false,
+      "active": true,
+      "blockchain": "POLYGON_POS"
+    },
+    {
+      "name": "PublicNode",
+      "endpoint": "https://polygon-bor-rpc.publicnode.com",
+      "weight": 0.2,
+      "owned": false,
+      "active": true,
+      "blockchain": "POLYGON_POS"
+    },
+    {
+      "name": "Pocket",
+      "endpoint": "https://poly.api.pocket.network",
+      "weight": 0.2,
+      "owned": false,
+      "active": true,
+      "blockchain": "POLYGON_POS"
+    },
+    {
+      "name": "Lava",
+      "endpoint": "https://polygon.lava.build",
+      "weight": 0.2,
+      "owned": false,
+      "active": true,
+      "blockchain": "POLYGON_POS"
+    },
+    {
+      "name": "Sentio",
+      "endpoint": "https://matic.rpc.sentio.xyz",
+      "weight": 0.2,
+      "owned": false,
+      "active": true,
+      "blockchain": "POLYGON_POS"
+    },
+    {
+      "name": "Arbitrum Official",
+      "endpoint": "https://arb1.arbitrum.io/rpc",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "ARBITRUM_ONE"
+    },
+    {
+      "name": "PublicNode",
+      "endpoint": "https://arbitrum-one-rpc.publicnode.com",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "ARBITRUM_ONE"
+    },
+    {
+      "name": "BlastAPI",
+      "endpoint": "https://arbitrum-one.public.blastapi.io",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "ARBITRUM_ONE"
+    },
+    {
+      "name": "Pocket",
+      "endpoint": "https://arb-one.api.pocket.network",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "ARBITRUM_ONE"
+    },
+    {
+      "name": "Lava",
+      "endpoint": "https://arb1.lava.build",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "ARBITRUM_ONE"
+    },
+    {
+      "name": "Nodies",
+      "endpoint": "https://arbitrum-one-public.nodies.app",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "ARBITRUM_ONE"
+    },
+    {
+      "name": "Sentio",
+      "endpoint": "https://arbitrum-one.rpc.sentio.xyz",
+      "weight": 0.148,
+      "owned": false,
+      "active": true,
+      "blockchain": "ARBITRUM_ONE"
+    },
+    {
+      "name": "PublicNode",
+      "endpoint": "https://base-rpc.publicnode.com",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "BASE"
+    },
+    {
+      "name": "BlastAPI",
+      "endpoint": "https://base-mainnet.public.blastapi.io",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "BASE"
+    },
+    {
+      "name": "dRPC",
+      "endpoint": "https://base.drpc.org",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "BASE"
+    },
+    {
+      "name": "Pocket",
+      "endpoint": "https://base.api.pocket.network",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "BASE"
+    },
+    {
+      "name": "Lava",
+      "endpoint": "https://base.lava.build",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "BASE"
+    },
+    {
+      "name": "Nodies",
+      "endpoint": "https://base-public.nodies.app",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "BASE"
+    },
+    {
+      "name": "Sentio",
+      "endpoint": "https://base.rpc.sentio.xyz",
+      "weight": 0.148,
+      "owned": false,
+      "active": true,
+      "blockchain": "BASE"
+    },
+    {
+      "name": "dRPC",
+      "endpoint": "https://gnosis.drpc.org",
+      "weight": 0.166,
+      "owned": false,
+      "active": true,
+      "blockchain": "GNOSIS"
+    },
+    {
+      "name": "PublicNode",
+      "endpoint": "https://gnosis-rpc.publicnode.com",
+      "weight": 0.166,
+      "owned": false,
+      "active": true,
+      "blockchain": "GNOSIS"
+    },
+    {
+      "name": "Gnosis Official",
+      "endpoint": "https://rpc.gnosischain.com",
+      "weight": 0.166,
+      "owned": false,
+      "active": true,
+      "blockchain": "GNOSIS"
+    },
+    {
+      "name": "Pocket",
+      "endpoint": "https://gnosis.api.pocket.network",
+      "weight": 0.166,
+      "owned": false,
+      "active": true,
+      "blockchain": "GNOSIS"
+    },
+    {
+      "name": "Fastnode",
+      "endpoint": "https://public-gno-mainnet.fastnode.io",
+      "weight": 0.166,
+      "owned": false,
+      "active": true,
+      "blockchain": "GNOSIS"
+    },
+    {
+      "name": "Gateway",
+      "endpoint": "https://rpc.gnosis.gateway.fm",
+      "weight": 0.17,
+      "owned": false,
+      "active": true,
+      "blockchain": "GNOSIS"
+    },
+    {
+      "name": "Scroll Official",
+      "endpoint": "https://rpc.scroll.io",
+      "weight": 0.166,
+      "owned": false,
+      "active": true,
+      "blockchain": "SCROLL"
+    },
+    {
+      "name": "PublicNode",
+      "endpoint": "https://scroll-rpc.publicnode.com",
+      "weight": 0.166,
+      "owned": false,
+      "active": true,
+      "blockchain": "SCROLL"
+    },
+    {
+      "name": "dRPC",
+      "endpoint": "https://scroll.drpc.org",
+      "weight": 0.166,
+      "owned": false,
+      "active": true,
+      "blockchain": "SCROLL"
+    },
+    {
+      "name": "Pocket",
+      "endpoint": "https://scroll.api.pocket.network",
+      "weight": 0.166,
+      "owned": false,
+      "active": true,
+      "blockchain": "SCROLL"
+    },
+    {
+      "name": "Nodies",
+      "endpoint": "https://scroll-public.nodies.app",
+      "weight": 0.166,
+      "owned": false,
+      "active": true,
+      "blockchain": "SCROLL"
+    },
+    {
+      "name": "Sentio",
+      "endpoint": "https://scroll.rpc.sentio.xyz",
+      "weight": 0.17,
+      "owned": false,
+      "active": true,
+      "blockchain": "SCROLL"
+    },
+    {
+      "name": "BlastAPI",
+      "endpoint": "https://bsc-mainnet.public.blastapi.io",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "BINANCE_SC"
+    },
+    {
+      "name": "PublicNode",
+      "endpoint": "https://bsc-rpc.publicnode.com",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "BINANCE_SC"
+    },
+    {
+      "name": "BlockRazor",
+      "endpoint": "https://bsc.blockrazor.xyz",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "BINANCE_SC"
+    },
+    {
+      "name": "Pocket",
+      "endpoint": "https://bsc.api.pocket.network",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "BINANCE_SC"
+    },
+    {
+      "name": "Fastnode",
+      "endpoint": "https://public-bsc-mainnet.fastnode.io",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "BINANCE_SC"
+    },
+    {
+      "name": "Sentio",
+      "endpoint": "https://bsc.rpc.sentio.xyz",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "BINANCE_SC"
+    },
+    {
+      "name": "48Club",
+      "endpoint": "https://rpc-bsc.48.club",
+      "weight": 0.148,
+      "owned": false,
+      "active": true,
+      "blockchain": "BINANCE_SC"
+    },
+    {
+      "name": "Solana.com",
+      "endpoint": "https://api.mainnet-beta.solana.com",
+      "weight": 0.2,
+      "owned": false,
+      "active": true,
+      "blockchain": "SOLANA"
+    },
+    {
+      "name": "PublicNode",
+      "endpoint": "https://solana-rpc.publicnode.com",
+      "weight": 0.2,
+      "owned": false,
+      "active": true,
+      "blockchain": "SOLANA"
+    },
+    {
+      "name": "Lava",
+      "endpoint": "https://solana.lava.build",
+      "weight": 0.2,
+      "owned": false,
+      "active": true,
+      "blockchain": "SOLANA"
+    },
+    {
+      "name": "Pocket",
+      "endpoint": "https://solana.api.pocket.network",
+      "weight": 0.2,
+      "owned": false,
+      "active": true,
+      "blockchain": "SOLANA"
+    },
+    {
+      "name": "SolanaTracker",
+      "endpoint": "https://rpc.solanatracker.io/public",
+      "weight": 0.2,
+      "owned": false,
+      "active": true,
+      "blockchain": "SOLANA"
+    },
+    {
+      "name": "Hyperliquid Official",
+      "endpoint": "https://rpc.hyperliquid.xyz/evm",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "HYPERLIQUID"
+    },
+    {
+      "name": "dRPC",
+      "endpoint": "https://hyperliquid.drpc.org",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "HYPERLIQUID"
+    },
+    {
+      "name": "Hypurrscan",
+      "endpoint": "https://rpc.hypurrscan.io",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "HYPERLIQUID"
+    },
+    {
+      "name": "Stakely",
+      "endpoint": "https://hyperliquid-json-rpc.stakely.io",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "HYPERLIQUID"
+    },
+    {
+      "name": "Sentio",
+      "endpoint": "https://hyperevm.rpc.sentio.xyz",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "HYPERLIQUID"
+    },
+    {
+      "name": "Hyperlend",
+      "endpoint": "https://rpc.hyperlend.finance",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "HYPERLIQUID"
+    },
+    {
+      "name": "bloXroute",
+      "endpoint": "https://hyperliquid.rpc.blxrbdn.com",
+      "weight": 0.148,
+      "owned": false,
+      "active": true,
+      "blockchain": "HYPERLIQUID"
+    },
+    {
+      "name": "Monad Official",
+      "endpoint": "https://rpc.monad.xyz",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "MONAD"
+    },
+    {
+      "name": "MonadInfra",
+      "endpoint": "https://rpc-mainnet.monadinfra.com",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "MONAD"
+    },
+    {
+      "name": "Monad RPC 1",
+      "endpoint": "https://rpc1.monad.xyz",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "MONAD"
+    },
+    {
+      "name": "SpiderNode",
+      "endpoint": "https://monad-mainnet-rpc.spidernode.net",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "MONAD"
+    },
+    {
+      "name": "Huginn",
+      "endpoint": "https://monad-rpc.huginn.tech",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "MONAD"
+    },
+    {
+      "name": "Sentio",
+      "endpoint": "https://monad-mainnet.rpc.sentio.xyz",
+      "weight": 0.142,
+      "owned": false,
+      "active": true,
+      "blockchain": "MONAD"
+    },
+    {
+      "name": "OriginStake",
+      "endpoint": "https://infra.originstake.com/monad/evm",
+      "weight": 0.148,
+      "owned": false,
+      "active": true,
+      "blockchain": "MONAD"
+    }
+  ]
+}

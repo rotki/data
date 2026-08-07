@@ -8,13 +8,18 @@ import urllib3
 import warnings
 
 
-def validate_rpc(rpc: dict[str, Any], method: str, validator: Callable[[dict[str, Any]], None]) -> None:
+def validate_rpc(
+        rpc: dict[str, Any],
+        method: str,
+        validator: Callable[[dict[str, Any]], bool],
+        params: list[Any] | None = None,
+) -> None:
     """Validate RPC endpoint with specified method and validation function"""
     try:
         resp = urllib3.request(
             method='POST',
             url=(url := rpc['endpoint']),
-            json={'method': method, 'params': [], 'id': 1, 'jsonrpc': '2.0'},
+            json={'method': method, 'params': params or [], 'id': 1, 'jsonrpc': '2.0'},
             retries=1,
             timeout=5,
         )
@@ -46,6 +51,8 @@ def test_nodes() -> None:
         56: 'BINANCE_SC',
         100: 'GNOSIS',
         137: 'POLYGON_POS',
+        143: 'MONAD',
+        999: 'HYPERLIQUID',
         8453: 'BASE',
         42161: 'ARBITRUM_ONE',
         534352: 'SCROLL',
@@ -71,6 +78,15 @@ def test_nodes() -> None:
                             rpc=rpc,
                             method='eth_chainId',
                             validator=lambda resp: evm_chains_mapping[int(resp['result'], 0)] == rpc['blockchain'],
+                        )
+                        validate_rpc(
+                            rpc=rpc,
+                            method='eth_call',
+                            params=[{
+                                'data': '0x1234',
+                                'to': '0x0000000000000000000000000000000000000004',
+                            }, 'latest'],
+                            validator=lambda resp: resp['result'] == '0x1234',
                         )
 
         assert all(weight == 1 for weight in per_chain_weight.values()), f'Weights do not add for v{i}: {per_chain_weight=}'
