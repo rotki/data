@@ -32,9 +32,9 @@
       "16": { "min_version": "1.44.0" }
     }
   },
-  "counterparty_asset_mappings": { "latest": 1 },
+  "counterparty_asset_mappings": { "latest": 2 },
   "location_unsupported_assets": {
-    "latest": 5,
+    "latest": 7,
     "limits": { "2": { "min_version": "1.38.0" } }
   }
 }
