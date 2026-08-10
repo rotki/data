@@ -1,0 +1,11 @@
+{
+  "counterparty_asset_mappings": {
+    "additions": [
+      {
+        "asset": "hyperc:0x6781b92b6ea5d8ed37d275eb201f64af",
+        "counterparty": "hyperliquid",
+        "counterparty_symbol": "MAX"
+      }
+    ]
+  }
+}

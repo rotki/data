@@ -795,7 +795,277 @@
       {"asset": "eip155:1/erc20:0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0", "location": "coinbase", "location_symbol": "TRB"},
       {"asset": "eip155:1/erc20:0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0", "location": "kucoin", "location_symbol": "TRB"},
       {"asset": "eip155:1/erc20:0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624", "location": "kucoin", "location_symbol": "VANRY"},
-      {"asset": "eip155:10/erc20:0x3c8B650257cFb5f272f799F5e2b4e65093a11a05", "location": "okx", "location_symbol": "VELODROME"}
+      {"asset": "eip155:10/erc20:0x3c8B650257cFb5f272f799F5e2b4e65093a11a05", "location": "okx", "location_symbol": "VELODROME"},
+      {
+            "asset": "eip155:1/erc20:0xB0fFa8000886e57F86dd5264b9582b2Ad87b2b91",
+            "location": "bitstamp",
+            "location_symbol": "W"
+      },
+      {
+            "asset": "eip155:1/erc20:0xEd04915c23f00A313a544955524EB7DBD823143d",
+            "location": "poloniex",
+            "location_symbol": "ACH1"
+      },
+      {
+            "asset": "eip155:1/erc20:0xf280B16EF293D8e534e370794ef26bF312694126",
+            "location": "poloniex",
+            "location_symbol": "ASTEROID"
+      },
+      {
+            "asset": "eip155:1/erc20:0xAFF2565091E7207191dBe340B8528D02FA78d044",
+            "location": "poloniex",
+            "location_symbol": "ASTEROIDETH"
+      },
+      {
+            "asset": "eip155:1/erc20:0x99991c6AAbba5a096f24f250b73580F5179b9999",
+            "location": "poloniex",
+            "location_symbol": "CAP"
+      },
+      {
+            "asset": "solana/token:6NwarBvDkXhByqVp2Qkq5i9XbtA2B3Bwe8SWGu9vpump",
+            "location": "poloniex",
+            "location_symbol": "CUPSEYSOL"
+      },
+      {
+            "asset": "eip155:56/erc20:0x7A848a5A8169aa6a2f603D056A749f924F504444",
+            "location": "poloniex",
+            "location_symbol": "CZBSC"
+      },
+      {
+            "asset": "eip155:1/erc20:0xC7e4254a72169fdf7a2E080462724f2F642dAF7e",
+            "location": "poloniex",
+            "location_symbol": "ELIEN"
+      },
+      {
+            "asset": "eip155:1/erc20:0x69420E3A3aa9E17Dea102Bb3a9b3B73dcDDB9528",
+            "location": "poloniex",
+            "location_symbol": "ELONETH"
+      },
+      {
+            "asset": "eip155:1/erc20:0x345aD3dd40c5a544d4f5459f75efc475FE96C5e1",
+            "location": "poloniex",
+            "location_symbol": "ETHLABS"
+      },
+      {
+            "asset": "eip155:1/erc20:0xcE82213C4bAE42e1c04880EA64A53eEf73E195dE",
+            "location": "poloniex",
+            "location_symbol": "FLORK"
+      },
+      {
+            "asset": "eip155:1/erc20:0x825459139C897D769339f295E962396C4F9E4A4D",
+            "location": "poloniex",
+            "location_symbol": "GAMEETH"
+      },
+      {
+            "asset": "eip155:56/erc20:0x9DbeF6496134C151b9F9855cc5a1Ee77f0324444",
+            "location": "poloniex",
+            "location_symbol": "GPUBSC"
+      },
+      {
+            "asset": "eip155:1/erc20:0x2371e134e3455e0593363cBF89d3b6cf53740618",
+            "location": "poloniex",
+            "location_symbol": "GTWETH"
+      },
+      {
+            "asset": "solana/token:2tXpgu2DLTsPUf9zFmuZmA4xrYxXKBTpVq9wAM7hzs9y",
+            "location": "poloniex",
+            "location_symbol": "HANTA"
+      },
+      {
+            "asset": "eip155:56/erc20:0x57aeDac0cCaafDEc0ec62FC4fBFd8252735affff",
+            "location": "poloniex",
+            "location_symbol": "JACKET"
+      },
+      {
+            "asset": "solana/token:5Kc2PwwPkyvRXC8wHgkVfKwxrMGktRuDpwTgAy1bpump",
+            "location": "poloniex",
+            "location_symbol": "LAD"
+      },
+      {
+            "asset": "solana/token:DdPrHYqM8Ueovnk9kAnAgoGhswkuaTqmxcoZzU3Zpump",
+            "location": "poloniex",
+            "location_symbol": "MANLET"
+      },
+      {
+            "asset": "eip155:8453/erc20:0xeD664536023d8E4b1640C394777D34aBAFF1dF8F",
+            "location": "poloniex",
+            "location_symbol": "POD"
+      },
+      {
+            "asset": "solana/token:7HgfXftRBBqsYtAEYcqjGLQrNJLL6Tww9ek4rE3Apump",
+            "location": "poloniex",
+            "location_symbol": "RKC"
+      },
+      {
+            "asset": "eip155:1/erc20:0x829f4B62EEBE12Af653b4dD4fFc480966F7d7f09",
+            "location": "poloniex",
+            "location_symbol": "SATOETH"
+      },
+      {
+            "asset": "eip155:8453/erc20:0xBEEFE94c8aD530842bfE7d8B397938fFc1cb83b2",
+            "location": "poloniex",
+            "location_symbol": "STEAKUSDC"
+      },
+      {
+            "asset": "eip155:56/erc20:0xa4390B901a63641c92327E5793b45FCB46954444",
+            "location": "poloniex",
+            "location_symbol": "TCC"
+      },
+      {
+            "asset": "eip155:56/erc20:0xae5A409773b9A7Dd0Ae94ff437Ac213d8faFBa01",
+            "location": "poloniex",
+            "location_symbol": "UPS"
+      },
+      {
+            "asset": "eip155:1/erc20:0x07E0EDf8ce600FB51d44F51E3348D77D67F298ae",
+            "location": "poloniex",
+            "location_symbol": "XRP8"
+      },
+      {
+            "asset": "eip155:56/erc20:0xB2aCF3AE051c7F0B0b8DE90CbB4eD99312574444",
+            "location": "poloniex",
+            "location_symbol": "\u5171\u5efa"
+      },
+      {
+            "asset": "eip155:56/erc20:0xe9337Dde3dd9e97f1f45A56412767ce5098E7777",
+            "location": "poloniex",
+            "location_symbol": "\u5e01\u6709"
+      },
+      {
+            "asset": "HYPE",
+            "location": "kraken",
+            "location_symbol": "HYPER.CORE"
+      },
+      {
+            "asset": "eip155:1/erc20:0x99991c6AAbba5a096f24f250b73580F5179b9999",
+            "location": "bybit",
+            "location_symbol": "CAP"
+      },
+      {
+            "asset": "eip155:1/erc20:0x99991c6AAbba5a096f24f250b73580F5179b9999",
+            "location": "coinbase",
+            "location_symbol": "CAP"
+      },
+      {
+            "asset": "eip155:1/erc20:0x99991c6AAbba5a096f24f250b73580F5179b9999",
+            "location": "kraken",
+            "location_symbol": "CAP"
+      },
+      {
+            "asset": "eip155:1/erc20:0x99991c6AAbba5a096f24f250b73580F5179b9999",
+            "location": "kucoin",
+            "location_symbol": "CAP"
+      },
+      {
+            "asset": "eip155:1/erc20:0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+            "location": "bybit",
+            "location_symbol": "USDS"
+      },
+      {
+            "asset": "eip155:4663/erc20:0x56910D4409F3a0C78C64DD8D0545FF0705389870",
+            "location": "poloniex",
+            "location_symbol": "INDEX"
+      },
+      {
+            "asset": "eip155:1/erc20:0xDB6Ba5D510F114F9b2eA08BEa7d30e32eEe33411",
+            "location": "bybit",
+            "location_symbol": "BSB"
+      },
+      {
+            "asset": "eip155:56/erc20:0x1F12B85aAC097E43Aa1555b2881E98a51090e9A6",
+            "location": "binance",
+            "location_symbol": "GENIUS"
+      },
+      {
+            "asset": "eip155:56/erc20:0x1F12B85aAC097E43Aa1555b2881E98a51090e9A6",
+            "location": "kraken",
+            "location_symbol": "GENIUS"
+      },
+      {
+            "asset": "eip155:56/erc20:0x1F12B85aAC097E43Aa1555b2881E98a51090e9A6",
+            "location": "kucoin",
+            "location_symbol": "GENIUS"
+      },
+      {
+            "asset": "eip155:56/erc20:0x8fce7206E3043DD360F115AFa956EE31b90B787C",
+            "location": "kucoin",
+            "location_symbol": "STAR"
+      },
+      {
+            "asset": "eip155:1/erc20:0x7deF4573628021500c3207994935a51801fB56bE",
+            "location": "kucoin",
+            "location_symbol": "AKITA"
+      },
+      {
+            "asset": "eip155:1/erc20:0xD3F58365428F9325d13787a405f846374a58A0fB",
+            "location": "kucoin",
+            "location_symbol": "NOON"
+      },
+      {
+            "asset": "eip155:56/erc20:0x1282493EdE6a22753D45Cb2C0fdBd8D35E97555a",
+            "location": "binance",
+            "location_symbol": "ALABB"
+      },
+      {
+            "asset": "eip155:56/erc20:0xFbfB4f79cFB4C34DCd7C82Bdee5A0Fa199B2e7f9",
+            "location": "binance",
+            "location_symbol": "ASMLB"
+      },
+      {
+            "asset": "eip155:56/erc20:0x58b6F5fEeb8436489F5bf4a56619092B1FA8E777",
+            "location": "binance",
+            "location_symbol": "ASTSB"
+      },
+      {
+            "asset": "eip155:56/erc20:0x3548Da95a9eFFE481e8604664d75e95821e557F5",
+            "location": "binance",
+            "location_symbol": "BMNRB"
+      },
+      {
+            "asset": "eip155:56/erc20:0x5131859a059B2446AbeeFe0f5d313b3c54Ff3D36",
+            "location": "binance",
+            "location_symbol": "COHRB"
+      },
+      {
+            "asset": "eip155:56/erc20:0x6E7D451F9D30327D32020f116Fa79C23B24E9c8D",
+            "location": "binance",
+            "location_symbol": "CRDOB"
+      },
+      {
+            "asset": "eip155:56/erc20:0xfdc2F2caB77b28f7Ef6c819A404706cfA9bCA33b",
+            "location": "binance",
+            "location_symbol": "IRENB"
+      },
+      {
+            "asset": "eip155:56/erc20:0xD6829Ea836b6FA224d099D40E54B31262f874631",
+            "location": "binance",
+            "location_symbol": "NFLXB"
+      },
+      {
+            "asset": "eip155:56/erc20:0x387dEa1D2772D716d081A29116f3EfFA0fFE1F36",
+            "location": "binance",
+            "location_symbol": "SMCIB"
+      },
+      {
+            "asset": "eip155:56/erc20:0xcd345D4450e04cDeF422A60b97D9265d24e0bcEE",
+            "location": "binance",
+            "location_symbol": "USARB"
+      },
+      {
+            "asset": "FB-2",
+            "location": "kraken",
+            "location_symbol": "WFB"
+      },
+      {
+            "asset": "eip155:4663/erc20:0x2E8c31162b855A2ffa90F6F8634643Ad6F111e18",
+            "location": "poloniex",
+            "location_symbol": "AIROB"
+      },
+      {
+            "asset": "eip155:4663/erc20:0xc2362AfF2A2a4CC1f48cF3Dab2C4e2605eb94BA3",
+            "location": "poloniex",
+            "location_symbol": "GMEROB"
+      }
     ],
     "deletions": [
       {"location": "kraken", "location_symbol": "APYUSD"}, {"location": "kucoin", "location_symbol": "BLZ"}, {"location": "kraken", "location_symbol": "CSM"}, {"location": "kraken", "location_symbol": "DOVU"}, {"location": "kraken", "location_symbol": "DUAL"}, {"location": "okx", "location_symbol": "ID"}, {"location": "kraken", "location_symbol": "IDOS"}, {"location": "coinbase", "location_symbol": "MEZO"}, {"location": "kraken", "location_symbol": "MEZO"}, {"location": "kucoin", "location_symbol": "MUBI"}, {"location": "poloniex", "location_symbol": "MUBI"}, {"location": "kucoin", "location_symbol": "NTVRK"}, {"location": "okx", "location_symbol": "OFC"}, {"location": null, "location_symbol": "ROBO"}, {"location": "binance", "location_symbol": "ROBO"}, {"location": "kraken", "location_symbol": "SAUCE"}, {"location": "coinbase", "location_symbol": "TRB"}, {"location": "kucoin", "location_symbol": "TRB"}, {"location": "kucoin", "location_symbol": "VANRY"}, {"location": "okx", "location_symbol": "VELODROME"}
