@@ -52,6 +52,7 @@ def test_nodes() -> None:
         100: 'GNOSIS',
         137: 'POLYGON_POS',
         143: 'MONAD',
+        146: 'SONIC',
         999: 'HYPERLIQUID',
         8453: 'BASE',
         42161: 'ARBITRUM_ONE',
