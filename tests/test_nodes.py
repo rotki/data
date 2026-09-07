@@ -53,6 +53,7 @@ def test_nodes() -> None:
         137: 'POLYGON_POS',
         143: 'MONAD',
         146: 'SONIC',
+        4663: 'ROBINHOOD',
         999: 'HYPERLIQUID',
         8453: 'BASE',
         42161: 'ARBITRUM_ONE',
