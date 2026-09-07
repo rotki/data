@@ -54,6 +54,7 @@ def test_nodes() -> None:
         143: 'MONAD',
         146: 'SONIC',
         4663: 'ROBINHOOD',
+        57073: 'INK',
         999: 'HYPERLIQUID',
         8453: 'BASE',
         42161: 'ARBITRUM_ONE',
