@@ -1,0 +1,8 @@
+{
+  "location_asset_mappings": {
+    "additions": [
+      {"asset": "eip155:1/erc20:0xD687759f35bb747A29246a4b9495C8f52C49E00C", "location": "independentreserve", "location_symbol": "AUDX"}
+    ],
+    "deletions": []
+  }
+}
