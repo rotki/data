@@ -24,7 +24,7 @@
     }
   },
   "location_asset_mappings": {
-    "latest": 16,
+    "latest": 17,
     "limits": {
       "9": { "min_version": "1.38.0" },
       "10": { "min_version": "1.39.0" },
