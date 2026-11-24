@@ -1,17 +1,17 @@
 {
   "messages": [
     {
-      "header": "Enjoying rotki?",
-      "icon": "https://raw.githubusercontent.com/rotki/data/main/messages/donation.svg",
-      "text": "rotki is part of Octant Epoch 12 featuring properQF. Support us by donating to allocate funding.",
-      "action": {
-        "text": "Donate via Octant",
-        "url": "https://epoch.octant.app/rounds/0xf9de7a09aebbbacba9a9f4a32874463b2ddc1b8e6b4f6b65014febacbfff13f5/project/10"
-      },
-      "period": {
-        "start": 1781627400,
-        "end": 1782876600
-      }
+        "header": "rotki premium is 20% off for new users",
+        "icon": "https://raw.githubusercontent.com/rotki/data/main/messages/bird.svg",
+        "text": "This discount code is valid until the end (UTC) of Sunday 06/12/2026. \nCode: ROTKICYBER26",
+        "action": {
+            "text": "Register and buy premium now",
+            "url": "https://rotki.com/products"
+        },
+        "period": {
+            "start": 1795478400,
+            "end": 1796601599
+        }
     }
   ]
 }
