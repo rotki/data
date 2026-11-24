@@ -10,6 +10,6 @@
         "start": 1795478400,
         "end": 1796601599
     },
-    "free_user_only": true
+    "target": "free"
   }
 ]
