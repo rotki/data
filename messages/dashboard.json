@@ -1,14 +1,15 @@
 [
   {
-    "message": "Enjoying rotki? rotki is part of",
-    "message_highlight": "Octant Epoch 12 featuring properQF",
+    "message": "rotki premium is 20% off for new users until the end (UTC) of Sunday 06/12/2026. Code:",
+    "message_highlight": "ROTKICYBER26",
     "action": {
-      "text": "Donate via Octant",
-      "url": "https://epoch.octant.app/rounds/0xf9de7a09aebbbacba9a9f4a32874463b2ddc1b8e6b4f6b65014febacbfff13f5/project/10"
+        "text": "Register and buy premium now",
+        "url": "https://rotki.com/products"
     },
     "period": {
-      "start": 1781627400,
-      "end": 1782876600
-    }
+        "start": 1795478400,
+        "end": 1796601599
+    },
+    "free_user_only": true
   }
 ]
